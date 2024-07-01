@@ -4,2131 +4,291 @@ Decomposition of effect on labor market
 Group: Business Operations Specialists
 ________________
 10 Most Highly Weighted Titles:
-Title: Market Research Analysts and Marketing Specialists, Weight: 32.19
-Title: Human Resources Specialists, Weight: 10.14
-Title: Project Management Specialists, Weight: 10.04
-Title: Meeting, Convention, and Event Planners, Weight: 3.33
-Title: Compliance Officers, Weight: 2.86
-Title: Fundraisers, Weight: 2.29
-Title: Management Analysts, Weight: 1.02
-Title: Claims Adjusters, Examiners, and Investigators, Weight: 0.44
-Title: Agents and Business Managers of Artists, Performers, and Athletes, Weight: 0.4
-Title: Cost Estimators, Weight: 0.25
-Title: Logisticians, Weight: 0.25
-Title: Training and Development Specialists, Weight: 0.2
-Title: Compensation, Benefits, and Job Analysis Specialists, Weight: 0.11
-Title: Insurance Appraisers, Auto Damage, Weight: 0.11
-Title: Labor Relations Specialists, Weight: 0.11
+Title: Market Research Analysts and Marketing Specialists, Weight: 1.0
+Title: Fundraisers, Weight: 0.5
+Title: Management Analysts, Weight: 0.5
+Title: Project Management Specialists, Weight: 0.33
+Title: Human Resources Specialists, Weight: 0.17
 
 
 10 Most Highly Weighted Tasks:
-Task: Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand., Weight: 11.06
-Task: Forecast and track marketing and sales trends, analyzing collected data., Weight: 9.8
-Task: Gather data on competitors and analyze their prices, sales, and method of marketing and distribution., Weight: 3.05
-Task: Plan, schedule, or coordinate project activities to meet deadlines., Weight: 2.13
-Task: Schedule or conduct new employee orientations., Weight: 1.84
-Task: Seek and provide information to help companies determine their position in the marketplace., Weight: 1.78
-Task: Assign duties or responsibilities to project personnel., Weight: 1.71
-Task: Hire employees and process hiring-related paperwork., Weight: 1.65
-Task: Monitor industry statistics and follow trends in trade literature., Weight: 1.64
-Task: Monitor the performance of project team members to provide performance feedback., Weight: 1.54
+Task: Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand., Weight: 0.33
+Task: Forecast and track marketing and sales trends, analyzing collected data., Weight: 0.33
+Task: Analyze data gathered and develop solutions or alternative methods of proceeding., Weight: 0.17
+Task: Create or update donor databases., Weight: 0.17
+Task: Design, evaluate, recommend, and approve changes of forms and reports., Weight: 0.17
+Task: Gather and organize information on problems or procedures., Weight: 0.17
+Task: Identify and build relationships with potential donors., Weight: 0.17
+Task: Monitor industry statistics and follow trends in trade literature., Weight: 0.17
+Task: Perform searches for qualified job candidates, using sources such as computer databases, networking, Internet recruiting resources, media advertisements, job fairs, recruiting firms, or employee referrals., Weight: 0.17
+Task: Prepare and submit budget estimates, progress reports, or cost tracking reports., Weight: 0.17
 
 
 10 Example Startups:
-Startup: Mindora, Website: www.mindora.work/
-Startup: NotJustEvent, Website: notjustevent.com
-Startup: Mavera AI, Website: mavera.io
-Startup: AI Mavericks, Website: aimavericks.ai/about/
-Startup: Clous, Website: clous.app
-Startup: Thunderbit, Website: thunderbit.com/
-Startup: inQbator, Website: inqbator.in
-Startup: Simtel AI, Website: simtel.ai
-Startup: Horizon AI, Website: usehorizon.ai/
-Startup: Pacerr, Website: pacerr.co
+Startup: Vyrtual, Website: vyrtual.ai/
+Startup: NonprofitsHQ, Website: www.nonprofitshq.com
+Startup: SectorFlow AI, Website: sectorflow.ai
+Startup: ConnectFlux, Website: connectflux.ai
 
 
 *****************
 Group: Financial Specialists
 ________________
 10 Most Highly Weighted Titles:
-Title: Financial and Investment Analysts, Weight: 25.54
-Title: Personal Financial Advisors, Weight: 11.82
-Title: Appraisers and Assessors of Real Estate, Weight: 4.3
-Title: Loan Officers, Weight: 3.71
-Title: Accountants and Auditors, Weight: 3.67
-Title: Financial Risk Specialists, Weight: 3.08
-Title: Credit Analysts, Weight: 2.11
-Title: Credit Counselors, Weight: 0.5
-Title: Appraisers of Personal and Business Property, Weight: 0.49
-Title: Insurance Underwriters, Weight: 0.33
-Title: Budget Analysts, Weight: 0.25
-Title: Tax Preparers, Weight: 0.25
+Title: Loan Officers, Weight: 1.0
+Title: Financial and Investment Analysts, Weight: 0.5
+Title: Tax Preparers, Weight: 0.2
 
 
 10 Most Highly Weighted Tasks:
-Task: Inform investment decisions by analyzing financial information to forecast business, industry, or economic conditions., Weight: 5.74
-Task: Interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs., Weight: 5.59
-Task: Monitor fundamental economic, industrial, and corporate developments by analyzing information from financial publications and services, investment banking firms, government agencies, trade publications, company sources, or personal interviews., Weight: 4.03
-Task: Prepare plans of action for investment, using financial analyses., Weight: 3.02
-Task: Manage client portfolios, keeping client plans up-to-date., Weight: 2.59
-Task: Investigate available investment opportunities to determine compatibility with client financial plans., Weight: 2.38
-Task: Analyze trends in sales prices, construction costs, and rents, to assess property values or determine the accuracy of assessments., Weight: 1.47
-Task: Collect and analyze relevant data to identify real estate market trends., Weight: 1.42
-Task: Prepare or interpret for clients information, such as investment performance reports, financial document summaries, or income projections., Weight: 1.33
-Task: Create client presentations of plan details., Weight: 1.27
+Task: Analyze applicants' financial status, credit, and property evaluations to determine feasibility of granting loans., Weight: 0.33
+Task: Review and update credit and loan files., Weight: 0.33
+Task: Schedule appointments with clients., Weight: 0.2
+Task: Inform investment decisions by analyzing financial information to forecast business, industry, or economic conditions., Weight: 0.17
+Task: Interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs., Weight: 0.17
+Task: Obtain and compile copies of loan applicants' credit histories, corporate financial statements, and other financial information., Weight: 0.17
+Task: Prepare plans of action for investment, using financial analyses., Weight: 0.17
+Task: Review loan agreements to ensure that they are complete and accurate according to policy., Weight: 0.17
 
 
 10 Example Startups:
-Startup: Supas, Website: supas.au
-Startup: Go Boldly, Website: gobold.ly
-Startup: Onlinezms.com, Website: onlinezms.com/
-Startup: Posterity, Website: posterity.finance/
-Startup: Brixely, Website: brixely.com
-Startup: SILX, Website: silxai.com/
-Startup: Porfin, Website: —
-Startup: Grupago, Website: www.grupago.mx
-Startup: Contentique, Website: —
-Startup: Neptune Technologies, Website: neptunetechnologies.com
-
-
-*****************
-Group: Advertising, Marketing, Promotions, Public Relations, and Sales Managers
-________________
-10 Most Highly Weighted Titles:
-Title: Sales Managers, Weight: 12.31
-Title: Marketing Managers, Weight: 12.29
-Title: Advertising and Promotions Managers, Weight: 9.9
-Title: Fundraising Managers, Weight: 2.83
-Title: Public Relations Managers, Weight: 2.02
-
-
-10 Most Highly Weighted Tasks:
-Task: Monitor customer preferences to determine focus of sales efforts., Weight: 6.78
-Task: Initiate market research studies, or analyze their findings., Weight: 4.39
-Task: Review operational records and reports to project sales and determine profitability., Weight: 3.91
-Task: Analyze the effectiveness of marketing tactics or channels., Weight: 2.95
-Task: Compile lists describing product or service offerings., Weight: 2.19
-Task: Maintain portfolios of marketing campaigns, strategies, and other marketing products or ideas., Weight: 1.89
-Task: Coordinate with marketing team members, graphic artists, and other workers to develop and implement marketing programs., Weight: 1.62
-Task: Compile or develop materials to submit to granting or other funding organizations., Weight: 1.5
-Task: Formulate, direct, or coordinate marketing activities or policies to promote products or services, working with advertising or promotion managers., Weight: 1.32
-Task: Track program budgets, expenses, and campaign response rates to evaluate each campaign, based on program objectives and industry norms., Weight: 1.24
-
-
-10 Example Startups:
-Startup: Kaboom AI, Website: kaboom.ai/
-Startup: Omnifact, Website: omnifact.ai
-Startup: Zime.ai, Website: zime.ai/
-Startup: Holocene AI, Website: www.holocene.life
-Startup: Grabdex, Website: grabdex.com/
-Startup: Frame Me, Website: frameme.co/
-Startup: Magic Alpha, Website: www.magicalpha.ai
-Startup: Makale App, Website: makaleapp.com/
-Startup: Elgranto, Website: elgranto.app/
-Startup: Drafton, Website: www.drafton.io
-
-
-*****************
-Group: Mathematical Science Occupations
-________________
-10 Most Highly Weighted Titles:
-Title: Data Scientists, Weight: 36.6
-Title: Statisticians, Weight: 0.5
-
-
-10 Most Highly Weighted Tasks:
-Task: Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest., Weight: 6.23
-Task: Apply feature selection algorithms to models predicting outcomes of interest, such as sales, attrition, and healthcare use., Weight: 5.54
-Task: Identify relationships and trends or any factors that could affect the results of research., Weight: 4.46
-Task: Read scientific articles, conference papers, or other sources of research to identify emerging analytic trends and technologies., Weight: 4.46
-Task: Analyze, manipulate, or process large sets of data using statistical software., Weight: 3.7
-Task: Recommend data-driven solutions to key stakeholders., Weight: 2.86
-Task: Identify solutions to business problems, such as budgeting, staffing, and marketing decisions, using the results of data analysis., Weight: 2.05
-Task: Create graphs, charts, or other visualizations to convey the results of data analysis using specialized software., Weight: 2.0
-Task: Clean and manipulate raw data using statistical software., Weight: 1.58
-Task: Identify business problems or management objectives that can be addressed through data analysis., Weight: 1.49
-
-
-10 Example Startups:
-Startup: Modo AI, Website: modo.ai
-Startup: (defun ai ()), Website: defun.ai
-Startup: ICAI Icelandic Center for Artificial Intelligence, Website: www.icai.is
-Startup: Talosynth, Website: —
-Startup: Localportal, Website: localportal.io
-Startup: Dataoorts | GPU Cloud, Website: dataoorts.com/
-Startup: Myple, Website: myple.io
-Startup: Teraflop AI, Website: www.teraflop.ai
-Startup: Tutum.ai, Website: tutum-ai.com
-Startup: Victrays, Website: victrays.com/
-
-
-*****************
-Group: Computer Occupations
-________________
-10 Most Highly Weighted Titles:
-Title: Web Developers, Weight: 12.54
-Title: Web and Digital Interface Designers, Weight: 5.64
-Title: Software Quality Assurance Analysts and Testers, Weight: 5.01
-Title: Software Developers, Weight: 3.28
-Title: Computer Programmers, Weight: 3.04
-Title: Information Security Analysts, Weight: 2.72
-Title: Computer Network Support Specialists, Weight: 1.52
-Title: Network and Computer Systems Administrators, Weight: 1.0
-Title: Computer Network Architects, Weight: 0.67
-Title: Computer User Support Specialists, Weight: 0.66
-Title: Computer Systems Analysts, Weight: 0.5
-Title: Database Administrators, Weight: 0.12
-
-
-10 Most Highly Weighted Tasks:
-Task: Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions., Weight: 2.46
-Task: Write supporting code for Web applications or Web sites., Weight: 2.08
-Task: Develop or implement procedures for ongoing Web site revision., Weight: 1.58
-Task: Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems., Weight: 1.27
-Task: Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media., Weight: 1.26
-Task: Provide feedback and recommendations to developers on software usability and functionality., Weight: 1.08
-Task: Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program., Weight: 1.06
-Task: Monitor current reports of computer viruses to determine when to update virus protection systems., Weight: 0.99
-Task: Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites., Weight: 0.92
-Task: Develop databases that support Web applications and Web sites., Weight: 0.87
-
-
-10 Example Startups:
-Startup: text2test, Website: text2test.co
-Startup: DOO, Website: doo.ooo
-Startup: Strut, Website: strut.so/
-Startup: QA.tech, Website: qa.tech
-Startup: MLnetworks, Website: mlnetworks.io
-Startup: HoundDog.ai, Website: hounddog.ai/
-Startup: GPTConsole, Website: www.gptconsole.ai/
-Startup: CodeParrot, Website: www.codeparrot.ai/
-Startup: Full.CX, Website: full.cx
-Startup: Commented, Website: www.commented.io/
-
-
-*****************
-Group: Information and Record Clerks
-________________
-10 Most Highly Weighted Titles:
-Title: Customer Service Representatives, Weight: 30.84
-Title: Receptionists and Information Clerks, Weight: 1.98
-Title: Human Resources Assistants, Except Payroll and Timekeeping, Weight: 1.29
-Title: New Accounts Clerks, Weight: 0.62
-Title: Eligibility Interviewers, Government Programs, Weight: 0.57
-Title: Interviewers, Except Eligibility and Loan, Weight: 0.33
-Title: Order Clerks, Weight: 0.33
-Title: Reservation and Transportation Ticket Agents and Travel Clerks, Weight: 0.2
-Title: Hotel, Motel, and Resort Desk Clerks, Weight: 0.17
-Title: Brokerage Clerks, Weight: 0.14
-
-
-10 Most Highly Weighted Tasks:
-Task: Confer with customers by telephone or in person to provide information about products or services, take or enter orders, cancel accounts, or obtain details of complaints., Weight: 7.37
-Task: Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments, as well as actions taken., Weight: 6.87
-Task: Refer unresolved customer grievances to designated departments for further investigation., Weight: 5.19
-Task: Recommend improvements in products, packaging, shipping, service, or billing methods and procedures to prevent future problems., Weight: 3.31
-Task: Resolve customers' service or billing complaints by performing activities such as exchanging merchandise, refunding money, or adjusting bills., Weight: 2.94
-Task: Check to ensure that appropriate changes were made to resolve customers' problems., Weight: 1.42
-Task: Contact customers to respond to inquiries or to notify them of claim investigation results or any planned adjustments., Weight: 1.16
-Task: Schedule appointments and maintain and update appointment calendars., Weight: 1.11
-Task: Solicit sales of new or additional services or products., Weight: 1.04
-Task: Obtain and examine all relevant information to assess validity of complaints and to determine possible causes, such as extreme weather conditions that could increase utility bills., Weight: 0.75
-
-
-10 Example Startups:
-Startup: TrollWall AI, Website: www.trollwall.ai/
-Startup: Mitu AI, Website: www.mitu.ai
-Startup: Chat Data, Website: www.chat-data.com/
-Startup: LearyAI (Leary.Xyz), Website: leary.xyz
-Startup: My AskAI, Website: www.myaskai.com
-Startup: DeepFile, Website: www.deepfile.eu
-Startup: SafetyKit, Website: www.safetykit.com
-Startup: Intuist Inc., Website: intuist.ai
-Startup: ReAlice Co, Website: realice.jp
-Startup: Almo Chat, Website: almochat.com/
-
-
-*****************
-Group: Art and Design Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Graphic Designers, Weight: 19.72
-Title: Interior Designers, Weight: 4.81
-Title: Special Effects Artists and Animators, Weight: 4.49
-Title: Fashion Designers, Weight: 3.32
-Title: Art Directors, Weight: 2.44
-Title: Craft Artists, Weight: 0.73
-Title: Fine Artists, Including Painters, Sculptors, and Illustrators, Weight: 0.25
-Title: Merchandise Displayers and Window Trimmers, Weight: 0.17
-
-
-10 Most Highly Weighted Tasks:
-Task: Develop graphics and layouts for product illustrations, company logos, and Web sites., Weight: 5.45
-Task: Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts., Weight: 3.71
-Task: Research new software or design concepts., Weight: 2.66
-Task: Use computer software to generate new images., Weight: 2.56
-Task: Create custom illustrations or other graphic elements., Weight: 1.84
-Task: Review final layouts and suggest improvements, as needed., Weight: 1.37
-Task: Estimate material requirements and costs, and present design to client for approval., Weight: 1.16
-Task: Script, plan, and create animated narrative sequences under tight deadlines, using computer software and hand drawing techniques., Weight: 1.15
-Task: Render design ideas in form of paste-ups or drawings., Weight: 1.12
-Task: Study illustrations and photographs to plan presentation of materials, products, or services., Weight: 1.09
-
-
-10 Example Startups:
-Startup: Gigly, Website: gigly.io
-Startup: NewRoom, Website: www.newroom.io/
-Startup: Taylored.ai, Website: www.taylored.ai/
-Startup: Pixel Stitch, Website: pixelstitch.in/
-Startup: ROBOPIC, Website: robopic.me/
-Startup: Gulf Picasso, Website: www.gulfpicasso.com
-Startup: StockCake, Website: stockcake.com
-Startup: Genery, Website: www.genery.ai/
-Startup: Fytted, Website: www.fytted.com
-Startup: Etoile Foundry, Website: etoile.sh
-
-
-*****************
-Group: Media and Communication Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Writers and Authors, Weight: 16.0
-Title: News Analysts, Reporters, and Journalists, Weight: 6.37
-Title: Interpreters and Translators, Weight: 4.51
-Title: Editors, Weight: 2.42
-Title: Public Relations Specialists, Weight: 1.54
-
-
-10 Most Highly Weighted Tasks:
-Task: Adapt software and accompanying technical documents to another language and culture., Weight: 2.32
-Task: Plan project arrangements or outlines, and organize material accordingly., Weight: 2.22
-Task: Work with staff to develop script, story, or advertising concepts., Weight: 2.03
-Task: Conduct research and interviews to determine which of a product's selling features should be promoted., Weight: 1.91
-Task: Present drafts and ideas to clients., Weight: 1.85
-Task: Research a story's background information to provide complete and accurate information., Weight: 1.21
-Task: Invent names for products and write the slogans that appear on packaging, brochures and other promotional material., Weight: 1.18
-Task: Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers., Weight: 1.14
-Task: Review and evaluate notes taken about news events to isolate pertinent facts and details., Weight: 1.0
-Task: Read written materials, such as legal documents, scientific works, or news reports, and rewrite material into specified languages., Weight: 1.0
-
-
-10 Example Startups:
-Startup: Corner League, Website: www.cornerleague.com
-Startup: Sage, Website: www.wizzysage.com
-Startup: Dub AI, Website: www.trydub.com
-Startup: Movable Ai, Website: movabletype.ai
-Startup: HOW3, Website: —
-Startup: FosterFlow, Website: fosterflow.com
-Startup: Zaffer AI, Website: zafferai.com/
-Startup: Eight Tails, Website: www.eighttails.xyz/
-Startup: PromptDen, Website: promptden.com/
-Startup: WriteO, Website: writeo.app/
-
-
-*****************
-Group: Media and Communication Equipment Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Film and Video Editors, Weight: 17.11
-Title: Photographers, Weight: 3.99
-Title: Sound Engineering Technicians, Weight: 2.6
-Title: Camera Operators, Television, Video, and Film, Weight: 1.0
-Title: Audio and Video Technicians, Weight: 0.57
-Title: Broadcast Technicians, Weight: 0.33
-
-
-10 Most Highly Weighted Tasks:
-Task: Cut shot sequences to different angles at specific points in scenes, making each individual cut as fluid and seamless as possible., Weight: 4.87
-Task: Trim film segments to specified lengths and reassemble segments in sequences that present stories with maximum effect., Weight: 3.33
-Task: Select and combine the most effective shots of each scene to form a logical and smoothly running story., Weight: 1.47
-Task: Set up and operate computer editing systems, electronic titling systems, video switching equipment, and digital video effects units to produce a final product., Weight: 1.47
-Task: Record needed sounds or obtain them from sound effects libraries., Weight: 1.45
-Task: Develop post-production models for films., Weight: 1.37
-Task: Take pictures of individuals, families, and small groups, either in studio or on location., Weight: 1.25
-Task: Separate instruments, vocals, and other sounds, and combine sounds during the mixing or postproduction stage., Weight: 1.2
-Task: Write photograph captions., Weight: 1.14
-Task: Verify key numbers and time codes on materials., Weight: 0.83
-
-
-10 Example Startups:
-Startup: Aitist.ai, Website: www.aitist.ai
-Startup: Gling, Website: gling.ai
-Startup: Xound, Website: xound.io
-Startup: Windtribe, Website: www.windtribe.co/
-Startup: Videogum, Website: videogum.ai
-Startup: TreesGro, Website: www.TreesGro.com
-Startup: Synema.co, Website: www.synema.co/
-Startup: SoundAI, Website: soundai.tilda.ws
-Startup: Secta Labs, Website: secta.ai
-Startup: Podsift, Website: podsift.com
-
-
-*****************
-Group: Sales Representatives, Services
-________________
-10 Most Highly Weighted Titles:
-Title: Travel Agents, Weight: 14.0
-Title: Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel, Weight: 6.02
-Title: Insurance Sales Agents, Weight: 2.22
-Title: Securities, Commodities, and Financial Services Sales Agents, Weight: 0.11
-
-
-10 Most Highly Weighted Tasks:
-Task: Plan, describe, arrange, and sell itinerary tour packages and promotional travel incentives offered by various travel carriers., Weight: 3.79
-Task: Converse with customer to determine destination, mode of transportation, travel dates, financial considerations, and accommodations required., Weight: 2.98
-Task: Book transportation and hotel reservations, using computer or telephone., Weight: 2.86
-Task: Identify prospective customers using business directories, leads from clients, or information from conferences or trade shows., Weight: 2.2
-Task: Answer customers' questions about services, prices, availability, or credit terms., Weight: 2.13
-Task: Record and maintain information on clients, vendors, and travel packages., Weight: 2.03
-Task: Compute cost of travel and accommodations, using calculator, computer, carrier tariff books, and hotel rate books, or quote package tour's costs., Weight: 1.24
-Task: Contact prospective or existing customers to discuss how services can meet their needs., Weight: 0.84
-Task: Customize insurance programs to suit individual customers, often covering a variety of risks., Weight: 0.76
-Task: Select company that offers type of coverage requested by client to underwrite policy., Weight: 0.65
-
-
-10 Example Startups:
-Startup: Holiwise, Website: www.holiwise.com/
-Startup: ExploreSoul, Website: exploresoul.ai/
-Startup: ReiseGenie, Website: www.reisegenie.com
-Startup: Linqura, Website: linqura.ai
-Startup: JustGo, Website: www.justgo.co
-Startup: Ivyngton, Website: ivyngton.com
-Startup: TRAIVL AG, Website: www.traivl.com
-Startup: WayWay, Website: wayway.app
-Startup: Stuut, Website: www.stuut.co
-Startup: Trundle Technology LLP, Website: —
-
-
-*****************
-Group: Other Management Occupations
-________________
-10 Most Highly Weighted Titles:
-Title: Property, Real Estate, and Community Association Managers, Weight: 5.57
-Title: Farmers, Ranchers, and Other Agricultural Managers, Weight: 2.96
-Title: Food Service Managers, Weight: 2.73
-Title: Lodging Managers, Weight: 2.17
-Title: Construction Managers, Weight: 1.84
-Title: Medical and Health Services Managers, Weight: 1.54
-Title: Education Administrators, Kindergarten through Secondary, Weight: 1.49
-Title: Gambling Managers, Weight: 1.0
-Title: Architectural and Engineering Managers, Weight: 0.61
-Title: Education Administrators, Postsecondary, Weight: 0.2
-Title: Natural Sciences Managers, Weight: 0.14
-
-
-10 Most Highly Weighted Tasks:
-Task: Analyze information on property values, taxes, zoning, population growth, and traffic volume and patterns to determine if properties should be acquired., Weight: 1.44
-Task: Review and analyze facility activities and data to aid planning and cash and risk management and to improve service utilization., Weight: 1.29
-Task: Greet and register guests., Weight: 1.0
-Task: Book tickets for guests for local tours and attractions., Weight: 1.0
-Task: Remove suspected cheaters, such as card counters or other players who may have systems that shift the odds of winning to their favor., Weight: 1.0
-Task: Market vacant space to prospective tenants through leasing agents, advertising, or other methods., Weight: 0.85
-Task: Review menus and analyze recipes to determine labor and overhead costs, and assign prices to menu items., Weight: 0.81
-Task: Prepare, maintain, or oversee the preparation and maintenance of attendance, activity, planning, or personnel reports and records., Weight: 0.7
-Task: Review rents to ensure that they are in line with rental markets., Weight: 0.68
-Task: Create school improvement plans, using student performance data., Weight: 0.64
-
-
-10 Example Startups:
-Startup: keymate, Website: keymate.it
-Startup: SurgeryAI.com, Website: www.surgeryai.com/
-Startup: ModerateKit, Website: www.moderatekit.com
-Startup: HousMthr, Website: housmthr.com/
-Startup: Doowii, Inc, Website: www.doowii.io/
-Startup: Sapucay, Website: —
-Startup: Doculy AI, Website: doculy.ai/
-Startup: RenoApp, Website: www.renoapp.in
-Startup: OM Live Real Estate, Website: omlive.co/
-Startup: CREcentric, Website: www.crecentric.com
-
-
-*****************
-Group: Healthcare Diagnosing or Treating Practitioners
-________________
-10 Most Highly Weighted Titles:
-Title: Dietitians and Nutritionists, Weight: 3.42
-Title: Cardiologists, Weight: 2.75
-Title: Nurse Practitioners, Weight: 2.6
-Title: Registered Nurses, Weight: 1.67
-Title: Radiologists, Weight: 1.64
-Title: Dermatologists, Weight: 1.52
-Title: Family Medicine Physicians, Weight: 1.0
-Title: Neurologists, Weight: 1.0
-Title: Occupational Therapists, Weight: 1.0
-Title: Physical Therapists, Weight: 0.75
-Title: Veterinarians, Weight: 0.58
-Title: Dentists, General, Weight: 0.5
-Title: General Internal Medicine Physicians, Weight: 0.5
-Title: Pharmacists, Weight: 0.5
-Title: Dental Hygienists, Weight: 0.25
-Title: Psychiatrists, Weight: 0.25
-
-
-10 Most Highly Weighted Tasks:
-Task: Schedule follow-up visits to monitor patients or evaluate health or illness care., Weight: 1.5
-Task: Record patients' medical information and vital signs., Weight: 1.42
-Task: Diagnose medical conditions of patients, using records, reports, test results, or examination information., Weight: 1.17
-Task: Plan and implement programs and social activities to help patients learn work or school skills and adjust to handicaps., Weight: 1.0
-Task: Participate in neuroscience research activities., Weight: 1.0
-Task: Organize, develop, analyze, test, and prepare special meals, such as low-fat, low-cholesterol, or chemical-free meals., Weight: 0.92
-Task: Incorporate patient cultural, ethnic, or religious preferences and needs in the development of nutrition plans., Weight: 0.86
-Task: Recommend interventions to modify behavior associated with health risks., Weight: 0.7
-Task: Assess nutritional needs, diet restrictions, and current health plans to develop and implement dietary-care plans and provide nutritional counseling., Weight: 0.64
-Task: Recommend diagnostic tests based on patients' histories and physical examination findings., Weight: 0.62
-
-
-10 Example Startups:
-Startup: Healthvice, Website: thehealthvice.com
-Startup: HealthBridge AI, Website: www.healthbridgeai.com
-Startup: Axon Labs, Website: axonlabs.pro/
-Startup: Turing Health, Website: turinghealth.co
-Startup: MindsApplied, Website: www.minds-applied.com/
-Startup: swyvl, Website: www.swyvl.org
-Startup: AutoMynd, Website: —
-Startup: rapmed.net, Website: www.rapmed.net
-Startup: DermaQ, Website: www.dermaq.in
-Startup: Emagene Life, Website: www.emagene.life
-
-
-*****************
-Group: Operations Specialties Managers
-________________
-10 Most Highly Weighted Titles:
-Title: Human Resources Managers, Weight: 7.48
-Title: Training and Development Managers, Weight: 3.4
-Title: Industrial Production Managers, Weight: 2.33
-Title: Purchasing Managers, Weight: 1.88
-Title: Transportation, Storage, and Distribution Managers, Weight: 1.72
-Title: Financial Managers, Weight: 1.25
-Title: Facilities Managers, Weight: 1.0
-Title: Compensation and Benefits Managers, Weight: 0.25
-Title: Computer and Information Systems Managers, Weight: 0.17
-
-
-10 Most Highly Weighted Tasks:
-Task: Conduct exit interviews to identify reasons for employee termination., Weight: 3.79
-Task: Conduct orientation sessions and arrange on-the-job training for new hires., Weight: 1.61
-Task: Identify staff vacancies and recruit, interview, and select applicants., Weight: 1.21
-Task: Analyze statistical data and reports to identify and determine causes of personnel problems and develop recommendations for improvement of organization's personnel policies and practices., Weight: 1.14
-Task: Develop and organize training manuals, multimedia visual aids, and other educational materials., Weight: 1.01
-Task: Provide current and prospective employees with information about policies, job duties, working conditions, wages, opportunities for promotion, and employee benefits., Weight: 0.67
-Task: Develop or implement production tracking or quality control systems, analyzing production, quality control, maintenance, or other operational reports to detect production problems., Weight: 0.63
-Task: Monitor inventory levels of products or materials in warehouses., Weight: 0.6
-Task: Examine, evaluate, or process loan applications., Weight: 0.58
-Task: Maintain records of goods ordered and received., Weight: 0.48
-
-
-10 Example Startups:
-Startup: Metis, Website: www.metisfi.com/
-Startup: aiWorkplace, Website: www.aiworkplace.io/
-Startup: Lodestone Insights, Website: www.lodestoneinsights.com
-Startup: VALU, Website: www.valuhr.io
-Startup: Umwelt PeopleTech Solutions Inc, Website: umwelt.ai
-Startup: LearnCan, Website: learncan.app
-Startup: Kucha, Website: www.kucha.io/
-Startup: Grassion, Website: www.grassion.com
-Startup: CloEE, Website: cloee.co
-Startup: TheHRAI, Website: thehrai.com
+Startup: DubPrime, Website: www.dubprime.com/
+Startup: SectorFlow AI, Website: sectorflow.ai
+Startup: SkedulApp, Website: skedulapp.com
 
 
 *****************
 Group: Other Sales and Related Workers
 ________________
 10 Most Highly Weighted Titles:
-Title: Real Estate Sales Agents, Weight: 9.65
-Title: Real Estate Brokers, Weight: 4.42
-Title: Telemarketers, Weight: 0.78
-Title: Sales Engineers, Weight: 0.74
-Title: Models, Weight: 0.4
-Title: Demonstrators and Product Promoters, Weight: 0.11
+Title: Telemarketers, Weight: 0.67
+Title: Real Estate Brokers, Weight: 0.5
+Title: Real Estate Sales Agents, Weight: 0.5
 
 
 10 Most Highly Weighted Tasks:
-Task: Compare a property with similar properties that have recently sold to determine its competitive market price., Weight: 1.57
-Task: Review plans for new construction with clients, enumerating and recommending available options and features., Weight: 0.94
-Task: Generate lists of properties that are compatible with buyers' needs and financial resources., Weight: 0.85
-Task: Interview clients to determine what kinds of properties they are seeking., Weight: 0.8
-Task: Visit properties to assess them before showing them to clients., Weight: 0.72
-Task: Advise sellers on how to make homes more appealing to potential buyers., Weight: 0.67
-Task: Coordinate appointments to show homes to prospective buyers., Weight: 0.56
-Task: Maintain awareness of current income tax regulations, local zoning, building and tax laws, and growth possibilities of a property's area., Weight: 0.54
-Task: Telephone or write letters to respond to correspondence from customers or to follow up initial sales contacts., Weight: 0.52
-Task: Display commercial, industrial, agricultural, and residential properties to clients and explain their features., Weight: 0.52
+Task: Obtain customer information such as name, address, and payment method, and enter orders into computers., Weight: 0.33
+Task: Adjust sales scripts to better target the needs and interests of specific individuals., Weight: 0.17
+Task: Appraise property values, assessing income potential when relevant., Weight: 0.17
+Task: Generate lists of properties for sale, their locations, descriptions, and available financing options, using computers., Weight: 0.17
+Task: Generate lists of properties that are compatible with buyers' needs and financial resources., Weight: 0.17
+Task: Locate and appraise undeveloped areas for building sites, based on evaluations of area market conditions., Weight: 0.17
+Task: Maintain awareness of current income tax regulations, local zoning, building and tax laws, and growth possibilities of a property's area., Weight: 0.17
+Task: Promote sales of properties through advertisements, open houses, and participation in multiple listing services., Weight: 0.17
+Task: Schedule appointments for sales representatives to meet with prospective customers or for customers to attend sales presentations., Weight: 0.17
 
 
 10 Example Startups:
-Startup: Chatlease, Website: www.chatlease.ai/
-Startup: Nesto, Website: nesto.uk
-Startup: Come Home AI, Website: comehome.ai
-Startup: Homevuu, Website: www.homevuu.com
-Startup: Archaic Group, Website: archaic.vercel.app/
-Startup: PrimmoAI, Website: primmo.co
-Startup: TOPCRM, Website: topcrm.ae
-Startup: VDiX AI, Website: www.vdix.ai
-Startup: Ringable AI, Website: www.ringable.ai
-Startup: Industrial Data Labs, Website: www.industrialdatalabs.com
+Startup: HomeHQ.ai, Website: homehq.ai/
+Startup: AiPlix, Website: San Francisco Bay Area, West Coast, Western US
+Startup: ConnectFlux, Website: connectflux.ai
 
 
 *****************
-Group: Other Teachers and Instructors
+Group: Mathematical Science Occupations
 ________________
 10 Most Highly Weighted Titles:
-Title: Tutors, Weight: 14.0
-Title: Self-Enrichment Teachers, Weight: 1.48
-Title: Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors, Weight: 0.33
+Title: Data Scientists, Weight: 1.33
 
 
 10 Most Highly Weighted Tasks:
-Task: Provide feedback to students, using positive reinforcement techniques to encourage, motivate, or build confidence in students., Weight: 4.2
-Task: Develop teaching or training materials, such as handouts, study materials, or quizzes., Weight: 2.32
-Task: Teach students study skills, note-taking skills, and test-taking strategies., Weight: 1.79
-Task: Prepare lesson plans or learning modules for tutoring sessions according to students' needs and goals., Weight: 1.49
-Task: Review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments., Weight: 1.15
-Task: Provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests., Weight: 1.1
-Task: Adapt teaching methods and instructional materials to meet students' varying needs and interests., Weight: 1.06
-Task: Assess students' progress throughout tutoring sessions., Weight: 0.53
-Task: Identify, develop, or implement intervention strategies, tutoring plans, or individualized education plans (IEPs) for students., Weight: 0.38
-Task: Research or recommend textbooks, software, equipment, or other learning materials to complement tutoring., Weight: 0.36
+Task: Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest., Weight: 0.5
+Task: Clean and manipulate raw data using statistical software., Weight: 0.17
+Task: Compare models using statistical performance metrics, such as loss functions or proportion of explained variance., Weight: 0.17
+Task: Propose solutions in engineering, the sciences, and other fields using mathematical theories and techniques., Weight: 0.17
+Task: Recommend data-driven solutions to key stakeholders., Weight: 0.17
+Task: Write new functions or applications in programming languages to conduct analyses., Weight: 0.17
 
 
 10 Example Startups:
-Startup: LTG Academy, Website: www.aitutor.ch
-Startup: Ribbon, Website: www.ribbon-education.net
-Startup: Cephadex, Website: www.cephadex.com
-Startup: Crescendo, Website: crescendo.study
-Startup: EZpass, Website: ezpass.ai
-Startup: LyncLearn, Website: www.lynclearn.com
-Startup: Essay-Grader.ai, Website: essay-grader.ai
-Startup: Bridgecare, Website: www.bridgecare.ai/
-Startup: Lingolette, Website: lingolette.com
-Startup: Worldex Lab, Website: www.worldexlab.com
-
-
-*****************
-Group: Legal Support Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Paralegals and Legal Assistants, Weight: 12.58
-
-
-10 Most Highly Weighted Tasks:
-Task: Gather and analyze research data, such as statutes, decisions, and legal articles, codes, and documents., Weight: 4.87
-Task: Investigate facts and law of cases and search pertinent sources, such as public records and internet sources, to determine causes of action and to prepare cases., Weight: 3.44
-Task: Prepare legal documents, including briefs, pleadings, appeals, wills, contracts, and real estate closing statements., Weight: 1.88
-Task: Prepare affidavits or other documents, such as legal correspondence, and organize and maintain documents in paper or electronic filing system., Weight: 1.52
-Task: Arbitrate disputes between parties and assist in the real estate closing process, such as by reviewing title searches., Weight: 0.36
-Task: Prepare for trial by performing tasks such as organizing exhibits., Weight: 0.34
-Task: Direct and coordinate law office activity, including delivery of subpoenas., Weight: 0.17
-
-
-10 Example Startups:
-Startup: Easecase AI, Website: easecase.ai
-Startup: SPEED AI, Website: speedintake.com/
-Startup: Smart Firms, Website: smartfiorms.co
-Startup: Fifty One Ai, Website: fiftyoneai.com
-Startup: Lawgic Legal Track, Website: legaltrack.ai/
-Startup: Lawise, Website: www.lawise.ai
-Startup: CaseMark, Website: casemark.ai
-Startup: CaseMate AI, Website: casemate.ai
-Startup: Jurist AI, Website: www.jurist.ph
-Startup: Egger AI, Website: www.egger.ai
-
-
-*****************
-Group: Counselors, Social Workers, and Other Community and Social Service Specialists
-________________
-10 Most Highly Weighted Titles:
-Title: Educational, Guidance, and Career Counselors and Advisors, Weight: 5.7
-Title: Marriage and Family Therapists, Weight: 2.0
-Title: Mental Health Counselors, Weight: 0.46
-Title: Child, Family, and School Social Workers, Weight: 0.2
-Title: Rehabilitation Counselors, Weight: 0.12
-
-
-10 Most Highly Weighted Tasks:
-Task: Instruct individuals in career development techniques, such as job search and application strategies, resume writing, and interview skills., Weight: 1.83
-Task: Provide information for teachers and staff members involved in helping students or graduates identify and pursue employment opportunities., Weight: 1.67
-Task: Confer with clients to develop plans for posttreatment activities., Weight: 1.0
-Task: Establish contacts with employers to create internship and employment opportunities for students., Weight: 1.0
-Task: Provide instructions to clients on how to obtain help with legal, financial, and other personal issues., Weight: 1.0
-Task: Collect information about clients through interviews, observation, or tests., Weight: 0.33
-Task: Provide students with information on topics such as college degree programs and admission requirements, financial aid opportunities, trade and technical schools, and apprenticeship programs., Weight: 0.33
-Task: Refer qualified counselees to employers or employment services for job placement., Weight: 0.33
-Task: Refer students to degree programs based on interests, aptitudes, or educational assessments., Weight: 0.33
-Task: Counsel students whose behavior, school progress, or mental or physical impairment indicate a need for assistance, diagnosing students' problems and arranging for needed services., Weight: 0.2
-
-
-10 Example Startups:
-Startup: LoveGenius, Website: www.lovegenius.io
-Startup: Betakopa, Website: betakopa.com
-Startup: Interain, Website: interain.in/
-Startup: JeezAI, Website: www.jeezai.com/
-Startup: Relfeed, Website: relfeed.com
-Startup: Skillsun, Website: skillsun.com
-Startup: LeetGPT, Website: www.aceinterview.app/
-Startup: Trivium ai, Website: www.trivium.ai
-Startup: Clinical Notes AI, Website: www.clinicalnotes.ai
-Startup: AutoNotes, Website: autonotes.ai/
-
-
-*****************
-Group: Entertainers and Performers, Sports and Related Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Musicians and Singers, Weight: 2.54
-Title: Coaches and Scouts, Weight: 2.0
-Title: Music Directors and Composers, Weight: 1.9
-Title: Producers and Directors, Weight: 1.9
-
-
-10 Most Highly Weighted Tasks:
-Task: Adjust coaching techniques, based on the strengths and weaknesses of athletes., Weight: 1.0
-Task: Seek out and learn new music suitable for live performance or recording., Weight: 1.0
-Task: Perform management activities, such as budgeting, scheduling, planning, and marketing., Weight: 0.7
-Task: Analyze the strengths and weaknesses of opposing teams to develop game strategies., Weight: 0.67
-Task: Make or participate in recordings in music studios., Weight: 0.5
-Task: Write music for commercial mediums, including advertising jingles or film soundtracks., Weight: 0.5
-Task: Study films or scripts to determine how musical scores can be used to create desired effects or moods., Weight: 0.5
-Task: Compose songs or create vocal arrangements., Weight: 0.5
-Task: Coordinate the activities of writers, directors, managers, and other personnel throughout the production process., Weight: 0.5
-Task: Perform administrative duties, such as preparing operational reports, distributing rehearsal call sheets and script copies, and arranging for rehearsal quarters., Weight: 0.5
-
-
-10 Example Startups:
-Startup: Audiogen, Website: audiogen.co
-Startup: Causatum Pictures, Website: causatumpictures.com
-Startup: Pickleball Vision AI, Website: www.pb.vision/
-Startup: SOMMS.AI, Website: www.somms.ai
-Startup: TenSlam, Website: www.tenslam.ai/
-Startup: Vibey, Website: vibeymusic.app
-Startup: Semilla Co. (Flou / Seed Academy), Website: seedcademy.io/
-Startup: Alle-AI, Website: alle-ai.com
-Startup: Roster, Website: onroster.io
-Startup: Transposed AI, Website: www.transposed.ai
-
-
-*****************
-Group: Sales Representatives, Wholesale and Manufacturing
-________________
-10 Most Highly Weighted Titles:
-Title: Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products, Weight: 5.01
-Title: Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products, Weight: 3.04
-
-
-10 Most Highly Weighted Tasks:
-Task: Identify prospective customers, using business directories, leads from existing clients, participation in organizations, or trade show or conference attendance., Weight: 1.8
-Task: Identify prospective customers by using business directories, following leads from existing clients, participating in organizations and clubs, and attending trade shows and conferences., Weight: 1.27
-Task: Answer customers' questions about products, prices, availability, or credit terms., Weight: 0.79
-Task: Answer customers' questions about products, prices, availability, product uses, and credit terms., Weight: 0.79
-Task: Maintain customer records, using automated systems., Weight: 0.7
-Task: Initiate sales campaigns to meet sales and production expectations., Weight: 0.69
-Task: Prepare sales presentations or proposals to explain product specifications or applications., Weight: 0.54
-Task: Check stock levels and reorder merchandise as necessary., Weight: 0.38
-Task: Recommend products to customers, based on customers' needs and interests., Weight: 0.32
-Task: Negotiate prices or terms of sales or service agreements., Weight: 0.25
-
-
-10 Example Startups:
-Startup: Elephant.ai, Website: elephant.ai/
-Startup: EveryAnswer, Website: www.everyanswer.ai
-Startup: Linckr, Website: linckr.in/
-Startup: Folio, Website: www.folio.build/
-Startup: Chtrbx, Website: www.chtrbx.ai/
-Startup: nibnab, Website: nibnab.ai
-Startup: TerraRosa, Website: terrarosainternational.com/
-Startup: Thoughtful Platform, Website: thoughtfulplatform.com
-Startup: Nyne.ai, Website: nyne.ai
-Startup: Wiyse, Website: www.wiyse.com/
-
-
-*****************
-Group: Secretaries and Administrative Assistants
-________________
-10 Most Highly Weighted Titles:
-Title: Legal Secretaries and Administrative Assistants, Weight: 4.76
-Title: Medical Secretaries and Administrative Assistants, Weight: 0.84
-Title: Executive Secretaries and Executive Administrative Assistants, Weight: 0.77
-Title: Secretaries and Administrative Assistants, Except Legal, Medical, and Executive, Weight: 0.2
-
-
-10 Most Highly Weighted Tasks:
-Task: Review legal publications and perform database searches to identify laws and court decisions relevant to pending cases., Weight: 1.33
-Task: Schedule and make appointments., Weight: 0.95
-Task: Assist attorneys in collecting information such as employment, medical, and other records., Weight: 0.79
-Task: Attend legal meetings, such as client interviews, hearings, or depositions, and take notes., Weight: 0.48
-Task: Organize and maintain law libraries, documents, and case files., Weight: 0.4
-Task: Manage and maintain executives' schedules., Weight: 0.34
-Task: Draft and type office memos., Weight: 0.28
-Task: Complete various forms, such as accident reports, trial and courtroom requests, and applications for clients., Weight: 0.25
-Task: Interview patients to complete documents, case histories, or forms, such as intake or insurance forms., Weight: 0.2
-Task: Make travel arrangements for executives., Weight: 0.2
-
-
-10 Example Startups:
-Startup: Advoria, Website: advoria.de
-Startup: csky.ai, Website: csky.ai/
-Startup: PraxySante, Website: www.praxysante.fr
-Startup: Beroder, Website: beroder.ai
-Startup: Jurist AI, Website: www.jurist.ph
-Startup: MULTI·ON, Website: multion.ai/
-Startup: Smoothie Studio, Website: smoothiestudio.co.jp/
-Startup: CaseMark, Website: casemark.ai
-Startup: Glyph AI, Website: www.joinglyph.com
-Startup: Newton Health, Website: newtonhealth.ai/
-
-
-*****************
-Group: Lawyers, Judges, and Related Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Lawyers, Weight: 5.89
-Title: Judicial Law Clerks, Weight: 0.62
-
-
-10 Most Highly Weighted Tasks:
-Task: Prepare, draft, and review legal documents, such as wills, deeds, patent applications, mortgages, leases, and contracts., Weight: 2.61
-Task: Examine legal data to determine advisability of defending or prosecuting lawsuit., Weight: 0.79
-Task: Analyze the probable outcomes of cases, using knowledge of legal precedents., Weight: 0.75
-Task: Advise clients concerning business transactions, claim liability, advisability of prosecuting or defending lawsuits, or legal rights and obligations., Weight: 0.61
-Task: Prepare briefs, legal memoranda, or statements of issues involved in cases, including appropriate suggestions or recommendations., Weight: 0.31
-Task: Evaluate findings and develop strategies and arguments in preparation for presentation of cases., Weight: 0.27
-Task: Study Constitution, statutes, decisions, regulations, and ordinances of quasi-judicial bodies to determine ramifications for cases., Weight: 0.25
-Task: Confer with colleagues with specialties in appropriate areas of legal issue to establish and verify bases for legal proceedings., Weight: 0.17
-Task: Review complaints, petitions, motions, or pleadings that have been filed to determine issues involved or basis for relief., Weight: 0.17
-Task: Search for and examine public and other legal records to write opinions or establish ownership., Weight: 0.17
-
-
-10 Example Startups:
-Startup: AI Lawyer, Website: ailawyer.pro/
-Startup: Pincites, Website: www.pincites.com/
-Startup: Lexlink AI, Website: www.lexlink.ai
-Startup: FoundationFlow, Website: foundationflow.ai
-Startup: Aava AI, Website: iamaava.ai/
-Startup: Egger AI, Website: www.egger.ai
-Startup: ONEdocket, Website: www.onedocket.ai/
-Startup: Lexlabs AI, Website: www.lexlabs.ai/
-Startup: CaseMate AI, Website: casemate.ai
-Startup: Law Cyborg, Website: lawcyborg.com
-
-
-*****************
-Group: Health Technologists and Technicians
-________________
-10 Most Highly Weighted Titles:
-Title: Medical Records Specialists, Weight: 3.91
-Title: Veterinary Technologists and Technicians, Weight: 0.83
-Title: Pharmacy Technicians, Weight: 0.5
-Title: Diagnostic Medical Sonographers, Weight: 0.14
-Title: Magnetic Resonance Imaging Technologists, Weight: 0.14
-
-
-10 Most Highly Weighted Tasks:
-Task: Schedule medical appointments for patients., Weight: 1.37
-Task: Post medical insurance billings., Weight: 0.65
-Task: Identify, compile, abstract, and code patient data, using standard classification systems., Weight: 0.57
-Task: Schedule appointments and procedures for animals., Weight: 0.5
-Task: Enter data, such as demographic characteristics, history and extent of disease, diagnostic procedures, or treatment into computer., Weight: 0.4
-Task: Resolve or clarify codes or diagnoses with conflicting, missing, or unclear information by consulting with doctors or others or by participating in the coding team's regular meetings., Weight: 0.4
-Task: Provide information or counseling regarding issues such as animal health care, behavior problems, or nutrition., Weight: 0.33
-Task: Review records for completeness, accuracy, and compliance with regulations., Weight: 0.27
-Task: Receive written prescription or refill requests and verify that information is complete and accurate., Weight: 0.25
-Task: Decide which images to include, looking for differences between healthy and pathological areas., Weight: 0.14
-
-
-10 Example Startups:
-Startup: Sohar Health, Website: www.soharhealth.com/
-Startup: Asepha, Website: www.asepha.ai/
-Startup: Blossend, Website: blossend.com
-Startup: Medicod AI, Website: medicod-ai.tech/
-Startup: Petville Global, Website: petville.co/pricing/biz
-Startup: Veritas Labs, Website: www.veritaslabs.ai
-Startup: AI Square, Website: ai-square.io
-Startup: Bunsen Health, Website: www.bunsenhealth.com/
-Startup: Pet Portal AI, Website: petportal.ai
-Startup: PraxySante, Website: www.praxysante.fr
-
-
-*****************
-Group: Social Scientists and Related Workers
-________________
-10 Most Highly Weighted Titles:
-Title: School Psychologists, Weight: 2.33
-Title: Historians, Weight: 2.0
-Title: Clinical and Counseling Psychologists, Weight: 0.88
-Title: Survey Researchers, Weight: 0.14
-Title: Urban and Regional Planners, Weight: 0.11
-
-
-10 Most Highly Weighted Tasks:
-Task: Collect and analyze data to evaluate the effectiveness of academic programs and other services, such as behavioral management systems., Weight: 1.33
-Task: Collect detailed information on individuals for use in biographies., Weight: 1.0
-Task: Gather historical data from sources such as archives, court records, diaries, news files, and photographs, as well as from books, pamphlets, and periodicals., Weight: 1.0
-Task: Serve as a resource to help families and schools deal with crises, such as separation and loss., Weight: 1.0
-Task: Develop and implement individual treatment plans, specifying type, frequency, intensity, and duration of therapy., Weight: 0.5
-Task: Document patient information including session notes, progress notes, recommendations, and treatment plans., Weight: 0.25
-Task: Consult with clients to identify survey needs and specific requirements, such as special samples., Weight: 0.14
-Task: Write reports on clients and maintain required paperwork., Weight: 0.12
-Task: Investigate property availability for purposes of development., Weight: 0.11
-
-
-10 Example Startups:
-Startup: ChatMemoir, Website: www.chatmemoir.com
-Startup: Curiqa, Website: curiqa.com
-Startup: elggo, Website: www.elggo.com
-Startup: Amulet AI, Website: amulet-ai.io/
-Startup: AutoNotes, Website: autonotes.ai/
-Startup: Clinical Notes AI, Website: www.clinicalnotes.ai
-Startup: DataSnack, Website: www.datasnack.ai/
-Startup: Brixely, Website: brixely.com
-
-
-*****************
-Group: Other Personal Care and Service Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Exercise Trainers and Group Fitness Instructors, Weight: 5.42
-
-
-10 Most Highly Weighted Tasks:
-Task: Evaluate individuals' abilities, needs, and physical conditions, and develop suitable training programs to meet any special requirements., Weight: 1.88
-Task: Plan routines, choose appropriate music, and choose different movements for each set of muscles, depending on participants' capabilities and limitations., Weight: 1.88
-Task: Provide students with information and resources regarding nutrition, weight control, and lifestyle issues., Weight: 1.67
-
-
-10 Example Startups:
-Startup: FitSync, Website: fitsync.com.au/
-Startup: Maion, Website: —
-Startup: Medpal AI, Website: medpal.ai/
-Startup: Neveli, Website: www.neveli.com/
-Startup: GAINZ, Website: www.gainz.ai
-Startup: LUBU Technologies, Website: www.lubu.ai/
-Startup: AppJust, Website: appjust.co
-Startup: Gala Coach, Website: gala.coach
-Startup: Spheria.ai, Website: spheria.ai
-
-
-*****************
-Group: Retail Sales Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Retail Salespersons, Weight: 2.54
-Title: Parts Salespersons, Weight: 1.15
-Title: Cashiers, Weight: 0.49
-Title: Counter and Rental Clerks, Weight: 0.33
-
-
-10 Most Highly Weighted Tasks:
-Task: Answer questions regarding the store and its merchandise., Weight: 1.2
-Task: Recommend, select, and help locate or obtain merchandise based on customer needs and desires., Weight: 1.02
-Task: Determine replacement parts required, according to inspections of old parts, customer requests, or customers' descriptions of malfunctions., Weight: 0.37
-Task: Read catalogs, microfiche viewers, or computer displays to determine replacement part stock numbers and prices., Weight: 0.37
-Task: Keep records of transactions and of the number of customers entering an establishment., Weight: 0.33
-Task: Help customers try on or fit merchandise., Weight: 0.2
-Task: Advise customers on substitution or modification of parts when identical replacements are not available., Weight: 0.17
-Task: Answer customers' questions, and provide information on procedures or policies., Weight: 0.12
-Task: Assist customers by providing information and resolving their complaints., Weight: 0.12
-Task: Assist customers, such as responding to customer complaints and updating them about back-ordered parts., Weight: 0.12
-
-
-10 Example Startups:
-Startup: ShopSymphoni, Website: —
-Startup: Aiixa, Website: aiixa.com/
-Startup: Autoket, Website: www.autoket.com
-Startup: Oscar Robotics, Website: www.oscar-robotics.com/
-Startup: Padd AI, Website: padd.ai
-Startup: IMERZO, Website: imerzo.com
-Startup: Supersight, Website: supersight.fi
-Startup: Codemevel, Website: codemevel.com
-Startup: Digital Iron, Website: www.digitaliron.ai
-Startup: Industrial Data Labs, Website: www.industrialdatalabs.com
-
-
-*****************
-Group: Other Healthcare Support Occupations
-________________
-10 Most Highly Weighted Titles:
-Title: Medical Assistants, Weight: 2.02
-Title: Medical Transcriptionists, Weight: 1.79
-Title: Dental Assistants, Weight: 0.25
-Title: Veterinary Assistants and Laboratory Animal Caretakers, Weight: 0.25
-
-
-10 Most Highly Weighted Tasks:
-Task: Schedule appointments for patients., Weight: 1.12
-Task: Identify mistakes in reports and check with doctors to obtain the correct information., Weight: 0.5
-Task: Receive patients, schedule appointments, and maintain patient records., Weight: 0.5
-Task: Transcribe dictation for a variety of medical reports, such as patient histories, physical examinations, emergency room visits, operations, chart reviews, consultation, or discharge summaries., Weight: 0.5
-Task: Authorize drug refills and provide prescription information to pharmacies., Weight: 0.25
-Task: Contact medical facilities or departments to schedule patients for tests or admission., Weight: 0.25
-Task: Perform office reception duties, such as scheduling appointments or helping customers., Weight: 0.25
-Task: Provide postoperative instructions prescribed by dentist., Weight: 0.25
-Task: Greet and log in patients arriving at office or clinic., Weight: 0.2
-Task: Interview patients to obtain medical information and measure their vital signs, weight, and height., Weight: 0.2
-
-
-10 Example Startups:
-Startup: Llamalitica, Website: www.llamalitica.com
-Startup: Synthpop, Website: www.synthpop.ai
-Startup: BaluMed, Website: balumed.com
-Startup: Beroder, Website: beroder.ai
-Startup: Newton Health, Website: newtonhealth.ai/
-Startup: ShortClip, Website: shortclip.io
-Startup: Petville Global, Website: petville.co/pricing/biz
-Startup: Toothly AI, Website: www.toothly.ai
-Startup: ZEETECH, Website: zee.tech
-Startup: Smoothie Studio, Website: smoothiestudio.co.jp/
-
-
-*****************
-Group: Engineers
-________________
-10 Most Highly Weighted Titles:
-Title: Petroleum Engineers, Weight: 1.04
-Title: Bioengineers and Biomedical Engineers, Weight: 1.0
-Title: Mechanical Engineers, Weight: 0.94
-Title: Aerospace Engineers, Weight: 0.62
-Title: Materials Engineers, Weight: 0.38
-Title: Electrical Engineers, Weight: 0.14
-
-
-10 Most Highly Weighted Tasks:
-Task: Develop methodologies for transferring procedures or biological processes from laboratories to commercial-scale manufacturing production., Weight: 0.5
-Task: Research new materials to be used for products, such as implanted artificial organs., Weight: 0.5
-Task: Analyze data to recommend placement of wells and supplementary processes to enhance production., Weight: 0.35
-Task: Interpret drilling and testing information for personnel., Weight: 0.35
-Task: Develop or test models of alternate designs or processing methods to assess feasibility, sustainability, operating condition effects, potential new applications, or necessity of modification., Weight: 0.29
-Task: Design integrated mechanical or alternative systems, such as mechanical cooling systems with natural ventilation systems, to improve energy efficiency., Weight: 0.22
-Task: Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions., Weight: 0.2
-Task: Direct aerospace research and development programs., Weight: 0.17
-Task: Direct or coordinate activities of engineering or technical personnel involved in designing, fabricating, modifying, or testing of aircraft or aerospace products., Weight: 0.17
-Task: Prepare specifications for purchases of materials or equipment., Weight: 0.14
-
-
-10 Example Startups:
-Startup: Viabio, Website: viabio.site
-Startup: Wells Assess, Website: wellsassess.ai/
-Startup: OptiFab, Website: www.opti-fab.com/
-Startup: Bolo AI, Website: www.getbolo.ai/
-Startup: Intrepid AI, Website: intrepid.ai
-Startup: Pelles.ai, Website: www.pelles.ai/
-Startup: Flyward, Website: flyward.eu/
-Startup: Fixaible, Website: www.fixaible.com
-Startup: MTRL LLC, Website: mtrl.at
-Startup: Fabriforge, Website: fabriforge.com/
-
-
-*****************
-Group: Life, Physical, and Social Science Technicians
-________________
-10 Most Highly Weighted Titles:
-Title: Social Science Research Assistants, Weight: 2.66
-Title: Biological Technicians, Weight: 0.29
-Title: Agricultural Technicians, Weight: 0.2
-Title: Hydrologic Technicians, Weight: 0.17
-Title: Nuclear Technicians, Weight: 0.11
-
-
-10 Most Highly Weighted Tasks:
-Task: Conduct internet-based and library research., Weight: 0.58
-Task: Prepare tables, graphs, fact sheets, and written reports summarizing research results., Weight: 0.43
-Task: Provide assistance with the preparation of project-related reports, manuscripts, and presentations., Weight: 0.43
-Task: Track research participants, and perform any necessary follow-up tasks., Weight: 0.29
-Task: Conduct studies of nitrogen or alternative fertilizer application methods, quantities, or timing to ensure satisfaction of crop needs and minimization of leaching, runoff, or denitrification., Weight: 0.2
-Task: Design and create special programs for tasks such as statistical analysis and data entry and cleaning., Weight: 0.17
-Task: Perform descriptive and multivariate statistical analyses of data, using computer software., Weight: 0.17
-Task: Perform quality control checks on data to be used by hydrologists., Weight: 0.17
-Task: Prepare, manipulate, and manage extensive databases., Weight: 0.17
-Task: Code data in preparation for computer entry., Weight: 0.14
-
-
-10 Example Startups:
-Startup: SymbyAI, Website: symbyai.com
-Startup: Isiri AI, Website: www.isiri.ai
-Startup: Superinsight, Website: www.superinsight.ai
-Startup: Anon, Website: www.anon.com
-Startup: Sune AI, Website: SuneAI.com
-Startup: Pasbox, Website: pasbox.net
-Startup: NutriSen, Website: www.nutrisen.eu
-Startup: Saafwater, Website: saafwater.com/
-Startup: Tallgeese AI, Website: tallgeese.ai
-
-
-*****************
-Group: Other Educational Instruction and Library Occupations
-________________
-10 Most Highly Weighted Titles:
-Title: Instructional Coordinators, Weight: 1.68
-Title: Teaching Assistants, Special Education, Weight: 1.25
-
-
-10 Most Highly Weighted Tasks:
-Task: Analyze performance data to determine effectiveness of instructional systems, courses, or instructional materials., Weight: 1.31
-Task: Prepare lesson outlines and plans in assigned subject areas and submit outlines to teachers for review., Weight: 0.67
-Task: Provide disabled students with assistive devices, supportive technology, and assistance accessing facilities, such as restrooms., Weight: 0.33
-Task: Tutor and assist children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers., Weight: 0.25
-Task: Design instructional aids for stand-alone or instructor-led classroom or online use., Weight: 0.2
-Task: Provide analytical support for the design and development of training curricula, learning strategies, educational policies, or courseware standards., Weight: 0.17
-
-
-10 Example Startups:
-Startup: Litmus Learn, Website: litmuslearn.com
-Startup: Speech Labs, Website: www.speechlabs.io/
-Startup: zerodivide.ai, Website: www.zerodivide.ai
-Startup: Worldex Lab, Website: www.worldexlab.com
-Startup: Clipral, Website: clipral.com
-Startup: Leo AI, Website: leo.watch
-Startup: Leo AI, Website: www.getleo.ai/
-Startup: Buddiz, Website: www.buddiz.ai
-
-
-*****************
-Group: Financial Clerks
-________________
-10 Most Highly Weighted Titles:
-Title: Bookkeeping, Accounting, and Auditing Clerks, Weight: 1.48
-Title: Procurement Clerks, Weight: 1.29
-
-
-10 Most Highly Weighted Tasks:
-Task: Compare prices, specifications, and delivery dates to determine the best bid among potential suppliers., Weight: 0.79
-Task: Locate suppliers, using sources such as catalogs and the internet, and interview them to gather information about products to be ordered., Weight: 0.38
-Task: Calculate, prepare, and issue bills, invoices, account statements, and other financial statements according to established procedures., Weight: 0.33
-Task: Match order forms with invoices, and record the necessary information., Weight: 0.33
-Task: Prepare purchase orders and expense reports., Weight: 0.28
-Task: Transfer details from separate journals to general ledgers or data processing sheets., Weight: 0.2
-Task: Code documents according to company procedures., Weight: 0.17
-Task: Compare computer printouts to manually maintained journals to determine if they match., Weight: 0.17
-Task: Prepare invitation-of-bid forms, and mail forms to supplier firms or distribute forms for public posting., Weight: 0.12
-
-
-10 Example Startups:
-Startup: incorporAit, Website: www.incorporait.com
-Startup: Bizaar.ai, Website: bizaar.ai/
-Startup: Cobalt, Website: joincobalt.com
-Startup: Wizerr AI, Website: wizerr.ai
-Startup: Zentro, Website: www.zentro.ai
-Startup: Skyello, Website: skyello.com
-Startup: Fabriforge, Website: fabriforge.com/
-Startup: Rivio, Website: www.rivio.ai/
-Startup: Digital Meld, Website: www.digitalmeld.io
-
-
-*****************
-Group: Preschool, Elementary, Middle, Secondary, and Special Education Teachers
-________________
-10 Most Highly Weighted Titles:
-Title: Special Education Teachers, Preschool, Weight: 2.0
-Title: Special Education Teachers, Elementary School, Weight: 0.58
-
-
-10 Most Highly Weighted Tasks:
-Task: Prepare assignments for teacher assistants or volunteers., Weight: 0.67
-Task: Prepare objectives, outlines, or other materials for courses of study, following curriculum guidelines or requirements., Weight: 0.67
-Task: Provide assistive devices, supportive technology, or assistance accessing facilities, such as restrooms., Weight: 0.67
-Task: Organize and display students' work in a manner appropriate for their perceptual skills., Weight: 0.58
-
-
-10 Example Startups:
-Startup: Speech Labs, Website: www.speechlabs.io/
-Startup: zerodivide.ai, Website: www.zerodivide.ai
-Startup: AI Generative Lab - AIGL, Website: www.aigenerative.ae/
-Startup: E-Quality, Website: e-quality.ai/
-
-
-*****************
-Group: Material Recording, Scheduling, Dispatching, and Distributing Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Dispatchers, Except Police, Fire, and Ambulance, Weight: 1.79
-Title: Production, Planning, and Expediting Clerks, Weight: 0.5
-Title: Cargo and Freight Agents, Weight: 0.28
-
-
-10 Most Highly Weighted Tasks:
-Task: Schedule or dispatch workers, work crews, equipment, or service vehicles to appropriate locations, according to customer requests, specifications, or needs, using radios or telephones., Weight: 0.79
-Task: Arrange for necessary repairs to restore service and schedules., Weight: 0.33
-Task: Determine types or amounts of equipment, vehicles, materials, or personnel required, according to work orders or specifications., Weight: 0.33
-Task: Monitor personnel or equipment locations and utilization to coordinate service and schedules., Weight: 0.33
-Task: Plan production commitments or timetables for business units, specific programs, or jobs, using sales forecasts., Weight: 0.25
-Task: Enter shipping information into a computer by hand or by a hand-held scanner that reads bar codes on goods., Weight: 0.17
-Task: Establish and prepare product construction directions and locations and information on required tools, materials, equipment, numbers of workers needed, and cost projections., Weight: 0.12
-Task: Revise production schedules when required due to design changes, labor or material shortages, backlogs, or other interruptions, collaborating with management, marketing, sales, production, or engineering., Weight: 0.12
-Task: Track delivery progress of shipments., Weight: 0.11
-
-
-10 Example Startups:
-Startup: SERV, Website: www.goserv.com
-Startup: ommo.ai, Website: www.ommo.ai
-Startup: OptiFab, Website: www.opti-fab.com/
-Startup: DocUnlock, Website: docunlock.ai
-Startup: Hyperfox, Website: www.hyperfox.com
-Startup: Oculus Freight, Website: oculusfreight.com/
-Startup: Bilus Teknoloji, Website: bilusteknoloji.com
-
-
-*****************
-Group: Physical Scientists
-________________
-10 Most Highly Weighted Titles:
-Title: Materials Scientists, Weight: 1.33
-Title: Physicists, Weight: 0.33
-Title: Astronomers, Weight: 0.25
-Title: Chemists, Weight: 0.25
-Title: Atmospheric and Space Scientists, Weight: 0.11
-Title: Geoscientists, Except Hydrologists and Geographers, Weight: 0.11
-Title: Hydrologists, Weight: 0.11
-
-
-10 Most Highly Weighted Tasks:
-Task: Perform experiments and computer modeling to study the nature, structure, and physical and chemical properties of metals and their alloys, and their responses to applied forces., Weight: 0.44
-Task: Plan laboratory experiments to confirm feasibility of processes and techniques used in the production of materials with special characteristics., Weight: 0.33
-Task: Conduct research on the structures and properties of materials, such as metals, alloys, polymers, and ceramics, to obtain information that could be used to develop new products or enhance existing ones., Weight: 0.28
-Task: Determine ways to strengthen or combine materials or develop new materials with new or specific properties for use in a variety of products and applications., Weight: 0.28
-Task: Analyze research data to determine its significance, using computers., Weight: 0.25
-Task: Develop, improve, or customize products, equipment, formulas, processes, or analytical methods., Weight: 0.25
-Task: Design computer simulations to model physical data so that it can be better understood., Weight: 0.17
-Task: Teach physics to students., Weight: 0.17
-Task: Administer programs designed to ensure the proper sealing of abandoned wells., Weight: 0.11
-Task: Analyze climate data sets, using techniques such as geophysical fluid dynamics, data assimilation, or numerical modeling., Weight: 0.11
-
-
-10 Example Startups:
-Startup: MTRL LLC, Website: mtrl.at
-Startup: Interleap, Website: interleap.com
-Startup: Supercomputing Intelligence, Website: —
-Startup: Bagel, Website: www.bagel.net
-Startup: Gomera Therapeutics, Website: gomeratherapeutics.com
-Startup: Wells Assess, Website: wellsassess.ai/
-Startup: QuantumAI, Website: quantumopenai.com
-Startup: flare, Website: flaredata.ai
-
-
-*****************
-Group: Other Installation, Maintenance, and Repair Occupations
-________________
-10 Most Highly Weighted Titles:
-Title: Maintenance Workers, Machinery, Weight: 1.54
-Title: Industrial Machinery Mechanics, Weight: 0.94
-
-
-10 Most Highly Weighted Tasks:
-Task: Record production, repair, and machine maintenance information., Weight: 0.82
-Task: Analyze test results, machine error messages, or information obtained from operators to diagnose equipment problems., Weight: 0.72
-Task: Read work orders and specifications to determine machines and equipment requiring repair or maintenance., Weight: 0.71
-Task: Assign schedules to work crews., Weight: 0.11
-Task: Record repairs and maintenance performed., Weight: 0.11
-
-
-10 Example Startups:
-Startup: GenerativeX Co, Website: gen-x.jp
-Startup: Pdmechanics, Website: pdmechanics.com
-Startup: Fixaible, Website: www.fixaible.com
-Startup: Consult AI, Website: —
-Startup: CloEE, Website: cloee.co
-Startup: Digital Iron, Website: www.digitaliron.ai
-Startup: NeronesAI, Website: neronesai.com/
-Startup: NeuraNiche, Website: www.neuraniche.com
-Startup: Tallgeese AI, Website: tallgeese.ai
-Startup: Ycotek, Website: ycotek.ai/
-
-
-*****************
-Group: Motor Vehicle Operators
-________________
-10 Most Highly Weighted Titles:
-Title: Heavy and Tractor-Trailer Truck Drivers, Weight: 1.17
-Title: Light Truck Drivers, Weight: 0.54
-Title: Driver/Sales Workers, Weight: 0.35
-Title: Bus Drivers, Transit and Intercity, Weight: 0.33
-
-
-10 Most Highly Weighted Tasks:
-Task: Plan or adjust routes based on changing conditions, using computer equipment, global positioning systems (GPS) equipment, or other navigation devices, to minimize fuel consumption and carbon emissions., Weight: 0.53
-Task: Read maps and follow written or verbal geographic directions., Weight: 0.42
-Task: Read and interpret maps to determine vehicle routes., Weight: 0.4
-Task: Advise passengers to be seated and orderly while on vehicles., Weight: 0.33
-Task: Collect money from customers, make change, and record transactions on customer receipts., Weight: 0.22
-Task: Present bills and receipts and collect payments for goods delivered or loaded., Weight: 0.12
-Task: Read bills of lading to determine assignment details., Weight: 0.12
-Task: Record sales or delivery information on daily sales or delivery record., Weight: 0.12
-Task: Collect delivery instructions from appropriate sources, verifying instructions and routes., Weight: 0.11
-
-
-10 Example Startups:
-Startup: Oculus Freight, Website: oculusfreight.com/
-Startup: RIDER, Website: riderworld.co
-Startup: Autonomous Pioneer, Website: www.autonomouspioneer.com.sa/
-Startup: LETSTOP, Website: www.letstop.io/
-Startup: Logistics Pad 360, Website: logisticspad.com
-Startup: Vox AI, Website: voxai.tech/
-Startup: FR8 Pro Inc, Website: fr8pro.ai/
-
-
-*****************
-Group: Tour and Travel Guides
-________________
-10 Most Highly Weighted Titles:
-Title: Travel Guides, Weight: 2.11
-Title: Tour Guides and Escorts, Weight: 0.25
-
-
-10 Most Highly Weighted Tasks:
-Task: Plan tour itineraries, applying knowledge of travel routes and destination sites., Weight: 1.94
-Task: Arrange for tour or expedition details such as accommodations, transportation, equipment, and the availability of medical personnel., Weight: 0.17
-Task: Describe tour points of interest to group members, and respond to questions., Weight: 0.12
-Task: Provide directions and other pertinent information to visitors., Weight: 0.12
-
-
-10 Example Startups:
-Startup: Voyager Global Ltd., Website: govoyager.org
-Startup: Soar, Website: www.planwithsoar.com
-Startup: Traveluh, Website: www.traveluh.com
-Startup: Oscar Robotics, Website: www.oscar-robotics.com/
-Startup: TripTap, Website: www.triptap.com
-Startup: Trundle Technology LLP, Website: —
-
-
-*****************
-Group: Construction Trades Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Solar Photovoltaic Installers, Weight: 1.29
-Title: Plumbers, Pipefitters, and Steamfitters, Weight: 1.0
-
-
-10 Most Highly Weighted Tasks:
-Task: Estimate time, material, or labor costs for use in project plans., Weight: 0.5
-Task: Review blueprints, building codes, or specifications to determine work details or procedures., Weight: 0.5
-Task: Identify installation locations with proper orientation, area, solar access, or structural integrity for photovoltaic (PV) arrays., Weight: 0.33
-Task: Identify methods for laying out, orienting, and mounting modules or arrays to ensure efficient installation, electrical configuration, or system maintenance., Weight: 0.33
-Task: Determine materials, equipment, and installation sequences necessary to maximize installation efficiency., Weight: 0.17
-Task: Determine photovoltaic (PV) system designs or configurations based on factors such as customer needs, expectations, and site conditions., Weight: 0.17
-Task: Diagram layouts and locations for photovoltaic (PV) arrays and equipment, including existing building or site features., Weight: 0.17
-Task: Visually inspect and test photovoltaic (PV) modules or systems., Weight: 0.12
-
-
-10 Example Startups:
-Startup: Pegbo, Website: pegbo.com/
-Startup: SOLARSPLIT, Website: www.solarsplit.com
-Startup: Aether, Website: aetherenergie.com/
-Startup: Aevy, Website: aevy.io
-
-
-*****************
-Group: Other Protective Service Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Gambling Surveillance Officers and Gambling Investigators, Weight: 0.99
-Title: Private Detectives and Investigators, Weight: 0.77
-Title: School Bus Monitors, Weight: 0.2
-Title: Security Guards, Weight: 0.14
-Title: Transportation Security Screeners, Weight: 0.14
-
-
-10 Most Highly Weighted Tasks:
-Task: Review video surveillance footage., Weight: 0.39
-Task: Obtain and analyze information on suspects, crimes, or disturbances to solve cases, to identify criminal activity, or to gather information for court cases., Weight: 0.27
-Task: Act as oversight or security agents for management or customers., Weight: 0.2
-Task: Observe casino or casino hotel operations for irregular activities, such as cheating or theft by employees or patrons, using audio and video equipment and one-way mirrors., Weight: 0.2
-Task: Report all violations and suspicious behaviors to supervisors, verbally or in writing., Weight: 0.2
-Task: Talk to children's parents or guardians about problematic behaviors, emotional or developmental problems, or related issues., Weight: 0.2
-Task: Patrol industrial or commercial premises to prevent and detect signs of intrusion and ensure security of doors, windows, and gates., Weight: 0.14
-Task: Search computer databases, credit reports, public records, tax or legal filings, or other resources to locate persons or to compile information for investigations., Weight: 0.14
-Task: Watch for potentially dangerous persons whose pictures are posted at checkpoints., Weight: 0.14
-Task: Conduct personal background investigations, such as pre-employment checks, to obtain information about an individual's character, financial status, or personal history., Weight: 0.12
-
-
-10 Example Startups:
-Startup: Dealer Data Solutions, Website: dealerdatasolution.com
-Startup: Active Insights, Website: activeinsights.ai/
-Startup: Cylect.io, Website: cylect.io
-Startup: Degrees of Interest, Website: www.degreesofinterest.com
-Startup: Surveilx Intelligence, Website: —
-Startup: Trivium ai, Website: www.trivium.ai
-Startup: Drodat, Website: drodat.com
-
-
-*****************
-Group: Other Transportation Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Traffic Technicians, Weight: 1.79
-Title: Transportation Inspectors, Weight: 0.25
-Title: Bridge and Lock Tenders, Weight: 0.12
-
-
-10 Most Highly Weighted Tasks:
-Task: Analyze data related to traffic flow, accident rates, or proposed development to determine the most efficient methods to expedite traffic flow., Weight: 0.59
-Task: Plan, design, and improve components of traffic control systems to accommodate current or projected traffic and to increase usability and efficiency., Weight: 0.37
-Task: Provide traffic information, such as road conditions, to the public., Weight: 0.14
-Task: Study traffic delays by noting times of delays, the numbers of vehicles affected, and vehicle speed through the delay area., Weight: 0.14
-Task: Inspect canal and bridge equipment, and areas, such as roadbeds, for damage or defects, reporting problems to supervisors as necessary., Weight: 0.12
-Task: Measure heights and widths of loads to ensure they will pass over bridges or through tunnels on scheduled routes., Weight: 0.12
-Task: Visually inspect cargo for damage upon arrival or discharge., Weight: 0.12
-Task: Compute time settings for traffic signals or speed restrictions, using standard formulas., Weight: 0.11
-Task: Establish procedures for street closures or for repair or construction projects., Weight: 0.11
-Task: Monitor street or utility projects for compliance to traffic control permit conditions., Weight: 0.11
-
-
-10 Example Startups:
-Startup: RoadVision AI, Website: www.roadvision.ai/
-Startup: SmartMotion, Website: smartmotion.systems
-Startup: Sahay AI, Website: sahayai.com/
-Startup: LETSTOP, Website: www.letstop.io/
-Startup: Supercomputing Intelligence, Website: —
-
-
-*****************
-Group: Other Healthcare Practitioners and Technical Occupations
-________________
-10 Most Highly Weighted Titles:
-Title: Genetic Counselors, Weight: 1.5
-Title: Athletic Trainers, Weight: 0.5
-Title: Health Information Technologists and Medical Registrars, Weight: 0.12
-
-
-10 Most Highly Weighted Tasks:
-Task: Interpret laboratory results and communicate findings to patients or physicians., Weight: 1.0
-Task: Analyze genetic information to identify patients or families at risk for specific disorders or syndromes., Weight: 0.25
-Task: Assess and report the progress of recovering athletes to coaches or physicians., Weight: 0.25
-Task: Collaborate with physicians to develop and implement comprehensive rehabilitation programs for athletic injuries., Weight: 0.25
-Task: Determine or coordinate treatment plans by requesting laboratory services, reviewing genetics or counseling literature, and considering histories or diagnostic data., Weight: 0.25
-Task: Resolve or clarify codes or diagnoses with conflicting, missing, or unclear information by consulting with doctors or others or by participating in the coding team's regular meetings., Weight: 0.12
-
-
-10 Example Startups:
-Startup: Definik, Website: definik.com/
-Startup: LUBU Technologies, Website: www.lubu.ai/
-Startup: Lodestar Bio, Website: www.lodestar.bio/
-Startup: Procreation AI, Website: procreation.ai/
-Startup: Medicod AI, Website: medicod-ai.tech/
-
-
-*****************
-Group: Other Office and Administrative Support Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Proofreaders and Copy Markers, Weight: 1.14
-Title: Data Entry Keyers, Weight: 0.6
-Title: Word Processors and Typists, Weight: 0.14
-Title: Insurance Claims and Policy Processing Clerks, Weight: 0.12
-
-
-10 Most Highly Weighted Tasks:
-Task: Write original content, such as headlines, cutlines, captions, and cover copy., Weight: 1.0
-Task: Compile, sort, and verify the accuracy of data before it is entered., Weight: 0.45
-Task: Consult with authors and editors regarding manuscript changes and suggestions., Weight: 0.14
-Task: Locate and correct data entry errors, or report them to supervisors., Weight: 0.14
-Task: Transcribe stenotyped notes of court proceedings., Weight: 0.14
-Task: Provide customer service, such as limited instructions on proceeding with claims or referrals to auto repair facilities or local contractors., Weight: 0.12
-
-
-10 Example Startups:
-Startup: ChatGPT AI Hub, Website: chatgptaihub.com/
-Startup: AICA, Website: aicadata.com/
-Startup: Skyello, Website: skyello.com
-Startup: ShortClip, Website: shortclip.io
-Startup: Valar Tech, Website: valartech.io/
-Startup: Chtrbx, Website: www.chtrbx.ai/
-Startup: Loglive, Website: loglive.ai
-
-
-*****************
-Group: Agricultural Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Farmworkers and Laborers, Crop, Nursery, and Greenhouse, Weight: 1.47
-Title: Farmworkers, Farm, Ranch, and Aquacultural Animals, Weight: 0.25
-Title: Agricultural Inspectors, Weight: 0.22
-
-
-10 Most Highly Weighted Tasks:
-Task: Inform farmers or farm managers of crop progress., Weight: 0.61
-Task: Feel plants' leaves and note their coloring to detect the presence of insects or disease., Weight: 0.49
-Task: Examine animals to detect illness, injury, or disease, and to check physical characteristics, such as rate of weight gain., Weight: 0.25
-Task: Inspect plants and bud ties to assess quality., Weight: 0.12
-Task: Maintain inventory, ordering materials as required., Weight: 0.12
-Task: Record information about plants and plant growth., Weight: 0.12
-Task: Compare product recipes with government-approved formulas or recipes to determine acceptability., Weight: 0.11
-Task: Set standards for the production of meat or poultry products or for food ingredients, additives, or compounds used to prepare or package products., Weight: 0.11
-
-
-10 Example Startups:
-Startup: Robonair, Website: www.robonair.com/
-Startup: BLOVO Animal Health, Website: www.blovo.org
-Startup: Smart Farm Tools, Website: smartfarmtools.com
-Startup: AgriDrone Sweden AB, Website: www.agridrone.tech
-Startup: TerraRosa, Website: terrarosainternational.com/
-
-
-*****************
-Group: Librarians, Curators, and Archivists
-________________
-10 Most Highly Weighted Titles:
-Title: Museum Technicians and Conservators, Weight: 1.17
-Title: Librarians and Media Collections Specialists, Weight: 0.4
-Title: Library Technicians, Weight: 0.2
-Title: Curators, Weight: 0.12
-
-
-10 Most Highly Weighted Tasks:
-Task: Estimate cost of restoration work., Weight: 1.0
-Task: Conduct reference searches, using printed materials and in-house and online databases., Weight: 0.2
-Task: Locate unusual or unique information in response to specific requests., Weight: 0.2
-Task: Search standard reference materials, including online sources and the Internet, to answer patrons' reference questions., Weight: 0.2
-Task: Coordinate exhibit installations, assisting with design, constructing displays, dioramas, display cases, and models, and ensuring the availability of necessary materials., Weight: 0.17
-Task: Design, organize, or conduct tours, workshops, and instructional or educational sessions to acquaint individuals with an institution's facilities and materials., Weight: 0.12
-
-
-10 Example Startups:
-Startup: Enhance Ai, Website: enhanceai.art/
-Startup: Searcholic, Website: www.searcholic.com
-Startup: Supersight, Website: supersight.fi
-Startup: Oscar Robotics, Website: www.oscar-robotics.com/
-
-
-*****************
-Group: Postsecondary Teachers
-________________
-10 Most Highly Weighted Titles:
-Title: History Teachers, Postsecondary, Weight: 1.39
-Title: Education Teachers, Postsecondary, Weight: 0.2
-Title: Computer Science Teachers, Postsecondary, Weight: 0.17
-
-
-10 Most Highly Weighted Tasks:
-Task: Compile, administer, and grade examinations, or assign this work to others., Weight: 0.5
-Task: Evaluate and grade students' class work, assignments, and papers., Weight: 0.5
-Task: Initiate, facilitate, and moderate classroom discussions., Weight: 0.25
-Task: Prepare course materials, such as syllabi, homework assignments, and handouts., Weight: 0.2
-Task: Maintain regularly scheduled office hours to advise and assist students., Weight: 0.17
-Task: Develop, maintain, and teach online courses., Weight: 0.14
-
-
-10 Example Startups:
-Startup: Califica, Website: califica.ai
-Startup: DownPat, Website: downpat.ai
-Startup: Clipral, Website: clipral.com
-Startup: STUDAI EDUTECH, Website: www.stud-ai.com
-Startup: PentoPix, Website: www.pentopix.com/
-
-
-*****************
-Group: Material Moving Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Stockers and Order Fillers, Weight: 0.62
-Title: Laborers and Freight, Stock, and Material Movers, Hand, Weight: 0.56
-Title: Hoist and Winch Operators, Weight: 0.28
-Title: Packers and Packagers, Hand, Weight: 0.22
-
-
-10 Most Highly Weighted Tasks:
-Task: Attach identifying tags to containers or mark them with identifying information., Weight: 0.28
-Task: Record numbers of units handled or moved, using daily production sheets or work tickets., Weight: 0.28
-Task: Select loads or materials according to weight and size specifications., Weight: 0.28
-Task: Complete order receipts., Weight: 0.17
-Task: Keep records of out-going orders., Weight: 0.17
-Task: Requisition merchandise from supplier, based on available space, merchandise on hand, customer demand, or advertised specials., Weight: 0.17
-Task: Answer customers' questions about merchandise and advise customers on merchandise selection., Weight: 0.12
-Task: Mark and label containers, container tags, or products, using marking tools., Weight: 0.11
-Task: Record product, packaging, and order information on specified forms and records., Weight: 0.11
-
-
-10 Example Startups:
-Startup: mimic, Website: www.mimicrobotics.com/
-Startup: Staxel, Website: getstaxel.com/
-Startup: Swarmbotics AI, Website: www.swarmbotics.ai
-Startup: Oscar Robotics, Website: www.oscar-robotics.com/
-
-
-*****************
-Group: Life Scientists
-________________
-10 Most Highly Weighted Titles:
-Title: Foresters, Weight: 0.53
-Title: Biochemists and Biophysicists, Weight: 0.5
-Title: Soil and Plant Scientists, Weight: 0.25
-Title: Food Scientists and Technologists, Weight: 0.22
-Title: Zoologists and Wildlife Biologists, Weight: 0.12
-
-
-10 Most Highly Weighted Tasks:
-Task: Study ways to improve agricultural sustainability, such as the use of new methods of composting., Weight: 0.25
-Task: Monitor forest-cleared lands to ensure that they are reclaimed to their most suitable end use., Weight: 0.2
-Task: Develop methods to process, store, or use foods, drugs, or chemical compounds., Weight: 0.17
-Task: Develop new methods to study the mechanisms of biological processes., Weight: 0.17
-Task: Develop or execute tests to detect diseases, genetic disorders, or other abnormalities., Weight: 0.17
-Task: Develop techniques for measuring and identifying trees., Weight: 0.17
-Task: Map forest area soils and vegetation to estimate the amount of standing timber and future value and growth., Weight: 0.17
-Task: Inventory or estimate plant and wildlife populations., Weight: 0.12
-Task: Check raw ingredients for maturity or stability for processing, and finished products for safety, quality, and nutritional value., Weight: 0.11
-Task: Evaluate food processing and storage operations and assist in the development of quality assurance programs for such operations., Weight: 0.11
-
-
-10 Example Startups:
-Startup: Examol, Website: examol.io
-Startup: FlyPix AI, Website: flypix.ai
-Startup: EasyTelling AI, Website: easytelling.ai
-Startup: TraceChain, Website: tracechain.ai
-Startup: Regenerate, Website: regenerate-climate.com
-Startup: Autonomous Pioneer, Website: www.autonomouspioneer.com.sa/
-
-
-*****************
-Group: Other Construction and Related Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Construction and Building Inspectors, Weight: 1.5
-
-
-10 Most Highly Weighted Tasks:
-Task: Approve building plans that meet required specifications., Weight: 0.5
-Task: Inspect and monitor construction sites to ensure adherence to safety standards, building codes, or specifications., Weight: 0.25
-Task: Issue permits for construction, relocation, demolition, or occupancy., Weight: 0.25
-Task: Review and interpret plans, blueprints, site layouts, specifications, or construction methods to ensure compliance to legal requirements and safety regulations., Weight: 0.25
-Task: Maintain daily logs and supplement inspection records with photographs., Weight: 0.12
-Task: Measure dimensions and verify level, alignment, or elevation of structures or fixtures to ensure compliance to building plans and codes., Weight: 0.12
-
-
-10 Example Startups:
-Startup: Permio AI, Website: www.permio.ai/
-Startup: Autonomous Pioneer, Website: www.autonomouspioneer.com.sa/
-Startup: Sahay AI, Website: sahayai.com/
-
-
-*****************
-Group: Food and Beverage Serving Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Fast Food and Counter Workers, Weight: 0.67
-Title: Food Servers, Nonrestaurant, Weight: 0.5
-Title: Waiters and Waitresses, Weight: 0.33
-
-
-10 Most Highly Weighted Tasks:
-Task: Record amounts and types of special food items served to customers., Weight: 0.33
-Task: Communicate with customers regarding orders, comments, and complaints., Weight: 0.22
-Task: Take customers' orders and write ordered items on tickets, giving ticket stubs to customers when needed to identify filled orders., Weight: 0.22
-Task: Prepare checks that itemize and total meal costs and sales taxes., Weight: 0.17
-Task: Total checks, present them to customers, and accept payment for services., Weight: 0.17
-Task: Write patrons' food orders on order slips, memorize orders, or enter orders into computers for transmittal to kitchen staff., Weight: 0.17
-Task: Balance receipts and payments in cash registers., Weight: 0.11
-Task: Request and record customer orders, and compute bills, using cash registers, multi-counting machines, or pencil and paper., Weight: 0.11
-
-
-10 Example Startups:
-Startup: Vox AI, Website: voxai.tech/
-Startup: Kiosklyy, Website: kiosklyy.com
-Startup: Carrotar, Website: carrotar.com/
-
-
-*****************
-Group: Supervisors of Sales Workers
-________________
-10 Most Highly Weighted Titles:
-Title: First-Line Supervisors of Retail Sales Workers, Weight: 1.18
-Title: First-Line Supervisors of Non-Retail Sales Workers, Weight: 0.25
-
-
-10 Most Highly Weighted Tasks:
-Task: Assign employees to specific duties., Weight: 0.5
-Task: Inventory stock and reorder when inventory drops to a specified level., Weight: 0.33
-Task: Analyze details of sales territories to assess their growth potential and to set quotas., Weight: 0.25
-Task: Review inventory and sales records to prepare reports for management and budget departments., Weight: 0.2
-Task: Formulate pricing policies for merchandise, according to profitability requirements., Weight: 0.14
-
-
-10 Example Startups:
-Startup: Sympl Software Solutions, Website: www.symplonline.com
-Startup: Obius Inc., Website: www.obius.co
-Startup: Klipy AI, Website: klipy.ai
-Startup: Intriq, Website: intriq.ai/
-Startup: POSI - Point Of Sale Intelligence, Website: www.posipay.io
-
-
-*****************
-Group: Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides
-________________
-10 Most Highly Weighted Titles:
-Title: Nursing Assistants, Weight: 1.0
-Title: Home Health Aides, Weight: 0.2
-Title: Personal Care Aides, Weight: 0.2
-
-
-10 Most Highly Weighted Tasks:
-Task: Communicate with patients to ascertain feelings or need for assistance or social and emotional support., Weight: 1.0
-Task: Maintain records of patient care, condition, progress, or problems to report and discuss observations with supervisor or case manager., Weight: 0.2
-Task: Prepare and maintain records of client progress and services performed, reporting changes in client condition to manager or supervisor., Weight: 0.2
-
-
-10 Example Startups:
-Startup: Bluem Nursing, Website: www.bluemnursing.com
-Startup: AllesHealth, Website: alleshealth.com
-
-
-*****************
-Group: Vehicle and Mobile Equipment Mechanics, Installers, and Repairers
-________________
-10 Most Highly Weighted Titles:
-Title: Bicycle Repairers, Weight: 1.0
-Title: Aircraft Mechanics and Service Technicians, Weight: 0.34
-
-
-10 Most Highly Weighted Tasks:
-Task: Help customers select bicycles that fit their body sizes and intended bicycle uses., Weight: 1.0
-Task: Read and interpret pilots' descriptions of problems to diagnose causes., Weight: 0.2
-Task: Maintain repair logs, documenting all preventive and corrective aircraft maintenance., Weight: 0.14
-
-
-10 Example Startups:
-Startup: Posturise, Website: posturise.eu/
-Startup: Fixaible, Website: www.fixaible.com
-Startup: Flyward, Website: flyward.eu/
-
-
-*****************
-Group: Top Executives
-________________
-10 Most Highly Weighted Titles:
-Title: Chief Executives, Weight: 0.67
-Title: General and Operations Managers, Weight: 0.51
-
-
-10 Most Highly Weighted Tasks:
-Task: Analyze operations to evaluate performance of a company or its staff in meeting objectives or to determine areas of potential cost reduction, program improvement, or policy change., Weight: 0.67
-Task: Manage the movement of goods into and out of production facilities to ensure efficiency, effectiveness, or sustainability of operations., Weight: 0.37
-Task: Prepare staff work schedules and assign specific duties., Weight: 0.14
-
-
-10 Example Startups:
-Startup: Peoplelytics, Website: www.peoplelytics.co
-Startup: Intriq, Website: intriq.ai/
-Startup: Sparkcraft, Website: sparkcraft.com
-Startup: Talamo, Website: talamoapp.com/
-Startup: Bind AI, Website: www.getbind.co
-
-
-*****************
-Group: Other Production Occupations
-________________
-10 Most Highly Weighted Titles:
-Title: Helpers--Production Workers, Weight: 0.4
-Title: Jewelers and Precious Stone and Metal Workers, Weight: 0.4
-Title: Inspectors, Testers, Sorters, Samplers, and Weighers, Weight: 0.17
-Title: Semiconductor Processing Technicians, Weight: 0.12
-
-
-10 Most Highly Weighted Tasks:
-Task: Examine products to verify conformance to quality standards., Weight: 0.4
-Task: Buy and sell jewelry, or serve as agents between buyers and sellers., Weight: 0.2
-Task: Record the weights and processing times of finished pieces., Weight: 0.2
-Task: Monitor production operations or equipment to ensure conformance to specifications, making necessary process or assembly adjustments., Weight: 0.17
-Task: Count, sort, and weigh processed items., Weight: 0.12
-
-
-10 Example Startups:
-Startup: Dealer Data Solutions, Website: dealerdatasolution.com
-Startup: Swarmbotics AI, Website: www.swarmbotics.ai
-Startup: Nexia, Website: nex-ia.com
-Startup: Orbita Technologies, Website: orbitatech.it/
-Startup: Bilus Teknoloji, Website: bilusteknoloji.com
-
-
-*****************
-Group: Plant and System Operators
-________________
-10 Most Highly Weighted Titles:
-Title: Power Plant Operators, Weight: 0.42
-Title: Gas Plant Operators, Weight: 0.36
-
-
-10 Most Highly Weighted Tasks:
-Task: Monitor power plant equipment and indicators to detect evidence of operating problems., Weight: 0.31
-Task: Read logsheets to determine product demand and disposition, or to detect malfunctions., Weight: 0.24
-Task: Record, review, and compile operations records, test results, and gauge readings such as temperatures, pressures, concentrations, and flows., Weight: 0.12
-Task: Inspect records or log book entries or communicate with plant personnel to assess equipment operating status., Weight: 0.11
-
-
-10 Example Startups:
-Startup: Pdmechanics, Website: pdmechanics.com
-Startup: Bolo AI, Website: www.getbolo.ai/
-Startup: Digital Iron, Website: www.digitaliron.ai
-
-
-*****************
-Group: Drafters, Engineering Technicians, and Mapping Technicians
-________________
-10 Most Highly Weighted Titles:
-Title: Mechanical Drafters, Weight: 0.33
-Title: Surveying and Mapping Technicians, Weight: 0.17
-Title: Environmental Engineering Technologists and Technicians, Weight: 0.11
-Title: Mechanical Engineering Technologists and Technicians, Weight: 0.11
-
-
-10 Most Highly Weighted Tasks:
-Task: Produce three-dimensional models, using computer-aided design (CAD) software., Weight: 0.33
-Task: Compare topographical features or contour lines with images from aerial photographs, old maps, or other reference materials to verify the accuracy of their identification., Weight: 0.17
-Task: Conduct failure analyses, document results, and recommend corrective actions., Weight: 0.11
-Task: Maintain process parameters and evaluate process anomalies., Weight: 0.11
-
-
-10 Example Startups:
-Startup: FlyPix AI, Website: flypix.ai
-Startup: Leo AI, Website: leo.watch
-Startup: Leo AI, Website: www.getleo.ai/
-Startup: NeuraNiche, Website: www.neuraniche.com
-Startup: Tallgeese AI, Website: tallgeese.ai
-
-
-*****************
-Group: Supervisors of Farming, Fishing, and Forestry Workers
-________________
-10 Most Highly Weighted Titles:
-Title: First-Line Supervisors of Farming, Fishing, and Forestry Workers, Weight: 0.67
-
-
-10 Most Highly Weighted Tasks:
-Task: Observe fish and beds or ponds to detect diseases, monitor fish growth, determine quality of fish, or determine completeness of harvesting., Weight: 0.33
-Task: Record the numbers and types of fish or shellfish reared, harvested, released, sold, and shipped., Weight: 0.33
-
-
-10 Example Startups:
-Startup: Breathing Fish, Website: breathing.fish
-
-
-*****************
-Group: Architects, Surveyors, and Cartographers
-________________
-10 Most Highly Weighted Titles:
-Title: Surveyors, Weight: 0.31
-Title: Cartographers and Photogrammetrists, Weight: 0.17
-Title: Landscape Architects, Weight: 0.14
-
-
-10 Most Highly Weighted Tasks:
-Task: Direct aerial surveys of specified geographical areas., Weight: 0.17
-Task: Travel over photographed areas to observe, identify, record, and verify all relevant features., Weight: 0.17
-Task: Develop criteria for the design and modification of survey instruments., Weight: 0.14
-Task: Develop marketing materials, proposals, or presentations to generate new work opportunities., Weight: 0.14
-
-
-10 Example Startups:
-Startup: FlyPix AI, Website: flypix.ai
-Startup: DataSnack, Website: www.datasnack.ai/
-Startup: LetzAI, Website: letz.ai
-
-
-*****************
-Group: Baggage Porters, Bellhops, and Concierges
-________________
-10 Most Highly Weighted Titles:
-Title: Concierges, Weight: 0.5
-
-
-10 Most Highly Weighted Tasks:
-Task: Make travel arrangements for sightseeing or other tours., Weight: 0.17
-Task: Provide directions to guests., Weight: 0.17
-Task: Provide information about local features, such as shopping, dining, nightlife, or recreational destinations., Weight: 0.17
-
-
-10 Example Startups:
-Startup: 10pct., Website: www.tenpct.jp
-
-
-*****************
-Group: Cooks and Food Preparation Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Cooks, Restaurant, Weight: 0.5
-
-
-10 Most Highly Weighted Tasks:
-Task: Plan and price menu items., Weight: 0.5
-
-
-10 Example Startups:
-Startup: RenoApp, Website: www.renoapp.in
-Startup: Big Appetite Co, Website: bigappetiteco.ai/
-
-
-*****************
-Group: Supervisors of Food Preparation and Serving Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Chefs and Head Cooks, Weight: 0.4
-
-
-10 Most Highly Weighted Tasks:
-Task: Determine production schedules and staff requirements necessary to ensure timely delivery of services., Weight: 0.2
-Task: Estimate amounts and costs of required supplies, such as food and ingredients., Weight: 0.2
-
-
-10 Example Startups:
-Startup: SkoneLabs, Website: www.skonelabs.com
-
-
-*****************
-Group: Occupational Health and Safety Specialists and Technicians
-________________
-10 Most Highly Weighted Titles:
-Title: Occupational Health and Safety Specialists, Weight: 0.2
-Title: Occupational Health and Safety Technicians, Weight: 0.2
-
-
-10 Most Highly Weighted Tasks:
-Task: Analyze incident data to identify trends in injuries, illnesses, accidents, or other hazards., Weight: 0.2
-Task: Collect data regarding potential hazards from new equipment or products linked to green practices., Weight: 0.2
-
-
-10 Example Startups:
-Startup: ProcessMaster, Website: processmaster.ai/
-
-
-*****************
-Group: Supervisors of Protective Service Workers
-________________
-10 Most Highly Weighted Titles:
-Title: First-Line Supervisors of Security Workers, Weight: 0.39
-
-
-10 Most Highly Weighted Tasks:
-Task: Monitor closed-circuit television cameras., Weight: 0.39
-
-
-10 Example Startups:
-Startup: Surveilx Intelligence, Website: —
-Startup: Active Insights, Website: activeinsights.ai/
-
-
-*****************
-Group: Rail Transportation Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Locomotive Engineers, Weight: 0.38
-
-
-10 Most Highly Weighted Tasks:
-Task: Check to ensure that brake examination tests are conducted at shunting stations., Weight: 0.12
-Task: Inspect locomotives after runs to detect damaged or defective equipment., Weight: 0.12
-Task: Observe tracks to detect obstructions., Weight: 0.12
-
-
-10 Example Startups:
-Startup: Sahay AI, Website: sahayai.com/
-
-
-*****************
-Group: Personal Appearance Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Skincare Specialists, Weight: 0.33
-
-
-10 Most Highly Weighted Tasks:
-Task: Examine clients' skin, using magnifying lamps or visors when necessary, to evaluate skin condition and appearance., Weight: 0.33
-
-
-10 Example Startups:
-Startup: Pandacare, Website: www.pandacareng.com
-
-
-*****************
-Group: Entertainment Attendants and Related Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Ushers, Lobby Attendants, and Ticket Takers, Weight: 0.33
-
-
-10 Most Highly Weighted Tasks:
-Task: Count and record number of tickets collected., Weight: 0.33
-
-
-10 Example Startups:
-Startup: Supersight, Website: supersight.fi
-
-
-*****************
-Group: Assemblers and Fabricators
-________________
-10 Most Highly Weighted Titles:
-Title: Electrical and Electronic Equipment Assemblers, Weight: 0.33
-
-
-10 Most Highly Weighted Tasks:
-Task: Complete, review, or maintain production, time, or component waste reports., Weight: 0.11
-Task: Mark and tag components so that stock inventory can be tracked and identified., Weight: 0.11
-Task: Read and interpret schematic drawings, diagrams, blueprints, specifications, work orders, or reports to determine materials requirements or assembly instructions., Weight: 0.11
-
-
-10 Example Startups:
-Startup: mimic, Website: www.mimicrobotics.com/
-
-
-*****************
-Group: Animal Care and Service Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Animal Caretakers, Weight: 0.33
-
-
-10 Most Highly Weighted Tasks:
-Task: Advise pet owners on how to care for their pets' health., Weight: 0.33
-
-
-10 Example Startups:
-Startup: Pet Portal AI, Website: petportal.ai
-
-
-*****************
-Group: Woodworkers
-________________
-10 Most Highly Weighted Titles:
-Title: Furniture Finishers, Weight: 0.33
-
-
-10 Most Highly Weighted Tasks:
-Task: Confer with customers to determine furniture colors or finishes., Weight: 0.17
-Task: Recommend woods, colors, finishes, and furniture styles, using knowledge of wood products, fashions, and styles., Weight: 0.17
-
-
-10 Example Startups:
-Startup: Triorama AI, Website: triorama.ai/
-
-
-*****************
-Group: Law Enforcement Workers
-________________
-10 Most Highly Weighted Titles:
-Title: Detectives and Criminal Investigators, Weight: 0.29
-
-
-10 Most Highly Weighted Tasks:
-Task: Examine records to locate links in chains of evidence or information., Weight: 0.14
-Task: Maintain surveillance of establishments to obtain identifying information on suspects., Weight: 0.14
-
-
-10 Example Startups:
-Startup: Degrees of Interest, Website: www.degreesofinterest.com
+Startup: Abide AI, Website: abideai.com/
+Startup: aBLT.ai, Website: ablt.ai/
 
 
 *****************
 Group: Occupational Therapy and Physical Therapist Assistants and Aides
 ________________
 10 Most Highly Weighted Titles:
-Title: Physical Therapist Assistants, Weight: 0.25
+Title: Physical Therapist Assistants, Weight: 1.0
 
 
 10 Most Highly Weighted Tasks:
-Task: Observe patients during treatments to compile and evaluate data on their responses and progress and provide results to physical therapist in person or through progress notes., Weight: 0.25
+Task: Document patient information, such as notes on their progress., Weight: 0.33
+Task: Monitor operation of equipment and record use of equipment and administration of treatment., Weight: 0.33
+Task: Observe patients during treatments to compile and evaluate data on their responses and progress and provide results to physical therapist in person or through progress notes., Weight: 0.33
 
 
 10 Example Startups:
-Startup: LUBU Technologies, Website: www.lubu.ai/
+Startup: DRInclusive, Website: —
+Startup: Fownd Inc., Website: fownd.care
 
 
 *****************
-Group: Food Processing Workers
+Group: Retail Sales Workers
 ________________
 10 Most Highly Weighted Titles:
-Title: Bakers, Weight: 0.2
+Title: Retail Salespersons, Weight: 1.0
 
 
 10 Most Highly Weighted Tasks:
-Task: Order or receive supplies or equipment., Weight: 0.2
+Task: Describe merchandise and explain use, operation, and care of merchandise to customers., Weight: 0.33
+Task: Recommend, select, and help locate or obtain merchandise based on customer needs and desires., Weight: 0.33
+Task: Sell or arrange for delivery, insurance, financing, or service contracts for merchandise., Weight: 0.33
 
 
 10 Example Startups:
-Startup: Asystly, Website: asystly.com
+Startup: inPlace, Website: www.inplace.ai
 
 
 *****************
-Group: Extraction Workers
+Group: Computer Occupations
 ________________
 10 Most Highly Weighted Titles:
-Title: Continuous Mining Machine Operators, Weight: 0.2
+Title: Web Developers, Weight: 0.5
+Title: Software Developers, Weight: 0.17
 
 
 10 Most Highly Weighted Tasks:
-Task: Observe and listen to equipment operation to detect binding or stoppage of tools or other equipment malfunctions., Weight: 0.2
+Task: Respond to user email inquiries, or set up automated systems to send responses., Weight: 0.5
+Task: Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design., Weight: 0.17
 
 
 10 Example Startups:
-Startup: Digital Iron, Website: www.digitaliron.ai
+Startup: PromptAds, Website: promptads.ai/
+Startup: Abide AI, Website: abideai.com/
 
 
 *****************
-Group: Other Food Preparation and Serving Related Workers
+Group: Other Office and Administrative Support Workers
 ________________
 10 Most Highly Weighted Titles:
-Title: Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop, Weight: 0.17
+Title: Data Entry Keyers, Weight: 0.33
+Title: Statistical Assistants, Weight: 0.33
 
 
 10 Most Highly Weighted Tasks:
-Task: Receive and record patrons' dining reservations., Weight: 0.17
+Task: Compile, sort, and verify the accuracy of data before it is entered., Weight: 0.33
+Task: Enter data into computers for use in analyses or reports., Weight: 0.33
 
 
 10 Example Startups:
-Startup: Supersight, Website: supersight.fi
+Startup: AiPlix, Website: San Francisco Bay Area, West Coast, Western US
 
 
 *****************
-Group: Forest, Conservation, and Logging Workers
+Group: Information and Record Clerks
 ________________
 10 Most Highly Weighted Titles:
-Title: Forest and Conservation Workers, Weight: 0.17
+Title: Receptionists and Information Clerks, Weight: 0.6
 
 
 10 Most Highly Weighted Tasks:
-Task: Maintain tallies of trees examined and counted during tree marking or measuring efforts., Weight: 0.17
+Task: Operate telephone switchboard to answer, screen, or forward calls, providing information, taking messages, or scheduling appointments., Weight: 0.2
+Task: Schedule appointments and maintain and update appointment calendars., Weight: 0.2
+Task: Schedule space or equipment for special programs and prepare lists of participants., Weight: 0.2
 
 
 10 Example Startups:
-Startup: FlyPix AI, Website: flypix.ai
+Startup: SkedulApp, Website: skedulapp.com
 
 
 *****************
-Group: Textile, Apparel, and Furnishings Workers
+Group: Healthcare Diagnosing or Treating Practitioners
 ________________
 10 Most Highly Weighted Titles:
-Title: Upholsterers, Weight: 0.17
+Title: Physical Therapists, Weight: 0.33
+Title: Occupational Therapists, Weight: 0.17
 
 
 10 Most Highly Weighted Tasks:
-Task: Discuss upholstery fabrics, colors, and styles with customers, and provide cost estimates., Weight: 0.17
+Task: Record prognosis, treatment, response, and progress in patient's chart or enter information into computer., Weight: 0.33
+Task: Evaluate patients' progress and prepare reports that detail progress., Weight: 0.17
 
 
 10 Example Startups:
-Startup: Triorama AI, Website: triorama.ai/
+Startup: Fownd Inc., Website: fownd.care
 
 
 *****************
-Group: Supervisors of Personal Care and Service Workers
+Group: Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides
 ________________
 10 Most Highly Weighted Titles:
-Title: First-Line Supervisors of Personal Service Workers, Weight: 0.14
+Title: Personal Care Aides, Weight: 0.33
+Title: Home Health Aides, Weight: 0.17
 
 
 10 Most Highly Weighted Tasks:
-Task: Apply customer feedback to service improvement efforts., Weight: 0.14
+Task: Care for individuals or families during periods of incapacitation, family disruption, or convalescence, providing companionship, personal care, or help in adjusting to new lifestyles., Weight: 0.17
+Task: Maintain records of patient care, condition, progress, or problems to report and discuss observations with supervisor or case manager., Weight: 0.17
+Task: Prepare and maintain records of client progress and services performed, reporting changes in client condition to manager or supervisor., Weight: 0.17
 
 
 10 Example Startups:
-Startup: TrainThis.AI, Website: trainthis.ai/
+Startup: DRInclusive, Website: —
 
 
 *****************
-Group: Supervisors of Transportation and Material Moving Workers
+Group: Sales Representatives, Services
 ________________
 10 Most Highly Weighted Titles:
-Title: First-Line Supervisors of Material-Moving Machine and Vehicle Operators, Weight: 0.11
+Title: Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel, Weight: 0.5
 
 
 10 Most Highly Weighted Tasks:
-Task: Examine, measure, or weigh cargo or materials to determine specific handling requirements., Weight: 0.11
+Task: Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, regulations, or industry developments., Weight: 0.17
+Task: Emphasize or recommend service features based on knowledge of customers' needs and vendor capabilities and limitations., Weight: 0.17
+Task: Identify prospective customers using business directories, leads from clients, or information from conferences or trade shows., Weight: 0.17
 
 
 10 Example Startups:
-Startup: mimic, Website: www.mimicrobotics.com/
+Startup: ConnectFlux, Website: connectflux.ai
+Startup: Skarbe, Website: www.skarbe.com/
+
+
+*****************
+Group: Advertising, Marketing, Promotions, Public Relations, and Sales Managers
+________________
+10 Most Highly Weighted Titles:
+Title: Sales Managers, Weight: 0.33
+
+
+10 Most Highly Weighted Tasks:
+Task: Monitor customer preferences to determine focus of sales efforts., Weight: 0.17
+Task: Resolve customer complaints regarding sales and service., Weight: 0.17
+
+
+10 Example Startups:
+Startup: Skarbe, Website: www.skarbe.com/
+
+
+*****************
+Group: Sales Representatives, Wholesale and Manufacturing
+________________
+10 Most Highly Weighted Titles:
+Title: Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products, Weight: 0.33
+
+
+10 Most Highly Weighted Tasks:
+Task: Monitor market conditions, product innovations, and competitors' products, prices, and sales., Weight: 0.17
+Task: Recommend products to customers, based on customers' needs and interests., Weight: 0.17
+
+
+10 Example Startups:
+Startup: Skarbe, Website: www.skarbe.com/
+
+
+*****************
+Group: Entertainers and Performers, Sports and Related Workers
+________________
+10 Most Highly Weighted Titles:
+Title: Coaches and Scouts, Weight: 0.17
+
+
+10 Most Highly Weighted Tasks:
+Task: Identify and recruit potential athletes by sending recruitment letters, meeting with recruits, and arranging and offering incentives, such as athletic scholarships., Weight: 0.17
+
+
+10 Example Startups:
+Startup: ConnectFlux, Website: connectflux.ai
 
 

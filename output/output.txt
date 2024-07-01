@@ -1,0 +1,294 @@
+1000 Startups Founded in 2023/2024 with 1-10 employees
+Decomposition of effect on labor market
+*****************
+Group: Business Operations Specialists
+________________
+10 Most Highly Weighted Titles:
+Title: Market Research Analysts and Marketing Specialists, Weight: 1.0
+Title: Fundraisers, Weight: 0.5
+Title: Management Analysts, Weight: 0.5
+Title: Project Management Specialists, Weight: 0.33
+Title: Human Resources Specialists, Weight: 0.17
+
+
+10 Most Highly Weighted Tasks:
+Task: Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand., Weight: 0.33
+Task: Forecast and track marketing and sales trends, analyzing collected data., Weight: 0.33
+Task: Analyze data gathered and develop solutions or alternative methods of proceeding., Weight: 0.17
+Task: Create or update donor databases., Weight: 0.17
+Task: Design, evaluate, recommend, and approve changes of forms and reports., Weight: 0.17
+Task: Gather and organize information on problems or procedures., Weight: 0.17
+Task: Identify and build relationships with potential donors., Weight: 0.17
+Task: Monitor industry statistics and follow trends in trade literature., Weight: 0.17
+Task: Perform searches for qualified job candidates, using sources such as computer databases, networking, Internet recruiting resources, media advertisements, job fairs, recruiting firms, or employee referrals., Weight: 0.17
+Task: Prepare and submit budget estimates, progress reports, or cost tracking reports., Weight: 0.17
+
+
+10 Example Startups:
+Startup: Vyrtual, Website: vyrtual.ai/
+Startup: NonprofitsHQ, Website: www.nonprofitshq.com
+Startup: SectorFlow AI, Website: sectorflow.ai
+Startup: ConnectFlux, Website: connectflux.ai
+
+
+*****************
+Group: Financial Specialists
+________________
+10 Most Highly Weighted Titles:
+Title: Loan Officers, Weight: 1.0
+Title: Financial and Investment Analysts, Weight: 0.5
+Title: Tax Preparers, Weight: 0.2
+
+
+10 Most Highly Weighted Tasks:
+Task: Analyze applicants' financial status, credit, and property evaluations to determine feasibility of granting loans., Weight: 0.33
+Task: Review and update credit and loan files., Weight: 0.33
+Task: Schedule appointments with clients., Weight: 0.2
+Task: Inform investment decisions by analyzing financial information to forecast business, industry, or economic conditions., Weight: 0.17
+Task: Interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs., Weight: 0.17
+Task: Obtain and compile copies of loan applicants' credit histories, corporate financial statements, and other financial information., Weight: 0.17
+Task: Prepare plans of action for investment, using financial analyses., Weight: 0.17
+Task: Review loan agreements to ensure that they are complete and accurate according to policy., Weight: 0.17
+
+
+10 Example Startups:
+Startup: DubPrime, Website: www.dubprime.com/
+Startup: SectorFlow AI, Website: sectorflow.ai
+Startup: SkedulApp, Website: skedulapp.com
+
+
+*****************
+Group: Other Sales and Related Workers
+________________
+10 Most Highly Weighted Titles:
+Title: Telemarketers, Weight: 0.67
+Title: Real Estate Brokers, Weight: 0.5
+Title: Real Estate Sales Agents, Weight: 0.5
+
+
+10 Most Highly Weighted Tasks:
+Task: Obtain customer information such as name, address, and payment method, and enter orders into computers., Weight: 0.33
+Task: Adjust sales scripts to better target the needs and interests of specific individuals., Weight: 0.17
+Task: Appraise property values, assessing income potential when relevant., Weight: 0.17
+Task: Generate lists of properties for sale, their locations, descriptions, and available financing options, using computers., Weight: 0.17
+Task: Generate lists of properties that are compatible with buyers' needs and financial resources., Weight: 0.17
+Task: Locate and appraise undeveloped areas for building sites, based on evaluations of area market conditions., Weight: 0.17
+Task: Maintain awareness of current income tax regulations, local zoning, building and tax laws, and growth possibilities of a property's area., Weight: 0.17
+Task: Promote sales of properties through advertisements, open houses, and participation in multiple listing services., Weight: 0.17
+Task: Schedule appointments for sales representatives to meet with prospective customers or for customers to attend sales presentations., Weight: 0.17
+
+
+10 Example Startups:
+Startup: HomeHQ.ai, Website: homehq.ai/
+Startup: AiPlix, Website: San Francisco Bay Area, West Coast, Western US
+Startup: ConnectFlux, Website: connectflux.ai
+
+
+*****************
+Group: Mathematical Science Occupations
+________________
+10 Most Highly Weighted Titles:
+Title: Data Scientists, Weight: 1.33
+
+
+10 Most Highly Weighted Tasks:
+Task: Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest., Weight: 0.5
+Task: Clean and manipulate raw data using statistical software., Weight: 0.17
+Task: Compare models using statistical performance metrics, such as loss functions or proportion of explained variance., Weight: 0.17
+Task: Propose solutions in engineering, the sciences, and other fields using mathematical theories and techniques., Weight: 0.17
+Task: Recommend data-driven solutions to key stakeholders., Weight: 0.17
+Task: Write new functions or applications in programming languages to conduct analyses., Weight: 0.17
+
+
+10 Example Startups:
+Startup: Abide AI, Website: abideai.com/
+Startup: aBLT.ai, Website: ablt.ai/
+
+
+*****************
+Group: Occupational Therapy and Physical Therapist Assistants and Aides
+________________
+10 Most Highly Weighted Titles:
+Title: Physical Therapist Assistants, Weight: 1.0
+
+
+10 Most Highly Weighted Tasks:
+Task: Document patient information, such as notes on their progress., Weight: 0.33
+Task: Monitor operation of equipment and record use of equipment and administration of treatment., Weight: 0.33
+Task: Observe patients during treatments to compile and evaluate data on their responses and progress and provide results to physical therapist in person or through progress notes., Weight: 0.33
+
+
+10 Example Startups:
+Startup: DRInclusive, Website: —
+Startup: Fownd Inc., Website: fownd.care
+
+
+*****************
+Group: Retail Sales Workers
+________________
+10 Most Highly Weighted Titles:
+Title: Retail Salespersons, Weight: 1.0
+
+
+10 Most Highly Weighted Tasks:
+Task: Describe merchandise and explain use, operation, and care of merchandise to customers., Weight: 0.33
+Task: Recommend, select, and help locate or obtain merchandise based on customer needs and desires., Weight: 0.33
+Task: Sell or arrange for delivery, insurance, financing, or service contracts for merchandise., Weight: 0.33
+
+
+10 Example Startups:
+Startup: inPlace, Website: www.inplace.ai
+
+
+*****************
+Group: Computer Occupations
+________________
+10 Most Highly Weighted Titles:
+Title: Web Developers, Weight: 0.5
+Title: Software Developers, Weight: 0.17
+
+
+10 Most Highly Weighted Tasks:
+Task: Respond to user email inquiries, or set up automated systems to send responses., Weight: 0.5
+Task: Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design., Weight: 0.17
+
+
+10 Example Startups:
+Startup: PromptAds, Website: promptads.ai/
+Startup: Abide AI, Website: abideai.com/
+
+
+*****************
+Group: Other Office and Administrative Support Workers
+________________
+10 Most Highly Weighted Titles:
+Title: Data Entry Keyers, Weight: 0.33
+Title: Statistical Assistants, Weight: 0.33
+
+
+10 Most Highly Weighted Tasks:
+Task: Compile, sort, and verify the accuracy of data before it is entered., Weight: 0.33
+Task: Enter data into computers for use in analyses or reports., Weight: 0.33
+
+
+10 Example Startups:
+Startup: AiPlix, Website: San Francisco Bay Area, West Coast, Western US
+
+
+*****************
+Group: Information and Record Clerks
+________________
+10 Most Highly Weighted Titles:
+Title: Receptionists and Information Clerks, Weight: 0.6
+
+
+10 Most Highly Weighted Tasks:
+Task: Operate telephone switchboard to answer, screen, or forward calls, providing information, taking messages, or scheduling appointments., Weight: 0.2
+Task: Schedule appointments and maintain and update appointment calendars., Weight: 0.2
+Task: Schedule space or equipment for special programs and prepare lists of participants., Weight: 0.2
+
+
+10 Example Startups:
+Startup: SkedulApp, Website: skedulapp.com
+
+
+*****************
+Group: Healthcare Diagnosing or Treating Practitioners
+________________
+10 Most Highly Weighted Titles:
+Title: Physical Therapists, Weight: 0.33
+Title: Occupational Therapists, Weight: 0.17
+
+
+10 Most Highly Weighted Tasks:
+Task: Record prognosis, treatment, response, and progress in patient's chart or enter information into computer., Weight: 0.33
+Task: Evaluate patients' progress and prepare reports that detail progress., Weight: 0.17
+
+
+10 Example Startups:
+Startup: Fownd Inc., Website: fownd.care
+
+
+*****************
+Group: Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides
+________________
+10 Most Highly Weighted Titles:
+Title: Personal Care Aides, Weight: 0.33
+Title: Home Health Aides, Weight: 0.17
+
+
+10 Most Highly Weighted Tasks:
+Task: Care for individuals or families during periods of incapacitation, family disruption, or convalescence, providing companionship, personal care, or help in adjusting to new lifestyles., Weight: 0.17
+Task: Maintain records of patient care, condition, progress, or problems to report and discuss observations with supervisor or case manager., Weight: 0.17
+Task: Prepare and maintain records of client progress and services performed, reporting changes in client condition to manager or supervisor., Weight: 0.17
+
+
+10 Example Startups:
+Startup: DRInclusive, Website: —
+
+
+*****************
+Group: Sales Representatives, Services
+________________
+10 Most Highly Weighted Titles:
+Title: Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel, Weight: 0.5
+
+
+10 Most Highly Weighted Tasks:
+Task: Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, regulations, or industry developments., Weight: 0.17
+Task: Emphasize or recommend service features based on knowledge of customers' needs and vendor capabilities and limitations., Weight: 0.17
+Task: Identify prospective customers using business directories, leads from clients, or information from conferences or trade shows., Weight: 0.17
+
+
+10 Example Startups:
+Startup: ConnectFlux, Website: connectflux.ai
+Startup: Skarbe, Website: www.skarbe.com/
+
+
+*****************
+Group: Advertising, Marketing, Promotions, Public Relations, and Sales Managers
+________________
+10 Most Highly Weighted Titles:
+Title: Sales Managers, Weight: 0.33
+
+
+10 Most Highly Weighted Tasks:
+Task: Monitor customer preferences to determine focus of sales efforts., Weight: 0.17
+Task: Resolve customer complaints regarding sales and service., Weight: 0.17
+
+
+10 Example Startups:
+Startup: Skarbe, Website: www.skarbe.com/
+
+
+*****************
+Group: Sales Representatives, Wholesale and Manufacturing
+________________
+10 Most Highly Weighted Titles:
+Title: Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products, Weight: 0.33
+
+
+10 Most Highly Weighted Tasks:
+Task: Monitor market conditions, product innovations, and competitors' products, prices, and sales., Weight: 0.17
+Task: Recommend products to customers, based on customers' needs and interests., Weight: 0.17
+
+
+10 Example Startups:
+Startup: Skarbe, Website: www.skarbe.com/
+
+
+*****************
+Group: Entertainers and Performers, Sports and Related Workers
+________________
+10 Most Highly Weighted Titles:
+Title: Coaches and Scouts, Weight: 0.17
+
+
+10 Most Highly Weighted Tasks:
+Task: Identify and recruit potential athletes by sending recruitment letters, meeting with recruits, and arranging and offering incentives, such as athletic scholarships., Weight: 0.17
+
+
+10 Example Startups:
+Startup: ConnectFlux, Website: connectflux.ai
+
+
