@@ -14,13 +14,15 @@ import json
 from sklearn.metrics.pairwise import cosine_similarity
 import re
 
-load_dotenv("../../.env",override=True)
+
+
+genai.configure(api_key=GOOGLE_API_KEY)
+
+load_dotenv("../.env",override=True)
 GOOGLE_API_KEY = getenv("GEMINI_API_KEY")
 OPENAI_API_KEY = getenv("OPENAI_API_KEY")
 
 
-
-genai.configure(api_key=GOOGLE_API_KEY)
 class gemini():
     def __init__(self):
         self.model = genai.GenerativeModel('gemini-1.5-flash')
