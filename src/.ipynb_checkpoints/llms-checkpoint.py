@@ -6,7 +6,7 @@ from os import getenv
 from openai import OpenAI
 import pathlib
 import textwrap
-import google.generativeai as genai
+# import google.generativeai as genai
 import time
 import requests
 import ast
@@ -15,8 +15,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 import re
 
 
-
-genai.configure(api_key=GOOGLE_API_KEY)
+# 
+# genai.configure(api_key=GOOGLE_API_KEY)
 
 load_dotenv("../.env",override=True)
 GOOGLE_API_KEY = getenv("GEMINI_API_KEY")
@@ -24,8 +24,8 @@ OPENAI_API_KEY = getenv("OPENAI_API_KEY")
 
 
 class gemini():
-    def __init__(self):
-        self.model = genai.GenerativeModel('gemini-1.5-flash')
+    # def __init__(self):
+        # self.model = genai.GenerativeModel('gemini-1.5-flash')
     def request(self,prompt):
         url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent'
         headers = {
@@ -82,7 +82,10 @@ class chatGPT():
        return self.client.embeddings.create(input = [text], model=model).data[0].embedding
 
 
-
+    def get_batch_embeddings(self, texts, model="text-embedding-3-large"):
+        texts = [text.replace("\n", " ") for text in texts]
+        response = self.client.embeddings.create(input=texts, model=model)
+        return [item.embedding for item in response.data]
 
 
 

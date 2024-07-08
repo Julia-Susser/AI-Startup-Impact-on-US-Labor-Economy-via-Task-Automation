@@ -82,7 +82,10 @@ class chatGPT():
        return self.client.embeddings.create(input = [text], model=model).data[0].embedding
 
 
-
+    def get_batch_embeddings(self, texts, model="text-embedding-3-large"):
+        texts = [text.replace("\n", " ") for text in texts]
+        response = self.client.embeddings.create(input=texts, model=model)
+        return [item.embedding for item in response.data]
 
 
 
