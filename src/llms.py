@@ -86,6 +86,44 @@ class chatGPT():
         texts = [text.replace("\n", " ") for text in texts]
         response = self.client.embeddings.create(input=texts, model=model)
         return [item.embedding for item in response.data]
+    
+
+    def run_batch_embeddings(self, df, col, batch_size=200, model="text-embedding-3-large"):
+        results = []
+        batch_texts = []
+        indices = []
+
+        for i, text in df[col].items():
+            batch_texts.append(text)
+            indices.append(i)
+            
+            # When we reach the batch size, process the batch
+            if len(batch_texts) >= batch_size:
+                print(f"Processing batch {int(i/batch_size)*batch_size} to {i}")
+
+                # Get embeddings for the batch of texts
+                batch_embeddings = self.get_batch_embeddings(batch_texts, model=model)
+
+                # Append results
+                for idx, embedding in zip(indices, batch_embeddings):
+                    results.append((idx, embedding))
+
+                # Clear the batch lists
+                batch_texts = []
+                indices = []
+
+        # Process any remaining items in the batch
+        if batch_texts:
+            print(f"Processing final batch {len(df) - len(batch_texts)} to {len(df)}")
+            batch_embeddings = self.get_batch_embeddings(batch_texts, model=model)
+            for idx, embedding in zip(indices, batch_embeddings):
+                results.append((idx, embedding))
+
+        # Create a DataFrame from the results
+        embeddings_df = pd.DataFrame(results, columns=['index', f'{col}_embedding']).set_index('index')
+
+        return embeddings_df
+
 
 
 
