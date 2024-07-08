@@ -7,3 +7,4 @@
 .env
 *.xlsx
 *.pdf
+src/.ipynb_checkpoints/eda-checkpoint.ipynb
