@@ -23,10 +23,9 @@ GOOGLE_API_KEY = getenv("GEMINI_API_KEY")
 OPENAI_API_KEY = getenv("OPENAI_API_KEY")
 
 
+
 class gemini():
-    # def __init__(self):
-        # self.model = genai.GenerativeModel('gemini-1.5-flash')
-    def request(self,prompt):
+    async def request(self, session, prompt):
         url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent'
         headers = {
             'Content-Type': 'application/json',
@@ -46,17 +45,13 @@ class gemini():
             'key': GOOGLE_API_KEY
         }
         
-        response = requests.post(url, headers=headers, json=data, params=params)
-        return json.loads(response.text)
+        async with session.post(url, headers=headers, json=data, params=params) as response:
+            return await response.json()
 
-    def ask(self,prompt):
-        #response = self.model.generate_content(prompt)
-        response = self.request(prompt)
+    async def ask(self, session, prompt):
+        response = await self.request(session, prompt)
         if response["candidates"][0]["finishReason"] == 'SAFETY': return "N/A"
-        response = response["candidates"][0]["content"]["parts"][0]["text"]
-        return response
-
-
+        return response["candidates"][0]["content"]["parts"][0]["text"]
 
 class chatGPT():
     def __init__(self):
