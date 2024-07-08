@@ -92,37 +92,39 @@ class chatGPT():
         results = []
         batch_texts = []
         indices = []
-
+        start = 0
+        num = 0
         for i, text in df[col].items():
             batch_texts.append(text)
             indices.append(i)
             
             # When we reach the batch size, process the batch
             if len(batch_texts) >= batch_size:
-                print(f"Processing batch {int(i/batch_size)*batch_size} to {i}")
+                print(f"Processing batch {start} to {num}")
 
                 # Get embeddings for the batch of texts
                 batch_embeddings = self.get_batch_embeddings(batch_texts, model=model)
 
                 # Append results
                 for idx, embedding in zip(indices, batch_embeddings):
-                    results.append((idx, embedding))
+                    results.append(embedding)
 
                 # Clear the batch lists
                 batch_texts = []
                 indices = []
-
+                start = num+1
+            num = num+1
         # Process any remaining items in the batch
         if batch_texts:
             print(f"Processing final batch {len(df) - len(batch_texts)} to {len(df)}")
             batch_embeddings = self.get_batch_embeddings(batch_texts, model=model)
             for idx, embedding in zip(indices, batch_embeddings):
-                results.append((idx, embedding))
+                results.append(embedding)
 
         # Create a DataFrame from the results
-        embeddings_df = pd.DataFrame(results, columns=['index', f'{col}_embedding']).set_index('index')
+        df[f'{col}_embedding'] = results
 
-        return embeddings_df
+        return df
 
 
 
