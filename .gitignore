@@ -12,3 +12,4 @@ src/.ipynb_checkpoints/eda-checkpoint.ipynb
 src/version 3/.ipynb_checkpoints/eda by location-checkpoint.ipynb
 /src/.ipynb_checkpoints
 .DS_Store
+!src/*.zip
