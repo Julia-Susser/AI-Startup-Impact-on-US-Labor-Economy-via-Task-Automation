@@ -8,3 +8,4 @@
 *.xlsx
 *.pdf
 src/.ipynb_checkpoints/eda-checkpoint.ipynb
+/src/.ipynb_checkpoints
