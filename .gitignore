@@ -1,17 +1,6 @@
-2021/
-2022/
-2023/
-2024/
+
+*.json
 *.csv
+input/.DS_Store
 *.zip
 .env
-*.xlsx
-*.pdf
-src/.ipynb_checkpoints/eda-checkpoint.ipynb
-/src/.ipynb_checkpoints
-src/version 3/.ipynb_checkpoints/eda by location-checkpoint.ipynb
-/src/.ipynb_checkpoints
-.DS_Store
-!src/*.zip
-*.txt
-*.html

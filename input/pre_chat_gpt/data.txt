@@ -1,0 +1,1001 @@
+Gro Intelligence Logo
+Gro Intelligence
+2014
+101-250
+Gro is a global team of technology, climate, and agriculture experts. We have built an AI-powered platform that helps our customers tackle their most pressing challenges - from forecasting and assuring supply chains to climate change and food security. The Gro Platform was founded on diversity and the knowledge that artificial intelligence is only as powerful as the human intelligence behind it. With offices in New York City and Nairobi, we are cross-functional, collaborative, and multicultural. We believe that agricultural and climate data is a form of infrastructure necessary for societies to thrive. But that data becomes knowledge when it pairs the insight of human intelligence with the scale of artificial intelligence.
+Agriculture, Artificial Intelligence (AI), Big Data, Data Visualization, Information Technology, SaaS
+New York, New York, United States
+The AI-powered decision engine across agriculture, climate, and the economy
+www.gro-intelligence.com
+
+Andela Logo
+Andela
+May 21, 2014
+251-500
+Andela operates the world’s largest private marketplace of skilled digital talent. Its adaptive hiring model gives companies greater flexibility to quickly deploy skilled talent based on need. The company’s exclusive AI-powered platform, Andela Talent Cloud, optimizes the process of finding the right talent and getting projects started fast. Clients can select individual roles or engage fully managed teams up to 66% faster at 30-50% less cost than traditional approaches. Andela’s seasoned hiring professionals manage all the groundwork associated with borderless hiring, from compliance and payroll to talent management. Andela’s diverse talent ecosystem spans over 135 countries, including untapped markets like Africa and Latin America, and is highly skilled in advanced technologies to support Application Development, Artificial Intelligence, Cloud & DevOps, Data Engineering, and more. The world’s best brands trust Andela, including GitHub, Mastercard Foundry, and Mindshare.
+B2B, Consulting, Human Resources, Information Technology, Software
+New York, New York, United States
+Andela's mission is to connect brilliance with opportunity.
+andela.com
+
+EnsoData Logo
+EnsoData
+2015
+11-50
+EnsoData is a startup that utilizes artificial intelligence to analyze the human body to diagnose health conditions. EnsoData, whose software uses machine learning algorithms to help clinicians score sleep data and diagnose patients with sleep apnea and other disorders, has now realized that dream—and then some. EnsoData's autoscoring algorithm combines AASM scoring best practices with cutting edge machine learning algorithms that learn and adapt to every single patient.
+Analytics, Artificial Intelligence (AI), Health Care, Machine Learning, Software
+Madison, Wisconsin, United States
+EnsoData is a startup that utilizes artificial intelligence to analyze the human body to diagnose health conditions.
+www.ensodata.com
+
+Exo Logo
+Exo
+2015
+101-250
+Exo is a medical device startup handheld ultrasound platform and AI for imaging and therapeutic applications. The company is committed to delivering affordable and easy-to-use medical imaging to healthcare professionals around the world. By delivering easy-to-use, high-quality medical imaging. Exo empowers healthcare professionals to make critical, real-time decisions that improve patient outcomes. The Exo ultrasound platform combines advances in nano-materials, novel sensor technologies, advanced signal processing, and computation with the economies of scale of semiconductor manufacturing to dramatically reduce the cost of imaging. It also represents a giant leap in imaging and therapeutics technology one that will drive the development of high-performance products that are accessible, easy-to-use, and available at a price point never before possible.
+Health Care, Medical, Medical Device
+Redwood City, California, United States
+Exo is a medical device startup which develops handheld ultrasound devices and AI for imaging and therapeutic applications.
+www.exo.inc
+
+Constructor Logo
+Constructor
+2015
+101-250
+Constructor.io is the only search and product discovery platform tailor-made for enterprise eCommerce where conversions matter. Constructor's cloud-based solutions use natural language processing, machine learning-enhanced results ranking, and collaborative personalization to deliver powerful user experiences across all facets of product discovery -- from search to browse, recommendations, autosuggest, quizzes, and attribute enrichment. We optimize revenue before relevance. This has allowed us to generate consistent $10M+ lifts for our customers, which include some of the biggest brands in retail like Sephora, American Eagle, Backcountry, Birkenstock, and Bonobos. Constructor is a remote-first company with employees around the world. We were founded in 2015 by Eli Finkelshteyn and Dan McCormick.
+Artificial Intelligence (AI), Machine Learning, SaaS, Search Engine, Semantic Search
+San Francisco, California, United States
+Constructor is an AI-enabled product search and discovery platform that provides assistance to e-commerce brands.
+www.constructor.io
+
+Affinity Logo
+Affinity
+2014
+101-250
+Affinity is a relationship intelligence platform built to expand and evolve the traditional CRM. Affinity instantly surfaces all of your team's data and shows you who is best suited to make the crucial introductions you need to close your next big deal. Using AI and natural language processing, Affinity helps your team curate and grow its network by unlocking introductions to decision makers and auto-populating your pipeline to increase deal flow. -- Leverage your network: Map out your team's relationship graph to most effectively source the next big deal -- VCs, level up your portfolio: Ally with your portfolio companies and discover how you can introduce them to key prospects and help them raise their next round -- Startups, get the intro: Map out your team's relationship graph. Discover the entire rolodex of prospects your investors and advisors are connected to and unearth valuable introductions -- Reduce complexity: Get rid of spreadsheets for contact management and receive instant updates related to your pipeline as your team works -- Effectively manage pipeline: Keep track of meetings, manage follow-ups, and receive instant updates related to your pipeline as your team works It's time to adopt a CRM that makes your job easier and maximizes your team and investor's most valuable asset - their networks. Affinity has raised $13.5MM led by 8VC (Joe Lonsdale: Palantir, Addepar, OpenGov), Sway Ventures, Pear Ventures, Great Oaks Venture Capital & Western Technology Investment.
+Analytics, Artificial Intelligence (AI), Business Development, Business Intelligence, Contact Management, CRM, Enterprise Software, Lead Generation
+San Francisco, California, United States
+Affinity is a relationship intelligence platform built to expand and evolve the traditional CRM.
+affinity.co/
+
+Loyal Logo
+Loyal
+Oct 2015
+101-250
+Loyal offers a digital healthcare platform that enhances patient engagement and care navigation. The platform utilizes machine learning and data integration to streamline healthcare interactions for patients and providers. By unifying care touchpoints, it supports health systems in improving operational efficiency and patient satisfaction.
+Artificial Intelligence (AI), Health Care, Information Technology, Machine Learning, Medical
+Atlanta, Georgia, United States
+Loyal provides an integrated digital healthcare platform for patient engagement.
+loyalhealth.com
+
+Standard Bots Logo
+Standard Bots
+2015
+11-50
+Standard Bots is a company dedicated to building the world's most accessible and powerful robotics platform. They design and engineer advanced hardware and software solutions, such as the RO1 robot, to help businesses across various industries automate their operations and boost productivity. Standard Bots' products are designed to be intuitive, flexible, and easily integrated into existing workflows, making automation accessible to companies of all sizes.
+Artificial Intelligence (AI), Information Technology, Robotics, Software
+New York, New York, United States
+Standard Bots offers advanced automation solutions, including the RO1 robot, to help businesses streamline their operations.
+standardbots.com
+
+Trust Stamp Logo
+Trust Stamp
+2015
+101-250
+Trust Stamp applies advanced cryptographic techniques and AI-powered presentation-attack detection tools to biometric and other identity data to create a proprietary non-PII Hash (IT2). The company's technology is used in multiple verticals, including humanitarian and development services, banking, FinTech, KYC / AML compliance, real estate, and law enforcement.
+Artificial Intelligence (AI), Biometrics, Fraud Detection, Identity Management, InsurTech, Machine Learning, Transaction Processing
+Atlanta, Georgia, United States
+Trust Stamp is a developer of AI-powered software that provides identity verification, cybersecurity, biometrics, cryptography, and fintech.
+www.truststamp.ai
+
+Jasper Logo
+Jasper
+Feb 11, 2015
+101-250
+Jasper is a global Enterprise AI marketing company with offices in the US, Australia and France. Jasper’s platform enables the world's most innovative companies to reimagine their end-to-end marketing workflows, driving increased brand consistency, efficiency and personalization at scale. Jasper has been recognized as "one of America's fastest-growing private companies" by Inc. 5000. Learn more at jasper.ai.
+Artificial Intelligence (AI), Content, Content Creators
+Austin, Texas, United States
+Jasper is an enterprise AI marketing platform.
+www.jasper.ai
+
+Rokid Logo
+Rokid
+2014
+251-500
+Rokid is a Chinese technology company specializing in artificial intelligence (AI) and robotics. Rokid is known for developing and manufacturing smart devices, including AI-powered smart speakers and smart glasses. One of Rokid's notable products is the Rokid Glass, a pair of augmented reality smart glasses that incorporate AI capabilities for applications such as facial recognition, language translation, and voice control. These glasses are designed to provide users with an enhanced and interactive experience by overlaying digital information onto the physical world.
+Artificial Intelligence (AI), Augmented Reality, Consumer Electronics, Human Computer Interaction, Robotics
+Redwood City, California, United States
+Rokid specializes in augmented reality technology that offers smart devices, AR gadgets, and robotics software.
+rokid.ai
+
+Patientory Logo
+Patientory
+2015
+1-10
+Patientory is a patient data platform that empowers individuals to control their health data and earn personalized rewards. The company is transforming the interaction between healthcare stakeholders and patients, streamlining access to information by eliminating the layers and processes currently hindering care coordination.
+Artificial Intelligence (AI), Blockchain, Electronic Health Record (EHR), Health Care, Software
+Atlanta, Georgia, United States
+Patientory is a patient data platform that empowers individuals to control their health data and earn personalized rewards.
+patientory.com
+
+Indico Data Logo
+Indico Data
+2014
+101-250
+Indico Data transforms unstructured data into actionable insights. With the AI and ML-powered Indico Unstructured Data Platform™, enterprises of all sizes can automate, analyze, and apply unstructured data – documents, emails, images, videos and more – to a wide range of enterprise workflows. This enables them to gain rich insight and maximize the value of their existing software investments, including RPA, CRM, ERP, BI, by enabling these systems to work with unstructured data.
+Analytics, Artificial Intelligence (AI), Machine Learning, Software
+Boston, Massachusetts, United States
+Indico Data provides data intelligent intake solutions that automates and enhances data processing tasks.
+indicodata.ai
+
+Camino Financial Logo
+Camino Financial
+2014
+101-250
+Camino Financial is an AI-powered community lending platform that offers affordable credit and wealth building solutions to overlooked entrepreneurs. The company builds proprietary credit assessment and data aggregation AI to identify, price and provide affordable loans tailored to credit-invisible, cash-heavy businesses. By partnering with other financial institutions, public agencies and mission-aligned companies, Camino Financial is able to pool and distribute low-cost funding and educational resources to entrepreneurs. The winning combination of community-driven partnerships and AI technology results in offering loans with monthly payments 40% lower than alternative products in the market. All loans are tailored for upward mobility, setting entrepreneurs on a graduation path to an expanded suite of credit and other wealth building solutions. Camino Financial is a nationally certified Community Development Financial Institution (CDFI) with oversight by the U.S. Department of Treasury. Since inception, the company has funded over $140,000,000 across the United States, netting above $95,000,000 in incremental revenues and fees saved among its members. Camino Financial is headquartered in Los Angeles, California with supporting offices in Mexico City, Mexico and Bogota, Colombia.
+Artificial Intelligence (AI), Commercial Lending, Credit, Financial Services, FinTech, Small and Medium Businesses
+Los Angeles, California, United States
+Camino Financial is an online finance company that offers business loans and wealth-building solutions to help small businesses grow.
+www.caminofinancial.com/
+
+Zencity Logo
+Zencity
+Jun 2015
+101-250
+Zencity is a government technology company with the leading platform for community trust, purpose-built for government. By putting comprehensive community input tools, sophisticated analytics, and expert support at their fingertips, Zencity empowers government and public safety leaders with the data to make more informed decisions that earn residents’ trust. More than 300 government agencies use Zencity every day, from Los Angeles, Chicago, and Harris County, TX, to Greensboro, NC, Ft. Lauderdale, FL, and Colorado Springs, CO. Zencity, founded in 2016, is headquartered in New York City and Tel Aviv. With minimal integration or overhead, Zencity gathers and analyzes millions of resident-generated feedback points from online and offline channels. Then, using advanced AI and machine learning, Zencity distills reliable, actionable insights from this data. Local governments use Zencity’s insights to better prioritize resources, track performance more effectively, and - perhaps most importantly - connect more deeply with their communities.
+Analytics, Artificial Intelligence (AI), GovTech, SaaS, Software
+New York, New York, United States
+Leading global community engagement SaaS technology platform for local governments
+www.zencity.io
+
+HeadSpin Logo
+HeadSpin
+Aug 15, 2015
+251-500
+HeadSpin is a developer of a digital experience intelligence platform used to provide flawless digital experiences. Its platform utilizes automation, AI, and analytics to unify end-to-end testing, performance optimization, and experience monitoring with thousands of devices deployed in 100+ locations on the real carrier and WiFi networks around the globe that enable development, QA, operations, and product teams to remotely test and monitor mobile applications and increase revenue.
+Analytics, Application Performance Management, Artificial Intelligence (AI), Digital Marketing, Graphic Design, Machine Learning, Software, Virtual Reality, Web Development
+Sunnyvale, California, United States
+HeadSpin is a developer of a digital experience intelligence platform used to provide flawless digital experiences.
+www.headspin.com
+
+Zinier Logo
+Zinier
+2015
+11-50
+Zinier’s low-code field service automation platform empowers field service organizations with the combined power of humans and technology to keep our world up and running. Powered by AI, Zinier transforms how teams coordinate and execute work, so they can solve problems faster, fix things before they break, and maintain an agile infrastructure that evolves with their needs. Enterprises around the world use Zinier to reach their full potential, delivering always-on service now, while future-proofing for the unexpected. We are a global team headquartered in Silicon Valley with leading investors including Accel, ICONIQ Capital, Founders Fund, Newfund Capital, NGP Capital, Tiger Global Management and Qualcomm Ventures LLC.
+Artificial Intelligence (AI), Cloud Computing, Enterprise Applications, Enterprise Software, Field Support, Machine Learning, SaaS
+San Mateo, California, United States
+Zinier offers a low-code field service automation platform that provides a combined power of humans and technology.
+www.zinier.com/
+
+ASAPP Logo
+ASAPP
+2014
+251-500
+ASAPP AI Native® products, driven by advances in fundamental AI research, make organizations highly productive and effective by augmenting human activity and automating the world’s workflows. The ASAPP Customer Experience Performance (CXP) platform provides Contact Center customer care and sales agents with a platform to know the right thing to say and the right action to take, in real-time. The ASAPP machine learning models are continuously learning and predicting from every customer interaction, effectively turning every agent into the best agent without the need for manual programming or extensive training. Many of the world’s largest companies in telecom, financial services, and travel use the solution. The company has offices in New York, Silicon Valley, London and Buenos Aires.
+Artificial Intelligence (AI), CRM, Customer Service, Enterprise Software, Sales Automation
+New York, New York, United States
+Breakthroughs are born out of research and ASAPP is advancing AI to drive greater human productivity and automating the world's workflows
+www.asapp.com
+
+Urbint Logo
+Urbint
+2015
+101-250
+Urbint predicts threats to workers and critical infrastructure to stop incidents before they happen. Leveraging real-world data and artificial intelligence, Urbint’s software delivers a clear picture of risk up to a week in advance, so decision-makers can take action in the right place, at the right time, before an incident occurs. Many of the largest energy and infrastructure companies in North America trust Urbint to protect their workers, assets, and the communities they serve.
+Artificial Intelligence (AI), Construction, Oil and Gas, Predictive Analytics, Public Safety, Risk Management
+New York, New York, United States
+Urbint predicts threats to workers and critical infrastructure to stop incidents before they happen.
+www.urbint.com
+
+Salt Security Logo
+Salt Security
+2015
+101-250
+Salt Security is an API security company based in Palo Alto, California. It provides an API protection platform to prevent attacks, using machine learning and AI to automatically and continuously identify and protect APIs. Deployed in minutes, the platform learns the granular behavior of a company’s APIs and requires no configuration or customization to pinpoint and block API attackers. The company was founded in 2018 and led by co-founder and CEO Roey Eliyahu and by co-founder & COO Michael Nicosia.
+Artificial Intelligence (AI), Cyber Security, Developer APIs, Machine Learning
+Palo Alto, California, United States
+Salt Security provides an API protection platform designed to prevent attacks by leveraging machine learning and AI.
+salt.security
+
+Rever Logo
+Rever
+May 7, 2015
+11-50
+Rever is a Silicon Valley-based company, founded in 2015 by people that blended their experiences in Toyota, Airbus, IBM, Procter & Gamble, SAP, LinkedIn, and a handful of tech startups, to take on the mission of rehumanizing people at work. Rever is a Connected Worker Platform that helps global manufacturers to drive Frontline Excellence by helping them run and troubleshoot their day-to-day shopfloor operations. Their Frontline employees and supervisors use Rever's app to expose hidden losses in their daily operations, activate and connect the right people to solve them, and amplify the impact across their organization with the help of AI. World-class companies like Thermo Fisher Scientific, Grupo Bimbo, GlaxoSmithKline, Hyundai, Bridgestone, BASF, Mars, and Mitsubishi Heavy Industries drive Frontline Excellence with Rever.
+Enterprise Software, Innovation Management, Internet of Things, SaaS, Smart Building, Software
+San Mateo, California, United States
+Rever is a Connected Worker Platform that helps global manufacturers to drive Frontline Excellence.
+reverscore.com/
+
+Cape Analytics Logo
+Cape Analytics
+2014
+101-250
+Cape Analytics uses deep learning and geospatial imagery to provide instant property intelligence for buildings across the United States. Cape Analytics enables insurers and other property stakeholders to access valuable property attributes at the time of underwriting—with the accuracy and detail that traditionally required an on-site inspection, but with the speed and coverage of property record pre-fill.
+Analytics, Artificial Intelligence (AI), Big Data, Information Technology, InsurTech, Machine Learning, Real Estate
+Palo Alto, California, United States
+Cape Analytics provides AI and analytics services for properties.
+capeanalytics.com
+
+Proscia Logo
+Proscia
+Jul 2014
+101-250
+Proscia develops a digital pathology platform to assist routine pathology operations, enhance cancer diagnosis, and improve patient outcomes. Its platform utilizes computing technologies that unlock hidden data not visible to the human eye and turns that data into valuable insights to help physicians accelerate the development of life-saving advances.
+Artificial Intelligence (AI), Biotechnology, Life Science, Medical
+Philadelphia, Pennsylvania, United States
+Proscia develops a pathology platform to assist routine pathology operations, enhance cancer diagnosis, and improve patient outcomes.
+www.proscia.com
+
+Revl Logo
+Revl
+Jan 2015
+11-50
+Video Souvineers as a Service. Founded by Eric Sanchez, Nelson Vazquez, and Bruce Pla in 2015 and is headquartered in San Francisco, California.
+Artificial Intelligence (AI), Consumer Electronics, Hardware, Machine Learning, Motion Capture, Robotics, Software, Video, Wearables
+San Francisco, California, United States
+AI Powered Video Souvenirs as a Service. Full end to end solution for roller coasters, skydive drop zones, race tracks, and zip lines.
+revl.com
+
+Blueshift Logo
+Blueshift
+2014
+101-250
+Blueshift helps brands deliver relevant, connected experiences across every customer interaction. Its smart hub cdp uses patented AI technology to unify, inform, and activate the fullness of customer data across all channels and applications. It gives brands all the tools to seamlessly deliver experiences in real time across the entire customer journey. Blueshift's platform leverages patented AI technology to integrate, enrich, and mobilize comprehensive customer data across diverse channels and applications. By achieving unified data, orchestrating omnichannel interactions, employing intelligent decision-making, and boasting unparalleled scalability, Blueshift equips brands with complete capabilities to provide personalized experiences in real-time throughout the entire customer journey.
+Artificial Intelligence (AI), Data Center, Data Integration, Digital Marketing, Marketing Automation, SaaS, Software
+San Francisco, California, United States
+Blueshift is a software development company that uses AI technology to provide intelligent customer engagement across various platforms.
+blueshift.com
+
+Stampli Logo
+Stampli
+2015
+251-500
+Stampli is a developer of an accounts payable automation platform to take control of invoice and bill processing. Its AI learns an organization's unique patterns to simplify GL coding, automate approval notifications, and identify duplicate invoices.
+Accounting, Artificial Intelligence (AI), Billing, Payments
+Mountain View, California, United States
+Stampli is an accounts payable automation platform simplifying invoices, approvals, and payments.
+www.stampli.com
+
+Hyperscience Logo
+Hyperscience
+2014
+251-500
+Hyperscience is a technology company that develops AI-based enterprise software designed to automate office work processes. The software uses machine learning to process structured and semi-structured documents, automate data entry, extract key details from invoices, and reconcile compliance-driven data to enable businesses to streamline complex processes automatically and increase productivity. It aims to modernize mission-critical processes and operations for organizations and governments.
+Artificial Intelligence (AI), InsurTech, Machine Learning, SaaS
+New York, New York, United States
+Hyperscience is an intelligent document-processing platform for enterprises.
+www.hyperscience.com
+
+Dremio Logo
+Dremio
+Jun 9, 2015
+251-500
+Dremio is a data lake engine that offers tools to help streamline and curate data. It accelerates analytical processing for BI tools, data science, machine learning, and SQL clients, learns from data and queries and makes data engineers, analysts, and data scientists more productive, and helps data consumers to be more self-sufficient. Jacques Nadeau and Tomer Shiran founded the company in 2015 in Mountain View, California.
+Analytics, Big Data, Business Intelligence, Machine Learning, Software
+Santa Clara, California, United States
+The Easy and Open Data Lakehouse: Self-service analytics with data warehouse functionality and data lake flexibility across all of your data
+www.dremio.com
+
+ZestyAI Logo
+ZestyAI
+2015
+51-100
+ZestyAI is the leading property and climate risk platform for Property and Casualty insurers in North America. The company has revolutionized the world’s understanding of property and climate perils by combining artificial intelligence with historical losses and cutting-edge data sources. Leading insurers trust ZestyAI’s platform to identify risk and assess exposure, including the impact of catastrophic events like wildfires, hail, and wind storms. ZestyAI helps insurers make more informed underwriting decisions, rate fairly and accurately, enhance reinsurance outcomes, and improve customer experience through actionable risk insights that both property owners and regulators trust. For more information on how ZestyAI is revolutionizing risk management, visit www.zesty.ai.
+Analytics, Artificial Intelligence (AI), InsurTech, Machine Learning, Property Insurance, PropTech, Real Estate, Software
+San Francisco, California, United States
+ZestyAI is the leading property and climate risk platform for Property and Casualty insurers in North America
+zesty.ai
+
+Nauto Logo
+Nauto
+Mar 3, 2015
+101-250
+Nauto is an AI technology company that’s improving the safety of commercial fleets today and the autonomous fleets of tomorrow. Nauto’s intelligent driver safety system assesses how drivers interact with the vehicle and the road ahead to reduce distracted driving and prevent collisions. Nauto’s intelligent driver safety system assesses how drivers interact with the vehicle and the road ahead to reduce distracted driving and prevent collisions. With this knowledge, Nauto is powering the development of self-driving technology that brings the best of human driving to autonomy.
+Artificial Intelligence (AI), Automotive, Autonomous Vehicles, Information Services, Machine Learning, Mobile
+Sunnyvale, California, United States
+Nauto is a transportation company that provides an AI-enabled fleet and driver safety tool to help detect and prevent distracted driving.
+www.nauto.com
+
+Magic Logo
+Magic
+2014
+11-50
+Get whatever you want on demand with no hassle, through SMS. Send us a text message, and we'll get you anything you want, tip included. We'll order what you need from the appropriate service (e.g. DoorDash, Instacart, Postmates, etc.), and deal with them so you just automatically get what you want, like magic...
+Apps, Artificial Intelligence (AI), B2B, Customer Service, Messaging, Mobile, Outsourcing, Task Management, Virtual Assistant
+San Francisco, California, United States
+Magic provides a 24/7 SMS based on-demand personal assistant service.
+www.getmagic.com/
+
+Alluxio Logo
+Alluxio
+2015
+101-250
+Alluxio, Inc. (formerly Tachyon Nexus) team consists of the creators and top committers of Alluxio (formerly Tachyon), an open source project from UC Berkeley AMPLab. For the past three years, we have been working to revolutionize the way data is stored, accessed, and managed by focusing on a memory-centric architecture. We believe this new approach is key to delivering the next generation storage.
+Analytics, Artificial Intelligence (AI), Open Source, Software
+San Mateo, California, United States
+Data Orchestration for AI and Analytics in the Cloud
+www.alluxio.io
+
+WindBorne Systems Logo
+WindBorne Systems
+2015
+11-50
+WindBorne develops, manufactures, and operates a network of long-duration smart weather balloons. The company collects atmospheric data for weather forecasting, climate research, and environmental monitoring. The company uses high-altitude balloons equipped with sensors to gather data from various layers of the atmosphere. These balloons can capture precise and comprehensive atmospheric measurements. By providing high-resolution atmospheric data, WindBorne Systems contributes to more accurate weather predictions, which can help mitigate the impacts of severe weather events.
+Analytics, Artificial Intelligence (AI), Geospatial
+Stanford, California, United States
+WindBorne collects atmospheric data using smart weather balloons for weather forecasting, climate research, and environmental monitoring.
+windbornesystems.com
+
+Latch Logo
+Latch
+2014
+251-500
+Latch is an operating system of software, products, and services. They were designed to help owners, residents, and third parties like guests, couriers, and service providers seamlessly experience the modern building.
+Apps, Artificial Intelligence (AI), Smart Home, Software
+New York, New York, United States
+Latch provides integrated hardware and software solutions.
+www.Latch.com
+
+People Data Labs Logo
+People Data Labs
+Apr 2015
+101-250
+People Data Labs builds B2B data for developers, engineers, and data scientists. They empower clients to build and scale innovative data-driven products using 3 billion highly-accurate B2B records. Every day, clients use their data to build person profiles, enrich person records, power predictive modeling, drive artificial intelligence and build new tools to make their teams more efficient, productive, and successful. They’re proud to be the preferred data partner to the data science and engineering teams building the next generation of data-driven products and services. People Data Labs is the single source of truth in B2B data serving enterprise and startup clients across a range of data-enabled businesses.
+Analytics, Artificial Intelligence (AI), B2B, Database, Developer APIs, Machine Learning, Software
+San Francisco, California, United States
+Enabling all companies to build compliant b2b data solutions
+www.peopledatalabs.com
+
+Imagen Technologies Logo
+Imagen Technologies
+2015
+51-100
+Imagen enables Primary Care providers to become technology-enabled multispecialty practices, powering a successful transition from fee-for-service to value-based care. Imagen’s comprehensive platform includes in-office diagnostic testing, diagnostic interpretations powered by proprietary FDA-cleared machine learning software, and virtual specialist consults. Imagen’s platform empowers Primary Care providers to achieve healthcare’s quadruple aim of increasing quality, lowering costs, and improving the patient and provider experience. Imagen’s team includes over 100 clinical, technical and business personnel. Imagen’s software has received first-of-its-kind FDA clearances, and its research has been published in leading peer-reviewed journals. Imagen has raised $135 million in capital from investors such as Google Ventures, Casdin Capital, and Threshold Ventures. Imagen was founded in 2015 and is based in New York City.
+Artificial Intelligence (AI), Biotechnology, Health Care, Health Diagnostics, Primary and Urgent Care, Software
+New York, New York, United States
+Powering the future of primary care
+imagen.ai/
+
+Elsa Logo
+Elsa
+2015
+101-250
+ELSA is the most comprehensive, AI-powered English learning platform. ELSA now includes an AI Tutor, the most human-like experience in providing gen AI real-time conversations and in-depth feedback. ELSA also includes speaking lessons with personalized learning paths, test and interview preparation, as well as our Speech Analyzer feature that allows learners to record and receive a full performance assessment report and tutorial plan
+Artificial Intelligence (AI), E-Learning, EdTech, Language Learning, Mobile Apps
+Los Gatos, California, United States
+Elsa is an AI-enabled language learning platform that focuses on spolen English communication
+elsaspeak.com
+
+Brave Logo
+Brave
+2015
+101-250
+Brave Software focuses on increasing browsing speed and safety for users, while growing ad revenue share for content creators. Brave aims to transform the online ad ecosystem with micropayments and a new revenue-sharing solution to give users and publishers a better deal, where fast, safe browsing is the path to a brighter future for the open web.
+Advertising, Artificial Intelligence (AI), Blockchain, Cryptocurrency, Internet, Machine Learning, Search Engine, Software, Web Browsers
+San Francisco, California, United States
+Brave Software focuses on increasing browsing speed and safety for users, while growing ad revenue share for content creators.
+www.brave.com/
+
+Balbix Logo
+Balbix
+2015
+101-250
+Balbix is the world’s leading cybersecurity posture automation company. The Balbix Security Cloud uses AI and automation to reinvent how the world’s leading organizations reduce their cyber risk. With Balbix, security teams can accurately inventory their cloud and on-prem assets, conduct risk-based vulnerability management, and quantify their cyber risk in monetary terms. Balbix was ranked #32 on the 2021 Deloitte Fast 500 North America and was named a Gartner ‘Cool Vendor.’
+Artificial Intelligence (AI), Cloud Security, Cyber Security, Network Security
+San Jose, California, United States
+Balbix enables organizations to transform their cybersecurity posture and quantifiably reduce their breach risk.
+www.balbix.com/
+
+LinkSquares Logo
+LinkSquares
+2015
+251-500
+Linksquares is a computer software company that features AI-powered contract management and analytics tool for in-house legal and finance teams. It specializes in contract management, machine learning, SaaS, contract review, and legal operation. LinkSquares was founded in 2015, and is headquartered in Boston, Massachusetts.
+Artificial Intelligence (AI), Legal Tech, Machine Learning, Productivity Tools, Software
+Boston, Massachusetts, United States
+LinkSquares is a provider of AI-powered contract management tools for in-house legal teams.
+www.linksquares.com
+
+Medicom Technologies Logo
+Medicom Technologies
+2015
+11-50
+Medicom's health information network is focused on solving longstanding interoperability challenges in healthcare. Today, clinical data is stored across thousands of information silos in hospitals, health systems, and practices. Medicom's Network brings a patient's complete medical history into a familiar search-oriented user-interface and replaces faxes, mailed or couriered paperwork, and CD-ROMs carrying clinical information. Over 2,000 healthcare organizations participate on Medicom's Network through over 3,500 unique connections. Medicom's deepMed Marketplace, which is layered on top of the Network, serves healthcare data consumers at life science, pharmaceutical, and medical device companies. deepMed facilitates curation of large longitudinal data sets for research, drug discovery, machine learning, market validation, and AI applications. Medicom was founded by Michael Rosenberg, Malcolm Benitz, and Chase Ballard.
+Health Care, Health Diagnostics, Information Technology, SaaS, Software
+Raleigh, North Carolina, United States
+Medicom is a SaaS Healthcare IT company.
+home.medicom.us
+
+Inkitt Logo
+Inkitt
+2014
+51-100
+At Inkitt, we believe that every author should have an equal chance to succeed. Our mission is to discover hidden talents from all around the world and turn them into globally successful authors. Inkitt is a pioneer at the forefront of data-driven publishing. We provide a platform for all authors to write and share their stories with millions of readers. Using our unique algorithm that measures readers' engagement with each story, we can objectively identify the best stories and storytellers in the world. Using this method, over 50% of our published authors have achieved $100,000+ in sales. We have forever changed the traditional publishing model by placing the publishing decision in the hands of readers rather than the subjective "gut feeling" of a person. This gives Inkitt the unique ability to discover hidden talents that might otherwise have gone unnoticed. Stories published by Inkitt are adapted into immersive reading experiences, audiobooks, and even TV and movie series. We are an international team of 100 passionate and dedicated inventors and entrepreneurs and we are growing quickly. Inkitt ranked #1 in Germany and #8 in Europe in the FT1000: Europe’s Fastest Growing Companies 2023. Fast Company named Inkitt 100 Best Workplaces for Innovators in 2022.
+Analytics, Artificial Intelligence (AI), Content, Digital Entertainment, Publishing
+San Francisco, California, United States
+Inkitt is a data-driven publisher that uses an algorithm based on reader behavior to discover the next bestselling story.
+www.inkitt.com
+
+Pager Logo
+Pager
+2014
+101-250
+Pager’s mission is to help people make better healthcare decisions by increasing access, decreasing costs, and making care easier to understand. Pager provides a flexible, embeddable platform for health plans and systems to better serve consumers with information, guidance, and coordination. By bringing AI-augmented care and service teams together, Pager’s platform unsilos and provides services such as triage, telemedicine, appointment scheduling, prescription refills, health advocacy, and care coordination – creating a unified, concierge experience like having a “doctor in your family”. Pager supports more than 15 million covered lives across the United States and Latin America. www.pager.com
+Health Care, mHealth, Mobile Apps
+New York, New York, United States
+Pager is a virtual care technology platform that provides communication, collaboration, navigation, and care coordination solutions.
+pager.com
+
+GoShare Logo
+GoShare
+May 2014
+11-50
+GoShare started in 2015 with a mission to organize the world’s trucks to make them more accessible & useful. Our vision is to digitize the last mile and middle mile of the supply chain to optimize the utilization of the world’s trucks & create a more sustainable economy. Over 100,000 customers & more than 20,000 delivery professionals have trusted GoShare to facilitate fast, reliable & low cost delivery and moving services. We currently serve Fortune 500 customers, hundreds of SMBs and thousands of consumers. GoShare is a pioneer, a leader and one of the fastest growing companies in the digital supply chain transformation. As an economic empowerment platform, GoShare enables our Delivery Professionals to manage their delivery business & provide critical delivery services to their local communities. GoShare is available in over 50 major metropolitan areas nationwide, about 70% of the US population. Our proprietary technology includes our Delivery API, highly rated mobile apps for iOS and Android. We use AI to predict delivery times and dynamic pricing to allow our customers to optimize their supply chain operations. Our delivery professionals specialize in transporting big & bulky cargo, LTL shipments and moving services.
+Courier Service, Delivery Service, Developer APIs, E-Commerce, Internet, Logistics, Marketplace, Retail, Shipping Broker, Supply Chain Management
+San Diego, California, United States
+GoShare is an on-demand delivery & logistics platform that connects businesses with a nationwide network of trusted delivery professionals.
+goshare.co
+
+MinIO Logo
+MinIO
+Nov 22, 2014
+11-50
+MinIO is a high-performance, Kubernetes-native object store. Optimized for cloud-native workloads, MinIO is completely compatible with S3, inside AWS or on other public and private clouds and Kubernetes distributions. Enterprises use MinIO to deliver against ML/AI, analytics, backup and archival workloads - all from a single platform. MinIO is open sourced under the GNU AGPL v3 license.
+Big Data, Cloud Storage, Data Center, Internet, Open Source, Software
+Redwood City, California, United States
+MinIO offers high-performance, S3 compatible object storage for multi-cloud architectures. Software-defined, cloud-native + 100% opensource.
+www.min.io
+
+Ripcord Logo
+Ripcord
+Mar 20, 2015
+101-250
+Ripcord is a company that creates a robotic digitizing platform for paperless document management. The company creates a digital twin of information using sensors and software automation, as well as document scanning and accurate recognition, as well as vision-guided robots, artificial intelligence, and machine learning to capture, enrich, and organize important content, allowing clients to streamline their business processes with high speed, quality, and accuracy.
+Artificial Intelligence (AI), Document Management, Enterprise Software, Robotics, SaaS
+Hayward, California, United States
+Ripcord offers a comprehensive suite of services for digitizing and organizing paper-based and digital documents.
+www.ripcord.com
+
+HealthSnap Logo
+HealthSnap
+Aug 2015
+101-250
+HealthSnap is an integrated Virtual Care Management Platform that helps healthcare organizations improve patient outcomes, reduce utilization, and diversify revenue streams. From chronic disease-agnostic Remote Patient Monitoring (RPM) and Chronic Care Management (CCM) to AI-guided care coordination, virtual care delivery, automated care management billing, population analytics - and so much more - HealthSnap is the simplest way to manage chronic conditions remotely.
+Health Care, Home Health Care, Information Technology, mHealth, Software
+Miami, Florida, United States
+HealthSnap is a virtual care management platform for chronic disease management.
+healthsnap.io
+
+Impact Analytics Logo
+Impact Analytics
+2015
+251-500
+Impact Analytics builds 360-degree data science solutions to empower enterprises to turn their data into dollars. The company synthesizes business wisdom from strategy consultants, advanced machine learning from experienced data scientists, and product development by expert application designers and developers to create solutions that enable their clients to win. The team comprises consultants from McKinsey and BCG, data scientists with advanced machine-learning experience, and product developers who have built winning mobility products.
+Analytics, Artificial Intelligence (AI), Big Data, Machine Learning, Management Consulting
+Linthicum Heights, Maryland, United States
+Impact Analytics is a business intelligence company that utilizes AI to help businesses make decisions.
+www.impactanalytics.co
+
+Mashgin Logo
+Mashgin
+Sep 1, 2014
+51-100
+Mashgin's A.I. based self-checkout system can be deployed in a matter of minutes and at the fraction of the cost of Amazon Go. This system is already deployed across hundreds of locations and is used by tens of thousands of people every day. Mashgin was founded in 2014 and is based in Palo Alto, California.
+3D Technology, Artificial Intelligence (AI), Computer Vision, Retail Technology, Software
+Palo Alto, California, United States
+Mashgin is a software company that makes AI and computer vision checkout systems.
+www.mashgin.com
+
+Tempo Logo
+Tempo
+2015
+101-250
+Tempo designs and develops a home fitness platform with personal guidance to help users in their training sessions. It features live elite trainers who can help users when they make mistakes. It has built-in three-dimensional sensors that track form, counts reps, and recommend weights. It helps users to improve in real-time. Powered by 3D motion sensors and AI, it analyzes 25 of the body’s essential joints as users work out and gives understood form feedback. Moawia Eldeeb and Joshua Augustin founded it as Pivot in 2015, with its headquarters in San Francisco in California.
+3D Technology, Artificial Intelligence (AI), Consumer Goods, Fitness, Quantified Self, Wellness
+San Francisco, California, United States
+Tempo is a home fitness platform, combining equipment, training guidance, and social motivation with 3D sensors and artificial intelligence.
+www.tempo.fit
+
+
+Yalo Logo
+Yalo
+2015
+101-250
+Yalo is a developer of an AI-based customer relationship management platform used to help businesses offer a delightful customer experience. It manages the digital workflow for sales and customer service through mini applications that run on top of messaging apps that allow customers to get what they want from businesses in a personalized way. It develops chatbots that enable businesses to sell and chat automatically with customers via Facebook Messenger, WhatsApp, and other such applications and handle customer requests to the point of payment and fulfillment, thus enabling brands to effectively communicate with their customers. Yalo was founded in 2015 and is headquartered in San Francisco, California.
+Analytics, Artificial Intelligence (AI), CRM, Information Technology, SaaS
+San Francisco, California, United States
+Yalo develops an AI-based customer relationship management platform used to help businesses offer a delightful customer experience.
+www.yalo.ai
+
+Globality Logo
+Globality
+2015
+101-250
+Globality is a Silicon Valley-headquartered technology company co-founded by Joel Hyatt and Lior Delgo to connect global companies with the best suppliers at the right price for any sourcing need across every service category. Through its AI-powered Platform and Smart Sourcing technologies, Globality is bringing digital transformation to the sourcing industry. Globality’s AI digital solution replaces the archaic analog Request for Proposal, efficiently and effectively scoping needs, managing demand, matching companies with outstanding suppliers that meet their specific service needs and cutting the sourcing process from months to hours while delivering savings of 20% or more. In January 2021, Globality raised $138 million from Sienna Capital and the SoftBank Vision Fund, bringing the total investment it has raised since its founding five years ago to $310 million. For more information, visit Globality’s website at www.globality.com. Utilizing our Smart Sourcing technologies, clients with substantial service needs can capture billions of dollars in bottom-line impact. Dozens of Fortune 500 companies are already leveraging the Platform’s strategic AI sourcing partner, Glo, to improve the quality and decrease the cost of services, all while driving greater transparency, accountability and fairness. Learn how partnering with Globality can digitally transform services sourcing to better your company’s bottom line.
+Artificial Intelligence (AI), Enterprise Applications, SaaS, Sales Enablement
+Palo Alto, California, United States
+Globality revolutionizes how businesses buy and sell services by matching the best provider at the right price for every project.
+www.globality.com/
+
+RightHand Robotics Logo
+RightHand Robotics
+2014
+51-100
+RightHand Robotics provides end-to-end solutions that reduce the cost of e-commerce order-fulfillment of electronics, apparel, grocery. Their robots grasp a wide variety of items from bins and cases. Their core technology enables them to do this automatically without laborious data entry or parameter-tuning — so they are inexpensive to set up and flexible to the changing needs of businesses. The company was founded in 2015 and is headquartered in Somerville, Massachusetts.
+Apparel, Artificial Intelligence (AI), E-Commerce, Robotics, Supply Chain Management
+Somerville, Massachusetts, United States
+RightHand Robotics provides end-to-end solutions that reduce the cost of e-commerce order-fulfillment of electronics, apparel, grocery.
+righthandrobotics.com
+
+Spot Logo
+Spot
+Jan 1, 2014
+101-250
+Spot offers cloud service and management optimization for SaaS companies, executed by AI software that among other things predicts price changes, essentially helping companies find cheap cloud infrastructures (called spot instances) and manage them.
+Big Data, Cloud Computing, Cloud Data Services, Cloud Infrastructure, Cloud Management, SaaS, Software
+San Jose, California, United States
+Spot specializes in cloud cost analysis, reserved capacity management, auto scaling applications, and big data services.
+spot.io/
+
+Paro Logo
+Paro
+Aug 2015
+101-250
+Paro is a growth platform that brings a talent community and businesses together to navigate immediate challenges and architect a plan. Powered by proprietary AI technology and in-depth industry expertise, Paro matches businesses with the right expertise and solutions to solve problems and drive growth. Their elite community of finance and accounting experts provides a range of services to clients, from bookkeeping and accounting to highly specialized corporate development and strategic advisory. By harnessing the power of people and technology, Paro empowers businesses and professionals to pursue meaningful work and go beyond even their loftiest goals.
+Accounting, Artificial Intelligence (AI), Business Development, Finance, Financial Services, Freelance
+Chicago, Illinois, United States
+Paro provides on-demand bookkeeping and financial services powered by AI technology.
+www.paro.ai
+
+Opentrons Logo
+Opentrons
+2014
+251-500
+Opentrons is a developer of pipetting robot technology designed to automate experiments. Their technology is automated laboratory equipment that automates experiments by using the Python language, enabling scientific researchers to make the process faster and less tiresome.
+Artificial Intelligence (AI), Biotechnology, Electronics, Hardware, Robotics
+Brooklyn, New York, United States
+Opentrons is a life science company that develops pipetting robot technology designed to automate experiments.
+www.opentrons.com
+
+Nexar Logo
+Nexar
+Jan 2015
+101-250
+Nexar creates powered dash cams that enable new vision-based applications for better driving. Nexar's mission is to reduce the chance of collisions and to make the road safer for everyone. Like a school of fish or a flock of birds, we want to get every car on the road moving safely and smoothly together. Using a Nexar-powered dashcam, AI, and inter-vehicle networking, Nexar makes every car a smart car and is building the world’s first safe driving network.
+Artificial Intelligence (AI), Automotive, Autonomous Vehicles, Image Recognition, Sensor, Software, Transportation
+New York, New York, United States
+Nexar develops software to protect the user and their business against car crashes and road casualties.
+getnexar.com/
+
+Uptake Technologies Logo
+Uptake Technologies
+Jul 2014
+251-500
+Uptake Technologies develops a predictive analytics platform. Its platform analyzes data to predict and prevent failures, uncover hidden profits, and discover new opportunities in healthcare, insurance, locomotives, construction, manufacturing, and other industries that offer a platform for equipment monitoring, diagnostic troubleshooting, event and condition prediction, and task management to improve uptime, streamline operations, and spot growth opportunities.
+Analytics, Artificial Intelligence (AI), Industrial, Machine Learning, SaaS, Software
+Chicago, Illinois, United States
+Uptake Technologies designs and develops enterprise software.
+www.uptake.com
+
+Logz.io Logo
+Logz.io
+2014
+101-250
+Logz.io provides an intelligent and scalable machine data analytics platform built on ELK and Grafana. Designed for monitoring modern applications, Logz.io combines cloud-native simplicity and scalability with crowdsourced artificial intelligence to help engineers identify critical issues before they occur and empower them to monitor, troubleshoot and secure mission-critical applications using one unified platform.
+Analytics, Artificial Intelligence (AI), Big Data, Enterprise Software, SaaS
+Boston, Massachusetts, United States
+Logz.io provides a scalable and intelligent machine data analytics platform built on ELK and Grafana for monitoring modern applications.
+logz.io/
+
+Mira Logo
+Mira
+Jul 2015
+11-50
+The first FDA and CE registered comprehensive women’s health monitoring platform with 99% of accuracy in clinical trials. Mira tracks cycles, predicts ovulation, monitors fetal health, measures ovarian reserve and detects menopause at home, with expandability into chronic disease monitoring, using the hospital-leveled technology within a palm-sized device. The data automatically syncs to the Mira app. The AI learns personal health patterns. The telemedicine connects users with doctors.
+Artificial Intelligence (AI), Fertility, Hardware, Health Care, Internet of Things, Medical Device, mHealth
+Pleasanton, California, United States
+The first FDA and CE registered comprehensive women’s health and chronic disease monitoring platform with 99% of accuracy
+www.miracare.com
+
+LILT Logo
+LILT
+2015
+251-500
+LILT is the complete enterprise AI platform for content translation and creation. Innovative, category-defining organizations like Intel, ASICS, WalkMe, and Canva use LILT to deliver multilingual, digital customer experiences at scale. Liit was founded in 2015 and is headquartered in San Francisco, California.
+Artificial Intelligence (AI), Enterprise Software, Machine Learning, Natural Language Processing, Translation Service
+Emeryville, California, United States
+LILT is the complete enterprise AI platform for content translation and creation
+lilt.com/
+
+IRONSCALES Logo
+IRONSCALES
+2014
+101-250
+IRONSCALES is the leading cloud email security platform for the enterprise that uses artificial intelligence (AI) and human insights (HI) to stop advanced phishing attacks that bypass traditional security solutions. Its award-winning, self-learning platform continuously detects and remediates advanced threats like Business Email Compromise (BEC), Account Takeover (ATO), VIP impersonation, and more. As the most powerfully simple email security platform, IRONSCALES helps enterprises reduce risk, boost security team efficiency, and build a culture of cybersecurity awareness. IRONSCALES is headquartered in Atlanta, Georgia and is proud to serve more than 10,000 customers globally. Visit http://www.ironscales.com or @IRONSCALES to learn more.
+Cloud Security, Cyber Security, Information Services, Information Technology, SaaS, Software, Training
+Atlanta, Georgia, United States
+The leading enterprise cloud email security platform combining AI and human insights protecting 10,000 global customers.
+ironscales.com
+
+Chorus.ai Logo
+Chorus.ai
+2015
+101-250
+Chorus operates a conversation intelligence platform for sales teams. Its platform helps sales people and managers to manage the outcomes of sales conversations. Chorus' dashboard automatically surfaces the key moments in calls for representatives and managers. It serves startups and public companies.
+Analytics, Artificial Intelligence (AI), Big Data, Customer Service, Information Technology, Machine Learning, Sales, Software
+San Francisco, California, United States
+Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.
+www.chorus.ai
+
+ScaleFlux Logo
+ScaleFlux
+Oct 2014
+251-500
+ScaleFlux helps customers harness data growth as a competitive advantage by building products that accelerate the creation of value from data while reducing complexity. In the first phase of rethinking the data pipeline for the modern data center, ScaleFlux has built a better SSD by embedding computational storage technology into flash drives. With these products, enterprise and datacenter customers can gain an edge by deploying storage intelligence to optimize their data center infrastructure for workloads like databases, analytics, IoT, AI and 5G. Now in its second phase, ScaleFlux is enabling integrators to design solutions using ScaleFlux's system-on-chip (SoC) components as well as partnering with large-scale customers to develop custom and semi-custom SoCs for their specific needs in storage and memory. The company has a passion for creating and bringing to market innovative technologies for the rapidly growing data-driven application space and thrives in a highly dynamic, fast-paced, results-driven environment.
+Analytics, Computer, Data Storage, Flash Storage, Hardware, Internet, Semiconductor
+Milpitas, California, United States
+Fabless semiconductor company developing innovative components for the storage and memory domains to enhance data center and AI efficiency
+scaleflux.com/
+
+Quartet Health Logo
+Quartet Health
+2014
+101-250
+Quartet is a platform that makes it easier for people to get the best mental health care for them. The best care should fit their preferences and clinical needs, take their insurance, and link to the rest of their healthcare experience. Quartet was founded in 2014 and is based in New York, United States.
+Health Care, Hospital, Information Technology, Mental Health, Personal Health, Predictive Analytics, Psychology
+New York, New York, United States
+Quartet Health is a platform that makes it easier for people to get the best mental health care for them.
+www.quartethealth.com
+
+Neurable Logo
+Neurable
+2015
+11-50
+Neurable is a neurotechnology company specializing in developing AI-powered tools for brain signal translation and brain-computer interface technology. Utilizing patented signal processing, developed through research across labs and institutions, and advanced by a scientific and expert product team, its platform enables high-performance brain-computer interface in everyday devices.
+Artificial Intelligence (AI), Augmented Reality, Human Computer Interaction, Virtual Reality
+Boston, Massachusetts, United States
+Neurable is a neurotechnology company focused on developing AI tools for brain signal translation and brain-computer interface technology.
+neurable.com/
+
+Pieces Logo
+Pieces
+2015
+101-250
+Pieces is a healthcare artificial intelligence and technology company that connects health systems and the community to address clinical and social determinants of health through community networks and intelligent software and services. Our solution interprets patient information in real-time and connects health systems and community-based organizations to support healthier outcomes, both inside and outside of hospital walls. Using cloud-based artificial intelligence with clinically-based natural language processing (NLP) and physician-supervised machine learning, our tools help streamline clinician workflows and improve patient outcomes. Combined, our solutions, Pieces Predict and Pieces Connect, create a comprehensive and unique solution for connected community health.
+Artificial Intelligence (AI), Enterprise Software, Health Care, Hospital, Machine Learning, Real Time
+Irving, Texas, United States
+Pieces is a healthcare artificial intelligence and technology company.
+www.piecestech.com/
+
+AssetWatch Logo
+AssetWatch
+Oct 1, 2014
+101-250
+AssetWatch is a leader in proactive and predictive maintenance solutions, providing a rapidly deployable, end-to-end remote condition monitoring service. We help eliminate unplanned downtime for global manufacturers and simplify the predictive maintenance process by providing a network of wireless sensors and communication hubs, cutting-edge software, and condition monitoring engineers who condense and decipher the noise of data – making it more qualitative than just quantitative with expert prescriptive recommendations. By combining predictive analytics via machine learning in the software with the prescriptive insights of a certified expert, AssetWatch gives you way more than just the standard "pass/fail". We truly are a partner in the journey, helping change the culture of maintenance and reliability teams from reactive to proactive.
+Big Data, Industrial Automation, Internet of Things, Machine Learning, Predictive Analytics
+Westerville, Ohio, United States
+AssetWatch is a deployable, remote, end-to-end condition monitoring solution providing predictive insight to enable proactive maintenance.
+www.assetwatch.com/
+
+Hungryroot Logo
+Hungryroot
+2015
+101-250
+Hungryroot is your personal grocer, powered by AI and the belief that food deeply impacts your daily life. You tell us a little about yourself, and we use proprietary predictive technology to deliver groceries and recipes that best suit your individual needs and goals. We also assist with meal planning and nutritional support, helping you save time, save money, shop sustainably, and eat what makes you feel your best. Hungryroot is a provider of an artificial intelligence-powered personalized grocery service. Hungryroot first launched in 2015 as a better-for-you foods brand. Now six years later, Hungryroot is pioneering an entirely new way to grocery shop through predictive, personalized grocery delivery. Along with offering the best modern brands, Hungryroot continues to develop its own line of innovative healthy products, including the brand's award-winning Black Bean Brownie Batter. Check us out at: www.hungryroot.com
+Artificial Intelligence (AI), Consumer Goods, E-Commerce, Food and Beverage, Retail, Software
+New York, New York, United States
+Hungryroot is a provider of an artificial intelligence-powered personalized grocery service.
+www.hungryroot.com
+
+MoBagel Logo
+MoBagel
+Mar 2015
+101-250
+MoBagel is an AI startup based in Silicon Valley, founded by AI scientists from Stanford and UC Berkeley in 2015. The company provides a generative AI platform and various enterprise-level AI Agents designed to enhance data-driven decision-making and business process automation. MoBagel's platform empowers over 11,000 brands across industries such as sales and marketing, supply chain, finance, and manufacturing, all driven by our vision to "Build AI Together and Beyond." MoBagel offers two main categories of products and services: Generative AI Builder Platform: This platform is used to develop various AI Agents using a No Code approach, leveraging tools like AutoML, MLOps, DataOps, Auto Time Series Forecasting, generative BI, and mainstream LLMs such as Open AI GPT and Meta Llama. By integrating generative AI's LLM into a new multimodal system, the platform mitigates hallucination issues in AI reasoning. This enables rapid creation of enterprise-level AI service applications for analysis, inference, and process automation, making it suitable for companies with basic AI or data science teams, allowing flexible and swift development of AI applications. AI Agents: These agents enhance business process automation and intelligence, applying to areas such as sales & marketing, supply chain, finance, and manufacturing. They automate processes and enable precise decision-making through KPI and performance-oriented strategies, ideal for businesses with specific commercial scenarios that want to see immediate results. MoBagel's honors and achievements include winning multiple international awards such as the Microsoft GCR Hackathon, Swire Coca-Cola Innov8 Hackfest, and Salesforce $1M Hackathon. The company has been recognized by Gartner for four consecutive years and has collaborated with international giants like Google, Microsoft, SoftBank, Fujitsu, and KDDI.
+Artificial Intelligence (AI), Big Data, Business Intelligence, Cloud Data Services, Digital Marketing, Education, Enterprise, Machine Learning, Predictive Analytics, Software
+Santa Clara, California, United States
+MoBagel, a US-based startup dedicated to Generative AI for Business Intelligence, with a vision to "Build AI Together and Beyond".
+mobagel.com
+
+Verge Genomics Logo
+Verge Genomics
+2015
+11-50
+Verge Genomics transforms drug discovery with artificial intelligence. Verge was founded by a unique combination of the field's top machine learning experts and seasoned neuroscience drug developers. Together, they share the vision that exponential advances in computational genomics combined with new insights into neuroscience has created a breakthrough opportunity to discover drugs that dramatically improve the lives of patients suffering from neurodegenerative disease.
+Biotechnology, Genetics, Health Care, Machine Learning, Neuroscience
+San Francisco, California, United States
+Verge Genomics uses machine learning and human genomics to accelerate drug discovery.
+www.vergegenomics.com
+
+HerculesAI Logo
+HerculesAI
+Oct 2014
+51-100
+HerculesAI is a generative AI company that brings the power of large language models inside the security perimeter of enterprises. Hercules, enables enterprises to quickly create, deploy, and run generative AI apps without compromising security standards.
+Apps, Artificial Intelligence (AI), Information Technology, Machine Learning, Software
+Campbell, California, United States
+HerculesAI is empowering the Enterprise of the Future with an AI co-pilot for every knowledge worker
+zerosystems.com/
+
+Doxel Logo
+Doxel
+2015
+51-100
+Doxel is an AI software solution that automates progress & schedule tracking for all trades using cameras Using a 360 camera, our AI reports percent complete against schedule and tracks production rates, so you know where the project is and where it’s headed It was introduced in 2016 and operates in Redwood City, California.
+Artificial Intelligence (AI), Enterprise Software, Machine Learning
+Menlo Park, California, United States
+Doxel delivers facilities faster by using AI to automate progress reporting for construction
+www.doxel.ai/
+
+Kentik Logo
+Kentik
+2014
+101-250
+Kentik is a network observability company. Its platform is a must-have for the network front line, whether digital business, corporate IT, or service provider. Network professionals turn to the Kentik Network Observability Cloud to plan, run, and fix any network, relying on our infinite granularity, AI-driven insights, and insanely fast search.
+Cloud Data Services, Information Technology, Network Security, Software
+San Francisco, California, United States
+Kentik is a network management platform that provides visibility, performance, and security services to digital enterprises.
+www.kentik.com
+
+Clinch Logo
+Clinch
+2015
+51-100
+Clinch is an Omnichannel AI-powered Personalization platform that delivers consumer tailored creative experiences to drive online and in-store performance. We provide a unified marketing SaaS technology to plan, deliver, optimize and measure personalized creative experiences across all channels, while enriching brands’ consumer profiles with unique data Clinch's VideoAI™ is a proprietary creative technology that leverages data to personalize display and video ad experiences at scale, across programmatic, social and OTT. Clinch has offices in New York City, Austin TX, Israel (R&D), Mexico City, Barcelona and Hamburg.
+Advertising, Artificial Intelligence (AI), E-Commerce, Marketing, Mobile, SaaS, Social Media, Video
+New York, New York, United States
+Clinch delivers hyper-personalized creative experiences and consumer intelligence across all channels
+clinch.co
+
+Envisagenics Logo
+Envisagenics
+Apr 22, 2014
+11-50
+Envisagenics focus on the discovery of RNA therapeutics. Their mission is to reduce the complexity of biomedical data to accelerate the development of innovative therapeutic solutions through RNA splicing analytics and artificial intelligence. Over 30 million people in the US suffer from genetic diseases or cancer that could be caused by mutations affecting RNA splicing. 370 human diseases are known to be caused by splicing errors, and more remain to be discovered. Their breakthrough technology, SpliceCore, is a cloud-based platform that is experimentally validated to predict drug targets and biomarkers through splicing discovery from RNA-seq data, using Artificial Intelligence. We are using our software to identify splicing errors causative of diseases, identify the right drug targets, and develop RNA therapeutics through partnerships and collaborations with Biopharma. Their in-silico RNA therapeutics discovery platform replaces expensive drug-target selection and lead design with efficient computer simulations, decreasing time, cost, and failure risk of drug development programs. Envisagenics was founded in 2014 as a spinout of Cold Spring Harbor Laboratory.
+Artificial Intelligence (AI), Bioinformatics, Biotechnology, Machine Learning, Therapeutics
+Long Island City, New York, United States
+Envisagenics reduce the complexity of biomedical data to accelerate the development of innovative therapeutic solutions.
+envisagenics.com/
+
+Elemental Cognition Logo
+Elemental Cognition
+Apr 1, 2015
+11-50
+Elemental Cognition (EC) provides a revolutionary hybrid AI platform with superior natural language understanding that powers expert problem-solving intelligence in conversational and discovery applications. EC was founded in 2015 by Dr. David Ferrucci, the renowned AI researcher and inventor of IBM’s breakthrough Watson technology. EC AI transparently engages with people to understand, reason, and explain complex problems. EC customers are in several verticals, including but not limited to healthcare, pharmaceuticals, life sciences, financial services, and travel. The mission of Elemental Cognition (EC) is to transcend conventional AI, aiming to aid individuals in comprehending intricate content, engaging in logical thinking about it, and locating as well as elucidating solutions. Elemental Cognition remains devoted to creating ethical and lucid AI, designed to contribute to resolving issues and providing proficiency in a manner that is both comprehensible and reliable. Recognizing AI's potential to function as a cogitative partner akin to a human, EC envisions a landscape of transparency, where the rationale behind outcomes is on par in significance with the outcomes themselves. What sets EC apart is its distinctive methodology, intertwining varied AI strategies within an innovative framework. This framework assimilates and ratiocinates upon knowledge that is understandable to humans, fostering collaborative and dynamic problem-solving. The outcome manifests as an expert problem-solving acumen that is more lucid and resource-efficient, seamlessly integrated into conversational and exploratory applications.
+Artificial Intelligence (AI), Education, Information Technology, Software
+New York, New York, United States
+Elemental Cognition builds intelligent applications that solves toughest business problems with precision and reliability.
+ec.ai
+
+HiLabs Logo
+HiLabs
+2014
+101-250
+They believe that the no one knows healthcare data better than the healthcare organizations that create it. However, healthcare organizations often lack the tools to generate insights from this data. Statisticians, data scientists and technology gurus can create tools, but these tools have no value until merged with the valuable domain knowledge that only healthcare organizations possess. They empower healthcare organizations with data science tools to leverage their deep domain knowledge and generate novel insights from their data.
+Analytics, Artificial Intelligence (AI), Big Data, CRM, Health Care, Information Technology
+Olney, Maryland, United States
+HiLabs is a Data Analytics Platform.
+www.hilabs.com/
+
+Osaro Logo
+Osaro
+2015
+11-50
+Osaro creates machine intelligence software that combine state-of-the-art perception with powerful adaptive decision-making abilities to help computer and robotic systems act efficiently and intelligently. Like many advanced machine learning technologies, Osaro's software automatically extracts information from high-dimensional, time-varying data. Osaro goes beyond merely classifying data. The technology interacts with the environment to learn, discover, and achieve a specific goal. By making machines more adaptive, intelligent, and efficient, Osaro frees up humans to focus time, energy, and capital on higher level tasks.
+Artificial Intelligence (AI), Machine Learning, Robotics, Software
+San Francisco, California, United States
+Osaro is an artificial intelligence company developing products based on proprietary deep reinforcement learning technology.
+www.osaro.com
+
+Beyond Limits Logo
+Beyond Limits
+Jan 2014
+251-500
+Beyond Limits is an Industrial and Enterprise-grade AI technology company that covers the full range of Artificial Intelligence, purpose-built for the most demanding sectors, including energy, utilities, and healthcare (as well as finance). Beyond traditional artificial intelligence, Beyond Limits has developed powerful Cognitive AI that unifies human knowledge with machine learning techniques. Its technology provides decision makers with efficient, reliable guidance and clear, understandable recommendations for everyday operational challenges to the most complex, mission-critical situations. Customers use Beyond Limits AI to drastically boost operational insights, improve operating conditions, enhance performance at every level, and ultimately increase profits as a result.
+Artificial Intelligence (AI), Energy, Health Care, Industrial, Machine Learning
+Glendale, California, United States
+Beyond Limits is an industrial and enterprise-grade AI technology company that focuses on energy, utilities and healthcare.
+www.beyond.ai/
+
+Session AI Logo
+Session AI
+Aug 1, 2014
+101-250
+Session AI, formerly ZineOne, is a revolutionary in-session marketing platform, made to overcome one key challenge – that 90% of today’s ecommerce sessions are anonymous. Our advanced machine learning models have the power to understand any customer’s micro-behaviors, at scale, and deliver personalized experiences that convert, in real-time. All without the need for any personal information or historical data. Leading brands like KOHL’s, Men’s Wearhouse, KEEN and Advance Auto Parts have worked with Session AI to achieve remarkable results – seeing 32% lifts in conversion rates, and millions in attributed revenue. Additionally, we are proud to partner with top industry players like Adobe, Salesforce Commerce Cloud, HCL Software, Pega, and AWS.
+Artificial Intelligence (AI), Machine Learning, Marketing, Real Time
+Milpitas, California, United States
+Session AI is a revolutionary in-session marketing platform, made to overcome the fact that 90% of today’s ecommerce sessions are anonymous.
+www.sessionai.com
+
+EverC Logo
+EverC
+2015
+101-250
+EverC is focused on powering growth for the online seller ecosystem. With the world’s first fully automated, AI-driven cross-channel risk management platform, we are transforming the internet into a safe and trusted place for ecommerce. Our easy-to-use solution rapidly detects, identifies, and removes high-risk merchants; online money laundering; and fake, illegal, and dangerous products and services. We also continually monitor activity to mitigate ongoing and evolving risk. Founded in 2015, the EverC team comprises domain experts in risk intelligence, data science, fintech, payments, and financial risk. To learn more about how EverC can help your organization manage ecommerce risk to attain safe, sustainable growth, please visit www.everc.com.
+Artificial Intelligence (AI), Compliance, Cyber Security, FinTech, Fraud Detection, Information Technology, Machine Learning, Risk Management, Security
+New York, New York, United States
+The EverC solution is the first vertical AI risk classification platform designed for the needs of global marketplaces & payment providers.
+everc.com
+
+One Concern Logo
+One Concern
+2015
+51-100
+One Concern is a climate resilience technology company, enables organizations to focus on adaptation and resilience strategies by using newly developed resilience analytics for supporting risk selection, mitigation, pricing and risk management. Applying machine learning and state-of-the-art resilience modeling, One Concern helps organizations better understand and prepare for physical climate risks with the mission of making disasters less disastrous. A 2019 Technology Pioneer, One Concern is part of the World Economic Forum’s Global Innovators community.
+Analytics, Artificial Intelligence (AI), InsurTech, Risk Management, Software, Sustainability
+Menlo Park, California, United States
+One Concern's is a climate analytics software that provides information on the potential financial impacts of weather.
+www.oneconcern.com
+
+Ordr Logo
+Ordr
+2015
+101-250
+Ordr makes it easy to secure every connected device, from traditional IT devices to newer and more vulnerable IoT, IoMT, and OT. Ordr uses deep packet inspection and advanced machine learning to discover every device, profile its risk and behavior, map all communications and protect it with automated policies. Organizations worldwide trust Ordr to provide real-time asset inventory, address risk and compliance and accelerate IT initiatives. Ordr is backed by top investors including Battery Ventures, Wing, and TenEleven Ventures.
+Artificial Intelligence (AI), Cloud Computing, Cyber Security, Machine Learning, Network Security, Software
+Santa Clara, California, United States
+Ordr provides visibility and security for every connected device-- from traditional IT to newer and more vulnerable IoT, IoMT, and OT.
+ordr.net
+
+HireEZ Logo
+HireEZ
+Apr 2015
+101-250
+At hireEZ, our mission is to make outbound recruiting easy. We’re dedicated to helping recruiters proactively bring jobs to people and give organizations the solutions they need to make the switch from inbound to outbound recruiting to achieve their business goals, hire the right people and build more inclusive workplaces. That’s why we developed hireEZ (formerly Hiretual), an AI-powered outbound recruitment platform. With hireEZ, you can execute a strategically scalable approach to build your workforce of the future.
+Artificial Intelligence (AI), Big Data, Employment, Human Resources, Machine Learning, Recruiting, SaaS, Software
+Mountain View, California, United States
+HireEZ offers AI powered recruitment software that allows intelligent sourcing, engagement, analysis, and integration on existing platforms.
+hireez.com
+
+Brain Technologies Logo
+Brain Technologies
+Jun 2015
+11-50
+Brain is an AI and interface company founded in 2015. Brain's AI organizes the world's software and makes it human-centric and natural to use. The company invents new technologies, design metaphors and developer platforms that allow computers to become an extension of our minds. In 2016, Brain pioneered one-shot learning NLP in the industry, which has become a fundamental technology in many of the widely used language models today. Building on this innovation, Brain invented the world's first consumer generative interface, Natural AI, in 2020. In 2024, Brain.ai unveiled a revolutionary app-less smart phone at Mobile World Congress with one of the world's leading mobile network operators.
+Artificial Intelligence (AI), Information Technology, Natural Language Processing, Software
+San Mateo, California, United States
+Brain builds computers that think. It invents new technologies and design metaphors that allow computers to become an extension of our minds
+brain.ai
+
+Elemental Machines Logo
+Elemental Machines
+2015
+11-50
+Elemental Machines is revolutionizing science-based industries with a smart lab platform that offers powerful, data-driven insights to improve laboratory operations, research, development, and manufacturing outcomes. Continuously monitoring equipment and environmental variables provides new levels of clarity, transparency, consistency, and improved repeatability and gathers new data sets for advanced analytics.
+Artificial Intelligence (AI), Biotechnology, Internet of Things, Machine Learning
+Cambridge, Massachusetts, United States
+Elemental Machines delivers data-driven insights that improves R&D, laboratory operations, and manufacturing outcomes.
+elementalmachines.com
+
+Esperanto Technologies Logo
+Esperanto Technologies
+2014
+51-100
+Esperanto Technologies develops massively parallel, high-performance, energy-efficient computing solutions for Generative Artificial Intelligence / Machine Learning / HPC based on the open standard RISC-V instruction set architecture. Initially designed to meet the performance, power and total cost of ownership (TCO) requirements of large-scale datacenter customers, Esperanto’s inference chip is a general purpose, parallel processing solution that can accelerate many parallelizable workloads. It is designed to run any machine learning (ML) workload well, and to excel at Generative AI, one of the most important emerging AI workloads in datacenter and near edge applications.
+Artificial Intelligence (AI), Computer, Energy Efficiency, Machine Learning, Semiconductor
+Mountain View, California, United States
+Esperanto Technologies develops massively parallel, energy-efficient chips for Generative AI based on the open standard RISC-V ISA
+www.esperanto.ai/
+
+Oden Technologies Logo
+Oden Technologies
+Sep 10, 2014
+11-50
+Oden Technologies creates data capture and analytics platforms that can monitor and optimize production in real-time from any device. The company's platform integrates wireless industrial Internet of Things and proprietary cloud-based analytics into a single, easy platform, allowing clients to digitize production and constantly improve through clear data and actionable insights.
+Artificial Intelligence (AI), Industrial Automation, Information Technology, Machine Learning, Predictive Analytics
+New York, New York, United States
+Oden Technologies develops a data capture and analytics platform that allows you to monitor and optimize production from any device.
+oden.io
+
+Simbe Robotics Logo
+Simbe Robotics
+2014
+11-50
+Simbe Robotics automates repetitive tasks in retail execution. Tally, performs the repetitive and laborious tasks of auditing shelves for out-of-stock items, low stock items, misplaced items, and pricing errors. Tally operates safely during normal store hours alongside shoppers and employees.
+Artificial Intelligence (AI), Retail Technology, Robotics, Sales Automation
+San Francisco, California, United States
+Simbe Robotics builds automation solutions for shelf auditing and analytics.
+www.simberobotics.com
+
+SwineTech Logo
+SwineTech
+2015
+1-10
+SwineTech is a mechanical and industrial engineering company that bridges the gap between producers and pigs through artificial intelligence and sensor-based technologies. The company specializes in the fields of machine learning, audio, and pork production. SwineTech was founded in 2015 and headquartered in Cedar Rapids, Iowa.
+Agriculture, Artificial Intelligence (AI), Industrial Engineering, Machine Learning, Meat and Poultry, Mechanical Engineering
+Solon, Iowa, United States
+SwineTech bridges the gap between producers and pigs through artificial intelligence and sensor-based technologies.
+swinetechnologies.com
+
+Beautiful.AI Logo
+Beautiful.AI
+Oct 1, 2015
+11-50
+The Beautiful.AI team has spent decades working on presentations—writing them, designing them, and building software to make them. During that time, we’ve watched way too many people bang their heads against the wall trying to turn ideas into visual presentations. And so we decided to do something about it. We believe that the only way to guarantee good presentation design is to build the intelligence of a designer directly into the tool. Thus, Beautiful.AI suggests ways to visualize your ideas and makes it incredibly easy to customize the design. It knows what’s on your slide, what you might add later, and how to adjust the layout when you do. (And we’d like to think it has pretty good taste, too). We are constantly working to make Beautiful.AI better—adding more templates and design options, improving our recommendations, and making it even easier for you to do beautiful work. Whatever it takes to help you inspire more people, close more deals, win more pitches, and get more sleep.
+Artificial Intelligence (AI), Machine Learning, Software
+San Francisco, California, United States
+Creating software that understands the rules of great design and allows anyone to build stunningly beautiful visual documents with ease.
+www.beautiful.ai
+
+Focal Systems Logo
+Focal Systems
+Jun 1, 2015
+51-100
+Focal Systems uses AI to automate and optimize Brick and Mortar Retail.
+Artificial Intelligence (AI), Computer Vision, E-Commerce, Retail, Retail Technology
+Burlingame, California, United States
+Automate and optimize retail through the use of deep learning computer vision. With focalOS, Focal provides the operating system of retail.
+www.focal.systems/
+
+Netomi Logo
+Netomi
+May 2015
+51-100
+Backed by the world’s top AI leaders and trusted by the largest global brands, Netomi is the leader in customer experience AI for enterprises. Netomi provides multimodal and omnichannel Sanctioned Generative AI, ensuring brand-safe conversations at scale with built-in AI governance controls for accuracy, security, and data privacy. Our innovative AI deployment guarantees cost savings, operational efficiencies, and boosts in customer satisfaction, loyalty, revenue, and profitability. Netomi’s no-code solution deploys in weeks, scales automatically, and offers comprehensive tools for non-technical users to easily manage CX AI at scale. This results in a lower total cost of ownership, faster time to market, and reduced reliance on developer resources. Founded in 2016, Netomi leverages the latest AI developments to enhance customer experience, empowering brands with high-quality automated support and tools to augment human agent teams. In a rapidly evolving AI landscape, Netomi makes it easy for brands to meet rising customer expectations and deliver exceptional service.
+Artificial Intelligence (AI), Customer Service, Digital Marketing, Enterprise Software, Machine Learning, SaaS, Software
+San Mateo, California, United States
+Netomi provides multimodal and omnichannel Sanctioned Generative AI for enterprises.
+www.netomi.com/
+
+Safely You Logo
+Safely You
+2015
+51-100
+SafelyYou is the artificial intelligence-enabled fall detection and prevention for dementia care.
+Artificial Intelligence (AI), Elder Care, Elderly, Health Care, InsurTech
+San Francisco, California, United States
+SafelyYou provides fall detection and prevention technology for dementia care.
+www.safely-you.com
+
+Bark Technologies Logo
+Bark Technologies
+Jul 1, 2015
+51-100
+Bark uses AI to detect and proactively alert parents to issues their children face, such as cyberbullying, suicidal ideation, and school shooting threats. By only showing parents potential problems on their children's social media, text messaging, and email accounts, Bark's approach saves parents valuable time and helps build trust between parent and child. Bark Technologies was founded in 2015 and is headquartered in Atlanta, Georgia.
+Artificial Intelligence (AI), Children, Internet, Machine Learning, Parenting, Software
+Atlanta, Georgia, United States
+Bark uses AI to detect issues like cyberbullying, suicidal ideation, and school shooting threats.
+www.bark.us/
+
+Kindred AI Logo
+Kindred AI
+2014
+101-250
+Kindred's mission is to build machines with human-like intelligence. Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, fulfilling the goal of bringing humans and intelligent machines together to solve real-world problems. Kindred has built an AI platform that integrates vision, grasping and placement to create autonomous solutions for complex commercial problems. With increased labor complexities in e-commerce fulfillment centers, Kindred developed a flagship product, SORT, to help retailers stay competitive. Kindred smart piece-picking SORT robots tackle a labor intensive part of the supply chain, which is Putwall Sortation, completing the manual task to pick and place items into separate customer orders. Kindred robots are currently in commercial use at e-commerce leaders including Gap, Inc., Carter’s and other global retailers. The Kindred SORT robots work alongside warehouse staff to quickly and accurately sort items into individual customer orders. Kindred has offices in San Francisco & Toronto.
+Artificial Intelligence (AI), Machine Learning, Robotics, Software
+San Francisco, California, United States
+Kindred AI creates intelligent robots to solve real-world problems.
+www.kindred.ai
+
+DNSFilter Logo
+DNSFilter
+Sep 27, 2015
+101-250
+DNSFilter is a developer of a cloud-based filtering DNS platform intended to facilitate intelligent web content filtering. The company's DNS service utilizes artificial intelligence to filter content and also provides security threat protection, enabling companies, service providers as well as educational institutions to protect their users from online security threats and inappropriate content.
+Artificial Intelligence (AI), Cyber Security, Network Security
+Washington, District of Columbia, United States
+DNSFilter provides security via DNS that protects over 4M end users from online security threats using artificial intelligence.
+dnsfilter.com
+
+Accern Logo
+Accern
+Aug 4, 2014
+51-100
+Accern is the leading NLP company empowering enterprises to develop industry-specific solutions. Offering a comprehensive NLP platform, models, data, and chat tailored for multiple industries, the company accelerates time-to-value for leading organizations across Financial Services, Government, and beyond. With a streamlined no-code workflow complemented by pre-built taxonomies, over 50,000 classification models, and access to billions of rows of public data, Accern is revolutionizing operational efficiency across the global workforce. Accern's remarkable achievements have earned it a notable position in Gartner®'s 2023 Hype Cycle™ for Data Science, Machine Learning, and Emerging Technologies in Banking, as well as recognition by Fast Company as one of the Next Big Things in Tech. Trusted by elite data teams from global leaders like Capgemini, UniCredit, Interactive Brokers, Mizuho Bank, and Standard Bank, Accern facilitates the building and deployment of NLP solutions at scale. Headquartered in New York, NY, Accern is honored to be recognized as a Forbes 30 Under 30 company. The company has raised $40M from esteemed institutional investors including Fusion Fund, Tribe Capital, Shasta Ventures, Allianz Strategic Ventures, Mighty Capital, and many others. For more information about Accern, please visit www.accern.com.
+Artificial Intelligence (AI), Big Data, Generative AI, InsurTech, Machine Learning, Natural Language Processing, Text Analytics
+New York, New York, United States
+Enable superhuman efficiency across the global workforce with NLP
+accern.com
+
+Defined.ai Logo
+Defined.ai
+2015
+101-250
+Defined.ai is enabling AI creators of the future, from those building their first boot-strapped models, to those fine-tuning complex AI projects. Defined.ai hosts the leading online marketplace where it's possible to buy, sell or commission off-the-shelf or custom-ordered AI data, tools and models, and offers professional services to help deliver success in complex machine learning projects. Defined.ai is a community of AI professionals working together to build fair, accessible, inclusive and ethical AI of the future.
+Artificial Intelligence (AI), Data Center, Machine Learning, Marketplace, Natural Language Processing, Software
+Seattle, Washington, United States
+Defined.ai (former DefinedCrowd) enabling AI creators of the future.
+defined.ai/
+
