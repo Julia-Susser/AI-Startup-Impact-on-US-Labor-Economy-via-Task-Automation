@@ -18,7 +18,7 @@ import re
 # 
 # genai.configure(api_key=GOOGLE_API_KEY)
 
-load_dotenv("../.env",override=True)
+load_dotenv("Users/juliasusser/desktop/startup-gov-ai-research/.env",override=True)
 GOOGLE_API_KEY = getenv("GEMINI_API_KEY")
 OPENAI_API_KEY = getenv("OPENAI_API_KEY")
 
