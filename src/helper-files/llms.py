@@ -49,9 +49,13 @@ class gemini():
             return await response.json()
 
     async def ask(self, session, prompt):
-        response = await self.request(session, prompt)
-        if response["candidates"][0]["finishReason"] == 'SAFETY': return "N/A"
-        return response["candidates"][0]["content"]["parts"][0]["text"]
+        try:
+            response = await self.request(session, prompt)
+            if response["candidates"][0]["finishReason"] == 'SAFETY': return "N/A"
+            return response["candidates"][0]["content"]["parts"][0]["text"]
+        except Exception as e:
+            raise RuntimeError(f"Error: {response}, Original exception: {str(e)}") from e
+        
 
 class chatGPT():
     def __init__(self):

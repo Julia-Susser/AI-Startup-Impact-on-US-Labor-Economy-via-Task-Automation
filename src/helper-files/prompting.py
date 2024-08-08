@@ -39,13 +39,15 @@ class prompting():
     def get(self):
         print(os.getcwd())
     async def iterate(self, df, prompt_template, args, value, batch_size=10, start=0, end=False):
+        print(batch_size,start)
         if end == False:
             end = len(df)
-        self.results_df = pd.DataFrame(columns=["organization name", value])
-        if value in list(df.columns):
-            if start != 0:
-                self.results_df = pd.concat([df[["organization name", value]].iloc[:start], self.results_df], axis=0)
-            df = df.drop(columns=[value])
+        if start == 0:
+            self.results_df = pd.DataFrame(columns=["organization name", value])
+        # if value in list(df.columns):
+        #     if start != 0:
+        #         self.results_df = pd.concat([df[["organization name", value]].iloc[:start], self.results_df], axis=0)
+        #     df = df.drop(columns=[value])
 
         batch_prompts = []
         batch_indices = []
